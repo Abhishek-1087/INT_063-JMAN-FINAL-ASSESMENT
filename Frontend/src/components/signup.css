@@ -1,0 +1,33 @@
+input[type="radio"] {
+    margin-right: 5px;
+  }
+  
+  /* Styling for the submit button */
+  .btn-primary {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Styling for the forgot password link */
+  .forgot-password {
+    margin-top: 16px;
+    font-size: 14px;
+  }
+  
+  .forgot-password a {
+    color: #007bff;
+  }
+  
+  .forgot-password a:hover {
+    color: #0056b3;
+  }

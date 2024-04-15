@@ -1,0 +1,11 @@
+.welcome-text {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    margin-right: auto;
+  }
+  
+  /* Styling for the sidebar */
+  .sidebar {
+    margin-right: auto;
+  }

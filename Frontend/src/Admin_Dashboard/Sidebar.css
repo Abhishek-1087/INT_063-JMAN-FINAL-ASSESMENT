@@ -1,0 +1,43 @@
+/* Base styles */
+.sidebar-container {
+    display: flex;
+    height: 100vh;
+    overflow: scroll initial;
+  }
+  
+  .sidebar-header-link,
+  .sidebar-footer-link {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .sidebar-content {
+    padding: 0;
+  }
+  
+  .sidebar-footer {
+    padding: 20px 5px;
+    position: absolute;
+    width: 100%;
+    bottom: 30px;
+  }
+  
+  /* Responsive styles */
+  @media screen and (max-width: 768px) {
+    .sidebar-container {
+      flex-direction: column;
+    }
+  
+    .sidebar-content {
+      flex: 1;
+      overflow-y: auto;
+    }
+  
+    .sidebar-footer {
+      position: relative;
+      width: auto;
+      margin-top: 20px;
+      text-align: center;
+    }
+  }
+  

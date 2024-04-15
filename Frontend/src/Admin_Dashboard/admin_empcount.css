@@ -1,0 +1,96 @@
+/* Default styles */
+.admin-home-container {
+  display: flex;
+  height: 100vh;
+}
+
+.auth-wrapper {
+  height: auto;
+  margin-top: 50px;
+}
+
+.auth-inner {
+  width: fit-content;
+}
+
+.search-container {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.search-icon {
+  position: absolute;
+  left: 10px;
+  top: 13px;
+  color: black;
+}
+
+.search-input {
+  padding: 8px 32px 8px 32px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.record-info {
+  position: absolute;
+  right: 10px;
+  top: 8px;
+  color: #aaa;
+}
+
+.user-table {
+  width: 700px;
+}
+
+.user-table th,
+.user-table td {
+  text-align: center;
+}
+
+.pagination {
+  margin-top: 10px;
+}
+
+.pagination button {
+  margin-right: 5px;
+}
+
+/* Responsive styles */
+@media only screen and (max-width: 768px) {
+  /* .admin-home-container {
+    flex-direction: column;
+  } */
+
+  .auth-wrapper {
+    margin-top: 0;
+  }
+
+  .search-container {
+    margin-bottom: 20px;
+  }
+
+  .search-input {
+    padding: 8px;
+  }
+
+  .user-table {
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  .pagination {
+    text-align: center;
+  }
+
+  /* Hide columns on small screens */
+  .user-table th:nth-child(2),
+  .user-table td:nth-child(2),
+  .user-table th:nth-child(3),
+  .user-table td:nth-child(3),
+  .user-table th:nth-child(5),
+  .user-table td:nth-child(5) {
+    display: none;
+  }
+}

@@ -1,0 +1,108 @@
+/* Styling for the sidebar */
+.sidebar {
+    margin-right: auto;
+  }
+  
+  /* Styling for the project table */
+  .project-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .project-box {
+    overflow-x: auto;
+  }
+  
+  .project-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .project-table th,
+  .project-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .project-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .project-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .project-table tr:hover {
+    background-color: #ddd;
+  }
+  
+  /* Styling for the pagination */
+  .pagination {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .pagination button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .pagination button:hover {
+    background-color: #45a049;
+  }
+  
+  .pagination button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }
+  
+  .pagination span {
+    margin: 0 10px;
+  }
+
+  .search-container {
+    position: relative;
+  }
+  
+  .clear-button {
+    position: absolute;
+    top: 50%;
+    right: 10px; /* Adjust the distance from the right edge as needed */
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    color: #999;
+  }
+  
+  .clear-button:hover {
+    color: #333;
+  }
+  
+  
+  /* Responsive Styles */
+  @media only screen and (max-width: 768px) {
+    .project-table th,
+    .project-table td {
+      padding: 6px;
+      font-size: 14px; /* Adjust font size for smaller screens */
+    }
+  
+    .pagination button {
+      padding: 8px 16px; /* Adjust padding for smaller screens */
+      font-size: 14px; /* Adjust font size for smaller screens */
+    }
+  }
+  
