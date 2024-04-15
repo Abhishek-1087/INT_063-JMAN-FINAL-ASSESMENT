@@ -1,0 +1,799 @@
+EMPLOYEE_ID,SKILLS,RATING
+EMP1,Flask,2
+EMP1,Python,3
+EMP1,Swift,4
+EMP1,Responsive Design,5
+EMP2,AWS,2
+EMP2,Continuous Deployment,1
+EMP2,NoSQL,5
+EMP2,React,5
+EMP3,MySQL,1
+EMP3,Scrum,3
+EMP3,Docker,3
+EMP3,C#,1
+EMP4,Kubernetes,4
+EMP4,Data Analysis,1
+EMP4,Node.js,4
+EMP4,Google Cloud Platform,3
+EMP5,Continuous Integration,1
+EMP5,DevOps,3
+EMP5,Cryptography,1
+EMP5,Artificial Intelligence,5
+EMP6,Documentation,4
+EMP6,Node.js,1
+EMP6,Collaboration,4
+EMP6,Support,2
+EMP7,Python,3
+EMP7,Agile Methodologies,4
+EMP7,Data Visualization,3
+EMP7,MongoDB,1
+EMP8,Problem Solving,4
+EMP8,Network Security,2
+EMP8,Data Visualization,5
+EMP8,Documentation,4
+EMP9,CSS,4
+EMP9,UI/UX Design,2
+EMP9,Statistical Analysis,3
+EMP9,Communication,5
+EMP10,Support,5
+EMP10,SQL,3
+EMP10,Data Visualization,3
+EMP10,Wireframing,5
+EMP11,Interaction Design,5
+EMP11,Data Science,4
+EMP11,Penetration Testing,1
+EMP11,CI/CD,1
+EMP12,SQL,1
+EMP12,Java,4
+EMP12,Wireframing,4
+EMP12,Documentation,4
+EMP13,UI/UX Design,1
+EMP13,Behavior-Driven Development,2
+EMP13,Ruby,4
+EMP13,Penetration Testing,2
+EMP14,Test-Driven Development,1
+EMP14,Docker,1
+EMP14,DevOps,3
+EMP14,Data Visualization,3
+EMP15,Responsive Design,3
+EMP15,DevOps,3
+EMP15,Azure,3
+EMP15,Business Analysis,5
+EMP16,Agile Product Management,3
+EMP16,Data Visualization,1
+EMP16,Communication,1
+EMP16,GraphQL,5
+EMP17,C#,1
+EMP17,Documentation,3
+EMP17,Continuous Integration,2
+EMP17,Statistical Analysis,2
+EMP18,Angular,5
+EMP18,Business Analysis,2
+EMP18,Cybersecurity,1
+EMP18,Behavior-Driven Development,5
+EMP19,Continuous Deployment,5
+EMP19,Leadership,5
+EMP19,Requirements Analysis,4
+EMP19,Continuous Integration,3
+EMP20,Product Management,4
+EMP20,Business Analysis,3
+EMP20,Django,3
+EMP20,CSS,3
+EMP21,Support,4
+EMP21,Information Security,2
+EMP21,MySQL,2
+EMP21,Docker,4
+EMP22,User Stories,4
+EMP22,Continuous Deployment,5
+EMP22,Collaboration,4
+EMP22,C#,1
+EMP23,Leadership,3
+EMP23,GraphQL,2
+EMP23,Swift,5
+EMP23,NoSQL,2
+EMP24,Problem Solving,2
+EMP24,Flask,3
+EMP24,SQL,2
+EMP24,C#,4
+EMP25,JavaScript,1
+EMP25,PHP,4
+EMP25,Angular,4
+EMP25,Flask,3
+EMP26,MySQL,2
+EMP26,MongoDB,2
+EMP26,Collaboration,5
+EMP26,Git,4
+EMP27,NoSQL,5
+EMP27,JavaScript,3
+EMP27,Data Analysis,2
+EMP27,MySQL,3
+EMP28,User Stories,5
+EMP28,Angular,4
+EMP28,Information Security,3
+EMP28,Test-Driven Development,4
+EMP29,User Stories,2
+EMP29,GraphQL,5
+EMP29,Data Visualization,4
+EMP29,Problem Solving,4
+EMP30,MySQL,1
+EMP30,Cryptography,4
+EMP30,Responsive Design,4
+EMP30,Product Management,2
+EMP31,Google Cloud Platform,2
+EMP31,Kubernetes,1
+EMP31,Leadership,3
+EMP31,Artificial Intelligence,3
+EMP32,Cybersecurity,5
+EMP32,DevOps,5
+EMP32,PostgreSQL,5
+EMP32,Support,2
+EMP33,JavaScript,2
+EMP33,Product Management,1
+EMP33,Continuous Integration,1
+EMP33,Data Science,1
+EMP34,GraphQL,1
+EMP34,MySQL,3
+EMP34,Requirements Analysis,1
+EMP34,.NET,4
+EMP35,Network Security,1
+EMP35,React,3
+EMP35,Test-Driven Development,3
+EMP35,Angular,3
+EMP36,GraphQL,3
+EMP36,Continuous Deployment,3
+EMP36,Network Security,3
+EMP36,Node.js,5
+EMP37,Ruby,5
+EMP37,Accessibility,1
+EMP37,Cybersecurity,4
+EMP37,Git,4
+EMP38,Flask,2
+EMP38,Responsive Design,5
+EMP38,Interaction Design,5
+EMP38,Python,4
+EMP39,Product Management,1
+EMP39,Data Analysis,2
+EMP39,AWS,3
+EMP39,C#,2
+EMP40,Business Analysis,4
+EMP40,Containerization,2
+EMP40,Angular,4
+EMP40,Communication,5
+EMP41,Continuous Deployment,2
+EMP41,Kubernetes,5
+EMP41,Flask,1
+EMP41,MySQL,1
+EMP42,Statistical Analysis,5
+EMP42,Continuous Integration,5
+EMP42,Communication,5
+EMP42,Flask,3
+EMP43,Wireframing,4
+EMP43,Data Analysis,1
+EMP43,Communication,5
+EMP43,Business Analysis,4
+EMP44,Machine Learning,5
+EMP44,PHP,4
+EMP44,Kotlin,3
+EMP44,React,2
+EMP45,Penetration Testing,5
+EMP45,Prototyping,2
+EMP45,Machine Learning,2
+EMP45,Cybersecurity,1
+EMP46,CSS,2
+EMP46,Continuous Deployment,2
+EMP46,Node.js,5
+EMP46,GraphQL,4
+EMP47,Kotlin,1
+EMP47,Collaboration,4
+EMP47,Scrum,5
+EMP47,.NET,1
+EMP48,Wireframing,5
+EMP48,Problem Solving,4
+EMP48,Accessibility,5
+EMP48,CI/CD,5
+EMP49,Communication,2
+EMP49,Penetration Testing,2
+EMP49,Accessibility,4
+EMP49,Containerization,5
+EMP50,Python,1
+EMP50,Git,4
+EMP50,Cybersecurity,2
+EMP50,Machine Learning,1
+EMP51,Azure,3
+EMP51,Documentation,5
+EMP51,Java,4
+EMP51,Interaction Design,5
+EMP52,Google Cloud Platform,4
+EMP52,Technical Writing,5
+EMP52,Java,5
+EMP52,UI/UX Design,2
+EMP53,Ruby,4
+EMP53,JavaScript,3
+EMP53,Machine Learning,2
+EMP53,CI/CD,2
+EMP54,Cryptography,2
+EMP54,Machine Learning,3
+EMP54,Objective-C,4
+EMP54,Communication,2
+EMP55,Swift,5
+EMP55,Objective-C,4
+EMP55,Business Analysis,4
+EMP55,Flask,2
+EMP56,Google Cloud Platform,5
+EMP56,SQL,4
+EMP56,Agile Product Management,1
+EMP56,Communication,5
+EMP57,Statistical Analysis,4
+EMP57,MongoDB,3
+EMP57,Support,4
+EMP57,Git,3
+EMP58,UI/UX Design,4
+EMP58,CSS,4
+EMP58,Support,5
+EMP58,Machine Learning,1
+EMP59,Data Visualization,1
+EMP59,UI/UX Design,4
+EMP59,Kubernetes,1
+EMP59,Information Security,1
+EMP60,Kotlin,3
+EMP60,Machine Learning,2
+EMP60,Swift,2
+EMP60,Test-Driven Development,2
+EMP61,User Stories,2
+EMP61,Requirements Analysis,1
+EMP61,Angular,3
+EMP61,Vue.js,4
+EMP62,Data Science,4
+EMP62,Product Management,2
+EMP62,Interaction Design,1
+EMP62,Test-Driven Development,3
+EMP63,Wireframing,5
+EMP63,SQL,5
+EMP63,Cybersecurity,4
+EMP63,Business Analysis,5
+EMP64,Behavior-Driven Development,3
+EMP64,Python,4
+EMP64,Cybersecurity,4
+EMP64,RESTful API,4
+EMP65,Problem Solving,5
+EMP65,Cryptography,5
+EMP65,NoSQL,2
+EMP65,Google Cloud Platform,4
+EMP66,NoSQL,1
+EMP66,Flask,2
+EMP66,Wireframing,3
+EMP66,Machine Learning,5
+EMP67,Continuous Deployment,3
+EMP67,Angular,4
+EMP67,Information Security,4
+EMP67,Documentation,4
+EMP68,Interaction Design,5
+EMP68,Wireframing,2
+EMP68,Git,4
+EMP68,Network Security,2
+EMP69,Java,5
+EMP69,.NET,1
+EMP69,Prototyping,2
+EMP69,Objective-C,3
+EMP70,Behavior-Driven Development,2
+EMP70,Git,5
+EMP70,Docker,4
+EMP70,Microservices,4
+EMP71,CSS,4
+EMP71,Responsive Design,1
+EMP71,Artificial Intelligence,3
+EMP71,Agile Methodologies,4
+EMP72,User Stories,2
+EMP72,Technical Writing,2
+EMP72,DevOps,5
+EMP72,Google Cloud Platform,3
+EMP73,JavaScript,5
+EMP73,Continuous Deployment,3
+EMP73,Objective-C,3
+EMP73,Data Visualization,4
+EMP74,Interaction Design,5
+EMP74,React,4
+EMP74,SQL,4
+EMP74,PHP,5
+EMP75,Flask,4
+EMP75,Network Security,1
+EMP75,Data Visualization,2
+EMP75,Prototyping,2
+EMP76,Data Visualization,3
+EMP76,CI/CD,5
+EMP76,Google Cloud Platform,5
+EMP76,Technical Writing,4
+EMP77,Artificial Intelligence,4
+EMP77,Continuous Deployment,1
+EMP77,UI/UX Design,3
+EMP77,Behavior-Driven Development,4
+EMP78,JavaScript,1
+EMP78,Troubleshooting,5
+EMP78,Network Security,5
+EMP78,Django,1
+EMP79,Google Cloud Platform,3
+EMP79,JavaScript,1
+EMP79,Documentation,3
+EMP79,Leadership,1
+EMP80,PHP,1
+EMP80,Vue.js,3
+EMP80,Cybersecurity,5
+EMP80,UI/UX Design,5
+EMP81,Flask,2
+EMP81,Node.js,3
+EMP81,Swift,3
+EMP81,Data Science,2
+EMP82,MongoDB,4
+EMP82,Docker,1
+EMP82,Statistical Analysis,3
+EMP82,Test-Driven Development,5
+EMP83,Swift,2
+EMP83,Requirements Analysis,3
+EMP83,Cybersecurity,4
+EMP83,Angular,4
+EMP84,Business Analysis,5
+EMP84,Network Security,5
+EMP84,Agile Product Management,1
+EMP84,PHP,1
+EMP85,Agile Methodologies,4
+EMP85,Product Management,5
+EMP85,Scrum,2
+EMP85,Accessibility,5
+EMP86,Cybersecurity,5
+EMP86,AWS,1
+EMP86,Kotlin,2
+EMP86,Communication,1
+EMP87,Statistical Analysis,5
+EMP87,Data Science,1
+EMP87,DevOps,3
+EMP87,Requirements Analysis,3
+EMP88,Microservices,1
+EMP88,C#,5
+EMP88,Agile Product Management,4
+EMP88,AWS,5
+EMP89,Ruby,3
+EMP89,Test-Driven Development,3
+EMP89,Support,2
+EMP89,Prototyping,3
+EMP90,Python,1
+EMP90,Documentation,3
+EMP90,Technical Writing,2
+EMP90,.NET,2
+EMP91,Continuous Integration,3
+EMP91,Ruby,2
+EMP91,Accessibility,1
+EMP91,Git,2
+EMP92,Swift,2
+EMP92,Kubernetes,4
+EMP92,Communication,1
+EMP92,Data Analysis,4
+EMP93,Flask,1
+EMP93,Containerization,3
+EMP93,Node.js,1
+EMP93,Python,5
+EMP94,Kubernetes,1
+EMP94,Communication,1
+EMP94,Scrum,4
+EMP94,Vue.js,5
+EMP95,Technical Writing,2
+EMP95,Ruby,5
+EMP95,Objective-C,2
+EMP95,Java,2
+EMP96,Product Management,5
+EMP96,CSS,5
+EMP96,PostgreSQL,2
+EMP96,Cryptography,5
+EMP97,Documentation,2
+EMP97,JavaScript,1
+EMP97,.NET,4
+EMP97,Requirements Analysis,1
+EMP98,Product Management,1
+EMP98,Leadership,2
+EMP98,Artificial Intelligence,5
+EMP98,Data Visualization,1
+EMP99,Node.js,3
+EMP99,Prototyping,1
+EMP99,Requirements Analysis,3
+EMP99,Containerization,4
+EMP100,Azure,2
+EMP100,Vue.js,4
+EMP100,HTML,5
+EMP100,Penetration Testing,3
+EMP101,Statistical Analysis,4
+EMP101,Azure,2
+EMP101,Agile Methodologies,4
+EMP101,Swift,4
+EMP102,Agile Methodologies,1
+EMP102,HTML,4
+EMP102,SQL,1
+EMP102,Product Management,1
+EMP103,PHP,5
+EMP103,SQL,3
+EMP103,Python,1
+EMP103,AWS,3
+EMP104,Cybersecurity,2
+EMP104,Continuous Deployment,2
+EMP104,SQL,3
+EMP104,RESTful API,2
+EMP105,MySQL,1
+EMP105,Ruby,3
+EMP105,Statistical Analysis,5
+EMP105,Communication,1
+EMP106,Containerization,3
+EMP106,HTML,1
+EMP106,Accessibility,3
+EMP106,Agile Product Management,5
+EMP107,Responsive Design,1
+EMP107,Test-Driven Development,2
+EMP107,RESTful API,4
+EMP107,Technical Writing,4
+EMP108,Containerization,5
+EMP108,Requirements Analysis,1
+EMP108,User Stories,1
+EMP108,PostgreSQL,2
+EMP109,Leadership,5
+EMP109,RESTful API,1
+EMP109,Communication,2
+EMP109,Behavior-Driven Development,2
+EMP110,C#,5
+EMP110,Behavior-Driven Development,2
+EMP110,Azure,2
+EMP110,Django,5
+EMP111,MySQL,1
+EMP111,Python,5
+EMP111,Containerization,5
+EMP111,PostgreSQL,2
+EMP112,Agile Product Management,5
+EMP112,Vue.js,1
+EMP112,JavaScript,3
+EMP112,Artificial Intelligence,3
+EMP113,Agile Methodologies,3
+EMP113,Wireframing,3
+EMP113,Cybersecurity,4
+EMP113,React,2
+EMP114,JavaScript,4
+EMP114,Kotlin,2
+EMP114,Information Security,3
+EMP114,Scrum,4
+EMP115,JavaScript,3
+EMP115,Git,1
+EMP115,Communication,5
+EMP115,NoSQL,2
+EMP116,Documentation,3
+EMP116,Responsive Design,1
+EMP116,React,5
+EMP116,Cryptography,2
+EMP117,Java,4
+EMP117,Technical Writing,2
+EMP117,Containerization,1
+EMP117,Python,2
+EMP118,Kubernetes,2
+EMP118,Kotlin,4
+EMP118,Scrum,4
+EMP118,Test-Driven Development,1
+EMP119,Angular,3
+EMP119,Objective-C,4
+EMP119,Data Analysis,1
+EMP119,Flask,2
+EMP120,Docker,1
+EMP120,JavaScript,3
+EMP120,Interaction Design,5
+EMP120,Agile Methodologies,4
+EMP121,Leadership,1
+EMP121,Interaction Design,4
+EMP121,Problem Solving,5
+EMP121,C#,1
+EMP122,.NET,4
+EMP122,MongoDB,1
+EMP122,Responsive Design,1
+EMP122,Agile Methodologies,5
+EMP123,SQL,4
+EMP123,PostgreSQL,4
+EMP123,Django,2
+EMP123,Kubernetes,1
+EMP124,Docker,5
+EMP124,Objective-C,3
+EMP124,Continuous Deployment,2
+EMP124,DevOps,4
+EMP125,Agile Methodologies,3
+EMP125,Collaboration,4
+EMP125,Machine Learning,2
+EMP125,Troubleshooting,2
+EMP126,CSS,4
+EMP126,Microservices,4
+EMP126,Collaboration,2
+EMP126,React,3
+EMP127,Azure,4
+EMP127,HTML,2
+EMP127,Django,3
+EMP127,C#,5
+EMP128,Objective-C,2
+EMP128,Data Analysis,3
+EMP128,Agile Methodologies,3
+EMP128,Problem Solving,3
+EMP129,Docker,5
+EMP129,Microservices,4
+EMP129,Vue.js,2
+EMP129,Data Visualization,3
+EMP130,Business Analysis,2
+EMP130,Wireframing,1
+EMP130,Azure,2
+EMP130,Kotlin,2
+EMP131,CSS,4
+EMP131,Agile Product Management,5
+EMP131,Continuous Deployment,3
+EMP131,Ruby,3
+EMP132,PostgreSQL,3
+EMP132,Swift,2
+EMP132,DevOps,1
+EMP132,Responsive Design,1
+EMP133,Responsive Design,2
+EMP133,Requirements Analysis,1
+EMP133,Business Analysis,5
+EMP133,Continuous Integration,5
+EMP134,Flask,4
+EMP134,JavaScript,3
+EMP134,AWS,2
+EMP134,Interaction Design,5
+EMP135,Agile Product Management,5
+EMP135,Behavior-Driven Development,3
+EMP135,Django,2
+EMP135,Flask,3
+EMP136,Containerization,3
+EMP136,Java,2
+EMP136,Kubernetes,2
+EMP136,Python,1
+EMP137,Git,1
+EMP137,Product Management,5
+EMP137,User Research,1
+EMP137,Continuous Deployment,2
+EMP138,Agile Product Management,2
+EMP138,Python,3
+EMP138,Git,3
+EMP138,Continuous Integration,1
+EMP139,Azure,2
+EMP139,Django,5
+EMP139,Problem Solving,4
+EMP139,Test-Driven Development,5
+EMP140,Information Security,1
+EMP140,C#,1
+EMP140,Communication,2
+EMP140,GraphQL,2
+EMP141,Product Management,4
+EMP141,Troubleshooting,2
+EMP141,Data Science,5
+EMP141,Continuous Integration,5
+EMP142,Business Analysis,3
+EMP142,Information Security,3
+EMP142,Continuous Deployment,2
+EMP142,DevOps,5
+EMP143,Microservices,3
+EMP143,Azure,5
+EMP143,CI/CD,4
+EMP143,MongoDB,3
+EMP144,Statistical Analysis,1
+EMP144,UI/UX Design,5
+EMP144,Accessibility,5
+EMP144,Django,3
+EMP145,MySQL,5
+EMP145,Prototyping,3
+EMP145,Interaction Design,1
+EMP145,Accessibility,3
+EMP146,NoSQL,2
+EMP146,Network Security,3
+EMP146,Behavior-Driven Development,3
+EMP146,Problem Solving,5
+EMP147,User Stories,3
+EMP147,DevOps,3
+EMP147,Business Analysis,4
+EMP147,Ruby,1
+EMP148,HTML,4
+EMP148,Microservices,3
+EMP148,Interaction Design,1
+EMP148,CI/CD,1
+EMP149,React,4
+EMP149,Statistical Analysis,2
+EMP149,Ruby,1
+EMP149,Artificial Intelligence,5
+EMP150,Kotlin,5
+EMP150,Documentation,5
+EMP150,Django,3
+EMP150,RESTful API,1
+EMP151,Java,3
+EMP151,Data Visualization,3
+EMP151,CSS,1
+EMP151,NoSQL,3
+EMP152,PHP,5
+EMP152,Node.js,5
+EMP152,JavaScript,5
+EMP152,Machine Learning,5
+EMP153,Continuous Deployment,4
+EMP153,Flask,4
+EMP153,Objective-C,1
+EMP153,Artificial Intelligence,3
+EMP154,Ruby,4
+EMP154,Information Security,1
+EMP154,Git,2
+EMP154,GraphQL,4
+EMP155,Machine Learning,4
+EMP155,Scrum,4
+EMP155,Objective-C,4
+EMP155,Docker,1
+EMP156,Ruby,3
+EMP156,Cryptography,2
+EMP156,MongoDB,5
+EMP156,User Research,5
+EMP157,Troubleshooting,4
+EMP157,RESTful API,1
+EMP157,Artificial Intelligence,2
+EMP157,Technical Writing,1
+EMP158,JavaScript,2
+EMP158,Vue.js,1
+EMP158,DevOps,1
+EMP158,Penetration Testing,1
+EMP159,Java,2
+EMP159,Data Science,2
+EMP159,CSS,2
+EMP159,MySQL,3
+EMP160,Agile Methodologies,5
+EMP160,User Research,2
+EMP160,Wireframing,5
+EMP160,Collaboration,1
+EMP161,Prototyping,1
+EMP161,C#,4
+EMP161,Ruby,2
+EMP161,Google Cloud Platform,2
+EMP162,Docker,3
+EMP162,Wireframing,2
+EMP162,DevOps,1
+EMP162,Product Management,5
+EMP163,PHP,3
+EMP163,SQL,1
+EMP163,JavaScript,3
+EMP163,PostgreSQL,2
+EMP164,CI/CD,4
+EMP164,RESTful API,1
+EMP164,CSS,3
+EMP164,Problem Solving,4
+EMP165,Network Security,3
+EMP165,React,5
+EMP165,Ruby,4
+EMP165,Technical Writing,1
+EMP166,Cryptography,1
+EMP166,Google Cloud Platform,5
+EMP166,Kotlin,3
+EMP166,C#,3
+EMP167,.NET,5
+EMP167,Information Security,3
+EMP167,Documentation,2
+EMP167,PHP,2
+EMP168,Java,3
+EMP168,Vue.js,5
+EMP168,CI/CD,5
+EMP168,DevOps,3
+EMP169,Ruby,4
+EMP169,Communication,1
+EMP169,Prototyping,5
+EMP169,DevOps,2
+EMP170,Test-Driven Development,5
+EMP170,Node.js,4
+EMP170,Data Science,2
+EMP170,Kotlin,5
+EMP171,Statistical Analysis,4
+EMP171,Requirements Analysis,4
+EMP171,Communication,1
+EMP171,Flask,5
+EMP172,Statistical Analysis,1
+EMP172,HTML,5
+EMP172,NoSQL,5
+EMP172,Problem Solving,3
+EMP173,Collaboration,5
+EMP173,Continuous Deployment,2
+EMP173,User Stories,5
+EMP173,Behavior-Driven Development,5
+EMP174,Product Management,4
+EMP174,Scrum,3
+EMP174,Django,3
+EMP174,Angular,5
+EMP175,RESTful API,1
+EMP175,Ruby,4
+EMP175,Azure,1
+EMP175,Swift,1
+EMP176,Test-Driven Development,1
+EMP176,User Research,1
+EMP176,Swift,1
+EMP176,Data Analysis,4
+EMP177,Penetration Testing,5
+EMP177,CSS,5
+EMP177,Requirements Analysis,2
+EMP177,Scrum,3
+EMP178,PHP,1
+EMP178,Test-Driven Development,2
+EMP178,Interaction Design,5
+EMP178,React,2
+EMP179,Network Security,1
+EMP179,Continuous Deployment,1
+EMP179,Leadership,4
+EMP179,Product Management,1
+EMP180,Flask,5
+EMP180,Problem Solving,1
+EMP180,React,1
+EMP180,DevOps,2
+EMP181,Product Management,5
+EMP181,Accessibility,4
+EMP181,Data Analysis,5
+EMP181,Scrum,2
+EMP182,User Stories,2
+EMP182,Communication,3
+EMP182,Business Analysis,4
+EMP182,Cryptography,4
+EMP183,Containerization,3
+EMP183,HTML,1
+EMP183,Agile Methodologies,3
+EMP183,Data Analysis,2
+EMP184,Azure,3
+EMP184,NoSQL,1
+EMP184,C#,2
+EMP184,Agile Methodologies,3
+EMP185,CI/CD,4
+EMP185,JavaScript,5
+EMP185,Node.js,5
+EMP185,Vue.js,4
+EMP186,Responsive Design,1
+EMP186,Kotlin,5
+EMP186,UI/UX Design,2
+EMP186,Network Security,5
+EMP187,Ruby,3
+EMP187,Accessibility,2
+EMP187,Containerization,1
+EMP187,Python,3
+EMP188,Azure,3
+EMP188,Kubernetes,2
+EMP188,Swift,5
+EMP188,Data Analysis,4
+EMP189,Microservices,1
+EMP189,Node.js,5
+EMP189,Wireframing,4
+EMP189,Continuous Deployment,1
+EMP190,Containerization,4
+EMP190,MongoDB,1
+EMP190,Interaction Design,2
+EMP190,Collaboration,1
+EMP191,NoSQL,2
+EMP191,Google Cloud Platform,1
+EMP191,Java,2
+EMP191,Scrum,2
+EMP192,Information Security,3
+EMP192,C#,1
+EMP192,MongoDB,2
+EMP192,SQL,2
+EMP193,Data Visualization,1
+EMP193,Network Security,5
+EMP193,HTML,2
+EMP193,Behavior-Driven Development,3
+EMP194,Scrum,2
+EMP194,SQL,3
+EMP194,Behavior-Driven Development,4
+EMP194,Cryptography,4
+EMP195,Artificial Intelligence,2
+EMP195,Responsive Design,3
+EMP195,Continuous Deployment,4
+EMP195,Django,2
+EMP196,Angular,5
+EMP196,C#,1
+EMP196,Penetration Testing,1
+EMP196,Git,1
+EMP197,Statistical Analysis,3
+EMP197,Problem Solving,5
+EMP197,Communication,4
+EMP197,Business Analysis,3
+EMP198,Statistical Analysis,5
+EMP198,Scrum,3
+EMP198,Requirements Analysis,3
+EMP198,NoSQL,4
+EMP199,User Stories,5
+EMP199,C#,4
+EMP199,Agile Methodologies,3
+EMP199,Requirements Analysis,1
+emp_01,Git,4
+emp_01,Docker,4

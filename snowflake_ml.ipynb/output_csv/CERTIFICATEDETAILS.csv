@@ -1,0 +1,800 @@
+_ID,EMPID,CERTIFICATENAME,ISSUINGORGANIZATION,ISSUEDATE,EXPIREDATE,CREDENTIALID,STATUS,__V
+6613be2c3a055b1dbdeabc5e,EMP1,Flask,Parker Inc,01-04-1995,23-04-2024,98c6c2ab-5d6b-4d3d-8092-c80c0e16da80,Pending,nan
+6613be2c3a055b1dbdeabc5f,EMP1,Python,Davis Group,13-09-1984,07-05-2024,21bba819-c589-495f-8bfd-8922d9e8c62b,Rejected,nan
+6613be2c3a055b1dbdeabc60,EMP1,Swift,"Willis, Morris and Brown",20-09-1980,07-05-2024,d98a8e7d-8f65-4a99-9594-370b2ded6e6e,Approved,nan
+6613be2c3a055b1dbdeabc61,EMP1,Responsive Design,"Moses, Anderson and Weber",21-09-2010,30-04-2024,7a0726a5-41ec-4967-b042-0397b6b282a9,Rejected,nan
+6613be2c3a055b1dbdeabc62,EMP2,AWS,"Higgins, Patel and Rivera",29-01-1979,22-04-2024,ee3cbee8-8672-4708-97c1-efdd53ba641d,Approved,nan
+6613be2c3a055b1dbdeabc63,EMP2,Continuous Deployment,"Williams, Wood and Doyle",17-08-2004,02-05-2024,18f59fd3-82da-4eb1-9526-c0e1995f7d50,Approved,nan
+6613be2c3a055b1dbdeabc64,EMP2,NoSQL,Anderson-Frye,20-10-2006,07-05-2024,2d77f8bf-48c8-4fb3-862e-ea023175502c,Approved,nan
+6613be2c3a055b1dbdeabc65,EMP2,React,Acosta-Navarro,27-05-1996,26-04-2024,9f560f35-c03f-47c8-85db-24266025b24b,Approved,nan
+6613be2c3a055b1dbdeabc66,EMP3,MySQL,Thompson and Sons,25-12-2021,11-04-2024,fd9c850f-b39d-40c0-ba3c-5e5022c623c8,Approved,nan
+6613be2c3a055b1dbdeabc67,EMP3,Scrum,Richardson Group,15-03-2007,15-04-2024,b9a9d495-29c2-4100-82e7-562c84b351c1,Rejected,nan
+6613be2c3a055b1dbdeabc68,EMP3,Docker,Hill-Smith,08-06-1983,25-04-2024,9e3cb42a-7e74-4473-93f1-fe7a4ad80aca,Rejected,nan
+6613be2c3a055b1dbdeabc69,EMP3,C#,"Coffey, Fuller and Palmer",13-02-2003,10-04-2024,e832ed8b-498e-4805-8f58-cded5cbee2de,Rejected,nan
+6613be2c3a055b1dbdeabc6a,EMP4,Kubernetes,"Marshall, Glass and Foster",31-10-1993,29-04-2024,15058c02-b48e-42b7-804a-ede5a5598727,Rejected,nan
+6613be2c3a055b1dbdeabc6b,EMP4,Data Analysis,Williams and Sons,20-08-1979,07-05-2024,3c26a717-c824-4693-bcd4-7d0a9f7b4300,Rejected,nan
+6613be2c3a055b1dbdeabc6c,EMP4,Node.js,Gardner PLC,11-04-2007,23-04-2024,40ac4fd9-f637-4a17-9322-d163bc9680a0,Rejected,nan
+6613be2c3a055b1dbdeabc6d,EMP4,Google Cloud Platform,Contreras-Newton,07-07-1997,19-04-2024,bfadf1cc-8ab7-4705-8939-942ff5e3ea54,Approved,nan
+6613be2c3a055b1dbdeabc6e,EMP5,Continuous Integration,Williams-Hendricks,29-04-2019,03-05-2024,5615d93a-390a-495e-aa86-9069a615e8c9,Rejected,nan
+6613be2c3a055b1dbdeabc6f,EMP5,DevOps,Mclean Ltd,26-08-1979,21-04-2024,5e841ebd-3181-4bd5-8c24-9ee212fb8937,Approved,nan
+6613be2c3a055b1dbdeabc70,EMP5,Cryptography,"Singleton, Cole and Watts",13-04-2022,02-05-2024,5c3bd2db-7431-45c1-b73c-597632a12b8d,Rejected,nan
+6613be2c3a055b1dbdeabc71,EMP5,Artificial Intelligence,"Huber, Ayers and Stein",13-11-2001,26-04-2024,ae3f195b-158d-49ad-ba02-8d57e6d5d598,Rejected,nan
+6613be2c3a055b1dbdeabc72,EMP6,Documentation,Ford-Vega,23-11-1979,10-04-2024,5f69c901-d55f-424c-8774-f4ddb69a8bb1,Rejected,nan
+6613be2c3a055b1dbdeabc73,EMP6,Node.js,"Zamora, Fisher and Harris",26-03-1973,13-04-2024,a5b45f62-922a-4a78-b08a-65d3ba788224,Rejected,nan
+6613be2c3a055b1dbdeabc74,EMP6,Collaboration,Peterson Ltd,26-05-2018,09-04-2024,8cd061d5-f887-48fd-80b9-8579ae0a819e,Rejected,nan
+6613be2c3a055b1dbdeabc75,EMP6,Support,White Inc,26-06-1984,02-05-2024,8b1d27ac-ba0a-44c2-a044-8a135f239a5e,Rejected,nan
+6613be2c3a055b1dbdeabc76,EMP7,Python,Wang-Lambert,02-01-2015,21-04-2024,2108538c-64f7-4c14-9f51-f9b87df19f4b,Rejected,nan
+6613be2c3a055b1dbdeabc77,EMP7,Agile Methodologies,"Barber, Lewis and Padilla",05-01-1972,26-04-2024,07c4869b-5cfd-47a1-8320-9fb11657d3b9,Rejected,nan
+6613be2c3a055b1dbdeabc78,EMP7,Data Visualization,Jenkins Group,03-02-2013,19-04-2024,1d2b3255-aae9-4469-bf90-9f05db93b34d,Rejected,nan
+6613be2c3a055b1dbdeabc79,EMP7,MongoDB,Gates Ltd,12-07-1992,12-04-2024,1ffacea0-cd33-4522-a634-f0a9219ac741,Approved,nan
+6613be2c3a055b1dbdeabc7a,EMP8,Problem Solving,Davis Group,01-04-2018,11-04-2024,5fc9cc9a-9120-4324-b002-49947f03e270,Approved,nan
+6613be2c3a055b1dbdeabc7b,EMP8,Network Security,"Matthews, Carter and Johnson",06-08-2002,15-04-2024,9f772273-642f-4108-a7ae-bbea74c4ee5e,Rejected,nan
+6613be2c3a055b1dbdeabc7c,EMP8,Data Visualization,Mitchell and Sons,06-08-2019,21-04-2024,a198cfb3-0f16-4e9e-9509-03caa6f8395e,Approved,nan
+6613be2c3a055b1dbdeabc7d,EMP8,Documentation,Vega-Hall,06-09-2012,26-04-2024,759ee707-0a3a-48ff-aa56-d3e424352aa3,Approved,nan
+6613be2c3a055b1dbdeabc7e,EMP9,CSS,Hall Ltd,31-05-2017,17-04-2024,51698ebe-dc8b-4a61-8803-5462aff7008c,Rejected,nan
+6613be2c3a055b1dbdeabc7f,EMP9,UI/UX Design,Pacheco Inc,14-10-1973,14-04-2024,08795b36-0f5f-4ef5-bc2e-7b737cee9795,Approved,nan
+6613be2c3a055b1dbdeabc80,EMP9,Statistical Analysis,"Mays, Santos and Carpenter",01-08-1990,28-04-2024,1ba231b6-ffd7-4065-896c-4008b8d168f8,Approved,nan
+6613be2c3a055b1dbdeabc81,EMP9,Communication,Hall Ltd,29-11-2004,12-04-2024,0fa851ff-7fa0-45a3-9b08-729c27a02921,Approved,nan
+6613be2c3a055b1dbdeabc82,EMP10,Support,Hess-Jones,08-09-2021,06-05-2024,0def6a3d-2caa-4c05-abae-e4d395a19c70,Rejected,nan
+6613be2c3a055b1dbdeabc83,EMP10,SQL,Mckay-Ray,28-08-1979,02-05-2024,16451a83-d32b-4a09-a8e1-71deced8ed13,Approved,nan
+6613be2c3a055b1dbdeabc84,EMP10,Data Visualization,"Johnson, Lamb and Paul",09-08-1990,26-04-2024,60210aac-c1d5-48ce-8450-b0da42edf403,Rejected,nan
+6613be2c3a055b1dbdeabc85,EMP10,Wireframing,Lopez-Schmidt,24-06-1998,06-05-2024,2e4bcf0e-42a7-4aa7-8a04-f697bbe8329f,Rejected,nan
+6613be2c3a055b1dbdeabc86,EMP11,Interaction Design,"Scott, Flores and Terrell",17-04-1989,02-05-2024,1b42c44f-3034-437b-bd0a-6ae0e50a28be,Approved,nan
+6613be2c3a055b1dbdeabc87,EMP11,Data Science,"Mcdonald, Wood and Murray",11-09-1999,03-05-2024,72018049-c015-4f58-875f-7c1ef5533a3b,Approved,nan
+6613be2c3a055b1dbdeabc88,EMP11,Penetration Testing,Horne-Wright,10-07-2007,19-04-2024,6f634c51-3a40-40cc-bc1f-9e064bf0e782,Rejected,nan
+6613be2c3a055b1dbdeabc89,EMP11,CI/CD,"Miller, Leach and Mcclain",31-08-1990,10-04-2024,5902ec4c-bf4a-4c0d-aad3-2a127f27b62d,Rejected,nan
+6613be2c3a055b1dbdeabc8a,EMP12,SQL,Maddox-Parker,03-06-1988,24-04-2024,bc7d6566-fcfe-4489-bf26-2fd910f90829,Approved,nan
+6613be2c3a055b1dbdeabc8b,EMP12,Java,Rodriguez Inc,06-12-1979,17-04-2024,b9faf8be-c30d-49cf-92c8-acdac4d8a578,Approved,nan
+6613be2c3a055b1dbdeabc8c,EMP12,Wireframing,"Clements, Diaz and Reynolds",26-12-1971,24-04-2024,34564958-2208-4e05-bedd-1752f5240731,Approved,nan
+6613be2c3a055b1dbdeabc8d,EMP12,Documentation,"Hicks, Esparza and Young",09-12-2014,10-04-2024,d3ace8df-750d-4932-b9f4-e70c2f70c351,Approved,nan
+6613be2c3a055b1dbdeabc8e,EMP13,UI/UX Design,"Wolf, Contreras and Nielsen",21-12-1995,23-04-2024,3d58b233-d641-4bae-bdd4-66b5434a3a8c,Rejected,nan
+6613be2c3a055b1dbdeabc8f,EMP13,Behavior-Driven Development,Baird Group,20-10-1999,18-04-2024,ada591f7-f92f-4f07-8921-333621f6cad7,Approved,nan
+6613be2c3a055b1dbdeabc90,EMP13,Ruby,Bailey-Banks,09-11-2016,25-04-2024,ed29a901-466d-4aaf-abcb-d658a4d8a1d8,Approved,nan
+6613be2c3a055b1dbdeabc91,EMP13,Penetration Testing,"Schneider, Johnson and Lowe",20-05-2010,06-05-2024,23b94f41-38d3-4ab8-932b-eaeabee1f916,Rejected,nan
+6613be2c3a055b1dbdeabc92,EMP14,Test-Driven Development,Scott LLC,29-09-1980,28-04-2024,a6b83cd1-a8f1-48de-818d-010802920661,Approved,nan
+6613be2c3a055b1dbdeabc93,EMP14,Docker,"Johnson, Campbell and Gonzalez",24-09-1990,16-04-2024,528ed6f7-ce97-467b-878a-8d4128d2c238,Approved,nan
+6613be2c3a055b1dbdeabc94,EMP14,DevOps,Robinson-Cook,10-08-1972,28-04-2024,96504ada-a199-4e2d-a533-070c5ce559c2,Approved,nan
+6613be2c3a055b1dbdeabc95,EMP14,Data Visualization,Graham-Jefferson,14-03-2005,30-04-2024,95f37aa9-6e99-4743-bc49-6625866e6b06,Rejected,nan
+6613be2c3a055b1dbdeabc96,EMP15,Responsive Design,Perkins Ltd,07-06-2023,04-05-2024,a2a3f5b8-ed43-41fb-a8a8-fac410b877be,Rejected,nan
+6613be2c3a055b1dbdeabc97,EMP15,DevOps,Duncan LLC,28-06-1974,01-05-2024,8fe64f17-709f-440f-9ca5-84b3f670cfbb,Approved,nan
+6613be2c3a055b1dbdeabc98,EMP15,Azure,Stewart-Forbes,05-06-1986,04-05-2024,44d5a7dd-6e43-4b79-b24c-c1aeac46408c,Approved,nan
+6613be2c3a055b1dbdeabc99,EMP15,Business Analysis,"Burns, Gilbert and Johnson",11-11-2009,21-04-2024,21ec18db-7040-4e33-934d-06058b547e40,Rejected,nan
+6613be2c3a055b1dbdeabc9a,EMP16,Agile Product Management,"Bush, Greer and Mason",06-05-2005,27-04-2024,7096d371-ef29-48f0-b9c5-e89d74eb0959,Approved,nan
+6613be2c3a055b1dbdeabc9b,EMP16,Data Visualization,"Reyes, Duran and Moore",14-07-1989,05-05-2024,46d7ca8e-f967-4039-818c-12dec44b9296,Approved,nan
+6613be2c3a055b1dbdeabc9c,EMP16,Communication,"Munoz, Rivera and Murphy",03-05-2001,04-05-2024,d8f8addb-036b-40ea-98ca-be4f937b8806,Approved,nan
+6613be2c3a055b1dbdeabc9d,EMP16,GraphQL,Brown LLC,19-04-2011,07-05-2024,a7c6761d-ec6b-4644-a8a9-1fee8f9f6336,Rejected,nan
+6613be2c3a055b1dbdeabc9e,EMP17,C#,"Moses, Hopkins and Ramirez",24-01-1999,09-04-2024,ddc7c8d2-860f-4b5c-9bca-46c743b796f0,Approved,nan
+6613be2c3a055b1dbdeabc9f,EMP17,Documentation,Bradford-Smith,20-09-2000,11-04-2024,7223ffe5-5be7-451e-bccc-71a4a5d9fe02,Approved,nan
+6613be2c3a055b1dbdeabca0,EMP17,Continuous Integration,"Miller, Green and Meyer",26-11-2017,24-04-2024,7d20b9ee-242f-4ebe-bd53-044f22ed9332,Rejected,nan
+6613be2c3a055b1dbdeabca1,EMP17,Statistical Analysis,"Perez, Rojas and Hernandez",13-06-2006,25-04-2024,90f99f7f-56f5-4819-a8a3-eb866350db11,Rejected,nan
+6613be2c3a055b1dbdeabca2,EMP18,Angular,"Koch, Perez and Marsh",10-04-2000,10-04-2024,afc732bd-b96f-47d7-a40d-7f40d00c6d63,Rejected,nan
+6613be2c3a055b1dbdeabca3,EMP18,Business Analysis,Hale-Johnson,05-01-1993,28-04-2024,24c5f929-20bc-4630-8f64-6bca4e9d3d19,Rejected,nan
+6613be2c3a055b1dbdeabca4,EMP18,Cybersecurity,"Mathews, Hall and Friedman",30-09-1973,04-05-2024,7137a1dc-8530-40fc-8fe1-05bf079ee78d,Rejected,nan
+6613be2c3a055b1dbdeabca5,EMP18,Behavior-Driven Development,Cortez Group,18-01-2004,17-04-2024,aaba9126-1088-4fcb-8075-7a09404ebe91,Approved,nan
+6613be2c3a055b1dbdeabca6,EMP19,Continuous Deployment,"Preston, Wolf and Murphy",02-02-2010,03-05-2024,c5875683-3d8d-41ae-ba00-9d0efaace54f,Rejected,nan
+6613be2c3a055b1dbdeabca7,EMP19,Leadership,"Walker, Rice and Craig",19-01-2004,03-05-2024,0c1eb0c8-e33e-4e37-9049-a67af5001bc7,Rejected,nan
+6613be2c3a055b1dbdeabca8,EMP19,Requirements Analysis,"Lambert, Morris and Villarreal",08-05-2006,14-04-2024,82f919d0-e36e-41c2-96f6-f43b41a2c6d8,Approved,nan
+6613be2c3a055b1dbdeabca9,EMP19,Continuous Integration,Robles Group,18-09-1977,12-04-2024,b7e19c21-b977-4821-83a2-25a7f4c7f24a,Approved,nan
+6613be2c3a055b1dbdeabcaa,EMP20,Product Management,"Glover, Reid and Haynes",11-04-1970,26-04-2024,8785bbc1-02e1-4330-9466-68653ae34279,Rejected,nan
+6613be2c3a055b1dbdeabcab,EMP20,Business Analysis,"Cole, Mendoza and Jones",30-07-2006,09-04-2024,4caffc16-da05-4fe0-af41-627c569b3cb1,Approved,nan
+6613be2c3a055b1dbdeabcac,EMP20,Django,Valdez-Hoffman,26-02-1995,01-05-2024,dcb4b69d-17c6-4a34-a8a3-21ab84c9713e,Rejected,nan
+6613be2c3a055b1dbdeabcad,EMP20,CSS,Edwards-Webb,18-10-2002,24-04-2024,36abee80-2495-4189-b47b-34fa4bbf4223,Rejected,nan
+6613be2c3a055b1dbdeabcae,EMP21,Support,Webster and Sons,12-01-1988,13-04-2024,a56d45fb-a3a6-4ff6-b079-94b7d8777b23,Approved,nan
+6613be2c3a055b1dbdeabcaf,EMP21,Information Security,English-Johnson,05-11-2019,19-04-2024,ee3f72e1-a689-46ac-bec4-9e097aa16c9d,Rejected,nan
+6613be2c3a055b1dbdeabcb0,EMP21,MySQL,Shelton PLC,13-08-1994,05-05-2024,17af2f53-6e57-48e9-8e41-6ac0c76e2eb3,Approved,nan
+6613be2c3a055b1dbdeabcb1,EMP21,Docker,"Clark, Yang and Dougherty",08-06-2019,28-04-2024,d95a09e5-2ec3-407e-9248-dab05d5bfdc3,Rejected,nan
+6613be2c3a055b1dbdeabcb2,EMP22,User Stories,"Hammond, Lewis and Russell",16-06-2003,18-04-2024,97ec0d16-513c-4516-9721-f04ce8779744,Rejected,nan
+6613be2c3a055b1dbdeabcb3,EMP22,Continuous Deployment,"Hatfield, Cisneros and Lamb",08-09-1979,21-04-2024,186a02c1-31f4-4a18-b474-efcef7200ec2,Rejected,nan
+6613be2c3a055b1dbdeabcb4,EMP22,Collaboration,"Garcia, Wright and Becker",21-06-2007,19-04-2024,c602a83d-c1b0-4a33-bc55-444ef5d1df20,Rejected,nan
+6613be2c3a055b1dbdeabcb5,EMP22,C#,"Norman, Rose and Ellis",26-03-1985,17-04-2024,d10cf434-af58-439e-9a3e-be8e9c4ef129,Rejected,nan
+6613be2c3a055b1dbdeabcb6,EMP23,Leadership,Chambers-Robertson,27-04-1987,13-04-2024,0d78bc13-1baa-4ce5-b61f-463f02ec8183,Rejected,nan
+6613be2c3a055b1dbdeabcb7,EMP23,GraphQL,"Cook, Flores and Cox",15-01-2010,23-04-2024,f9e5a496-adb1-4cef-a826-0e3fc577a15d,Rejected,nan
+6613be2c3a055b1dbdeabcb8,EMP23,Swift,Chan-Williams,22-08-2005,13-04-2024,41ff0d3a-1b97-4a35-a109-19f9c3fb3036,Rejected,nan
+6613be2c3a055b1dbdeabcb9,EMP23,NoSQL,Lopez and Sons,02-07-2013,07-05-2024,a3b6923f-f08f-4c3a-bb81-c338ca2001d2,Rejected,nan
+6613be2c3a055b1dbdeabcba,EMP24,Problem Solving,Barnett and Sons,24-09-1971,25-04-2024,a57cb3d9-0880-4ac7-9a37-95bc258c44c8,Approved,nan
+6613be2c3a055b1dbdeabcbb,EMP24,Flask,Robles-Gibson,19-11-2018,24-04-2024,b7ff0308-410e-44b8-a68c-a34d29a28d1a,Approved,nan
+6613be2c3a055b1dbdeabcbc,EMP24,SQL,"Coleman, Woodard and Ball",22-04-2012,11-04-2024,a0f4ed6d-68d5-4626-ad09-dca04d902a1a,Approved,nan
+6613be2c3a055b1dbdeabcbd,EMP24,C#,Gonzalez Ltd,30-06-1993,12-04-2024,3cf33d91-e5fa-4f9e-b7ed-415564d7622f,Approved,nan
+6613be2c3a055b1dbdeabcbe,EMP25,JavaScript,"Brown, Johnson and Davidson",04-07-2009,27-04-2024,dd73bd51-6fa7-4980-a2d7-482c62ad9186,Rejected,nan
+6613be2c3a055b1dbdeabcbf,EMP25,PHP,"Bell, Allen and Stewart",17-12-2007,26-04-2024,594c3828-a109-4e80-b305-001bb3945844,Rejected,nan
+6613be2c3a055b1dbdeabcc0,EMP25,Angular,Jackson-Reyes,16-10-1986,23-04-2024,87ae81bf-32e4-436f-a258-8997b362d332,Rejected,nan
+6613be2c3a055b1dbdeabcc1,EMP25,Flask,"Johnson, Davis and Hernandez",09-10-1999,19-04-2024,d932a652-fc22-4fee-aea3-a1cb4a575217,Rejected,nan
+6613be2c3a055b1dbdeabcc2,EMP26,MySQL,"Luna, Huffman and Weber",11-02-1979,03-05-2024,fd988ad1-90b6-46d8-b93f-54f5caee4373,Rejected,nan
+6613be2c3a055b1dbdeabcc3,EMP26,MongoDB,"Levy, Powell and Baker",12-02-1993,23-04-2024,f3962612-49f7-4ae6-bdcb-fedda8586815,Approved,nan
+6613be2c3a055b1dbdeabcc4,EMP26,Collaboration,Johnson Inc,04-03-2010,26-04-2024,5112bee3-e173-4a26-b30c-eaa0a18541ae,Rejected,nan
+6613be2c3a055b1dbdeabcc5,EMP26,Git,"Hayes, Lowery and Hernandez",31-05-1973,27-04-2024,5786dfee-b842-4b9e-a4c3-5c423b1271fc,Approved,nan
+6613be2c3a055b1dbdeabcc6,EMP27,NoSQL,Burns Ltd,02-02-1993,27-04-2024,c9435fd7-85de-416d-a114-13c50a99365c,Rejected,nan
+6613be2c3a055b1dbdeabcc7,EMP27,JavaScript,Monroe and Sons,05-08-1996,01-05-2024,6487228c-0c9c-46e5-952e-594fbf5e6265,Approved,nan
+6613be2c3a055b1dbdeabcc8,EMP27,Data Analysis,Bullock-Brown,25-10-1974,10-04-2024,dc3b7fca-1ed7-4516-8cd1-ae12163b7b65,Approved,nan
+6613be2c3a055b1dbdeabcc9,EMP27,MySQL,Colon LLC,01-12-1999,20-04-2024,cb374112-fdc4-411e-a971-3413a4f5cb18,Rejected,nan
+6613be2c3a055b1dbdeabcca,EMP28,User Stories,Fisher-Nichols,21-02-1997,17-04-2024,51fe775a-cde3-417c-8d9a-68e7afe441c9,Approved,nan
+6613be2c3a055b1dbdeabccb,EMP28,Angular,Cook-Alvarado,24-02-2005,19-04-2024,0ca28797-1a59-4ffd-ae3d-19ec6452d50a,Approved,nan
+6613be2c3a055b1dbdeabccc,EMP28,Information Security,"Anderson, Burke and Martin",23-02-2005,02-05-2024,4d50b978-07a0-4e70-ac7c-d227278d6500,Rejected,nan
+6613be2c3a055b1dbdeabccd,EMP28,Test-Driven Development,"Hill, Jones and Ross",08-04-1986,22-04-2024,a1bccbec-c0bf-4142-90e9-0e79f653c282,Approved,nan
+6613be2c3a055b1dbdeabcce,EMP29,User Stories,Reynolds and Sons,13-12-2013,02-05-2024,679a970f-ad83-4df8-b77b-8dec4a63c272,Rejected,nan
+6613be2c3a055b1dbdeabccf,EMP29,GraphQL,Shaw-Black,28-03-2005,06-05-2024,7f4f7e92-6c75-4b37-85ca-b1ebe3ca00a7,Rejected,nan
+6613be2c3a055b1dbdeabcd0,EMP29,Data Visualization,Hale-Frank,07-02-1978,20-04-2024,ece591e0-ca85-4d57-a8cc-466fa020c21c,Approved,nan
+6613be2c3a055b1dbdeabcd1,EMP29,Problem Solving,Johnson Ltd,08-11-2007,16-04-2024,c96a7244-4750-42b4-8003-2e1efa0febfa,Approved,nan
+6613be2c3a055b1dbdeabcd2,EMP30,MySQL,Noble-Howe,08-03-2009,25-04-2024,6ad65d86-e28c-4bd9-ae48-f13838ee7748,Approved,nan
+6613be2c3a055b1dbdeabcd3,EMP30,Cryptography,Turner Ltd,09-05-2004,23-04-2024,f605e1e1-2cbe-454d-9899-61c4e1b40a01,Rejected,nan
+6613be2c3a055b1dbdeabcd4,EMP30,Responsive Design,Lee-Cooley,15-03-2016,25-04-2024,aa10c481-e3f8-4bdd-873a-474ed74c6e4b,Rejected,nan
+6613be2c3a055b1dbdeabcd5,EMP30,Product Management,Carr Ltd,11-10-2014,05-05-2024,c079e5c8-cfd7-4625-aefa-0e1eed41739b,Approved,nan
+6613be2c3a055b1dbdeabcd6,EMP31,Google Cloud Platform,Simon Group,01-06-2010,29-04-2024,154a2b81-f781-4816-9490-4a20fa48d50a,Approved,nan
+6613be2c3a055b1dbdeabcd7,EMP31,Kubernetes,"Wilson, Dawson and Campbell",05-04-2002,01-05-2024,0817dbb2-4f04-4a26-97fb-e539a9389cfa,Approved,nan
+6613be2c3a055b1dbdeabcd8,EMP31,Leadership,Young-Schneider,04-04-1979,11-04-2024,3cd9d3e4-710b-448c-967c-a1ad4c6c321c,Rejected,nan
+6613be2c3a055b1dbdeabcd9,EMP31,Artificial Intelligence,"Smith, Cordova and Molina",04-03-2001,14-04-2024,efbcb13a-2d37-458c-991d-81d3aa1670ad,Rejected,nan
+6613be2c3a055b1dbdeabcda,EMP32,Cybersecurity,Smith and Sons,26-03-1998,09-04-2024,694a9711-c234-435e-9677-01e170a39a52,Rejected,nan
+6613be2c3a055b1dbdeabcdb,EMP32,DevOps,King-Cameron,04-02-1999,16-04-2024,1c93212d-afb5-43c3-ac96-fa6d267f9ac9,Approved,nan
+6613be2c3a055b1dbdeabcdc,EMP32,PostgreSQL,Torres-Long,31-03-2011,07-05-2024,18c456b3-c03b-4f93-af65-7796e0fd73ec,Rejected,nan
+6613be2c3a055b1dbdeabcdd,EMP32,Support,Carter Inc,23-05-1994,15-04-2024,e7feeb1f-44a9-41a8-a6ef-2fa5f266a6aa,Approved,nan
+6613be2c3a055b1dbdeabce0,EMP33,JavaScript,Parker Inc,27-07-1975,19-04-2024,f250450c-0af5-407c-bb3f-0c873a775a55,Rejected,nan
+6613be2c3a055b1dbdeabce1,EMP33,Product Management,"Mccoy, Brooks and Elliott",21-09-2004,29-04-2024,dbfe1c40-40df-45b4-a5fb-485c0b914492,Approved,nan
+6613be2c3a055b1dbdeabce2,EMP33,Continuous Integration,Lowery-Sanchez,12-08-1979,15-04-2024,0cd45d1c-f19e-4aea-9971-2ebfc13a870f,Rejected,nan
+6613be2c3a055b1dbdeabce3,EMP33,Data Science,"Murray, Garcia and Bailey",01-03-2016,03-05-2024,5e8140e9-e6e8-42ca-87f8-60babf20af5b,Approved,nan
+6613be2c3a055b1dbdeabce4,EMP34,GraphQL,Johnson PLC,04-03-1982,14-04-2024,afad8d76-8dc3-4dfc-a8e2-1977202ab0cd,Approved,nan
+6613be2c3a055b1dbdeabce5,EMP34,MySQL,Ortiz Inc,04-05-2011,27-04-2024,cfbdd83a-c0c9-489f-9c28-819eaed3e3cb,Rejected,nan
+6613be2c3a055b1dbdeabce6,EMP34,Requirements Analysis,Brown Ltd,06-01-2021,12-04-2024,c6823d62-8c39-4544-a622-82e38dc2ea57,Rejected,nan
+6613be2c3a055b1dbdeabce7,EMP34,.NET,Collins-Mcclain,10-11-2015,05-05-2024,1f8d7334-6b5a-4073-9f24-409f066c13b7,Approved,nan
+6613be2c3a055b1dbdeabce8,EMP35,Network Security,"Perry, Peterson and Brown",10-06-1983,17-04-2024,e3339105-f29d-4298-b295-f824a550b5bc,Rejected,nan
+6613be2c3a055b1dbdeabce9,EMP35,React,"Smith, Shelton and Chavez",23-06-2019,18-04-2024,8dcbbe28-d50b-4b71-9391-554b23590699,Rejected,nan
+6613be2c3a055b1dbdeabcea,EMP35,Test-Driven Development,Taylor-Scott,30-12-2020,19-04-2024,2f83337f-8835-4292-8ac2-8de96fff923a,Approved,nan
+6613be2c3a055b1dbdeabceb,EMP35,Angular,Harrison Ltd,18-02-1994,13-04-2024,579712fa-6480-4eaa-9025-732678a20a9e,Approved,nan
+6613be2c3a055b1dbdeabcec,EMP36,GraphQL,Holmes-Arnold,21-12-2001,18-04-2024,42c02e50-1b2f-4f21-b253-ce7db514ff26,Approved,nan
+6613be2c3a055b1dbdeabced,EMP36,Continuous Deployment,Brown-Miranda,28-09-1994,27-04-2024,e25c41e5-93f5-441d-9c9c-ff334737c421,Approved,nan
+6613be2c3a055b1dbdeabcee,EMP36,Network Security,"Livingston, Figueroa and Osborne",27-04-2008,06-05-2024,e39b34c7-cc03-48a6-91c8-dc7225e160e6,Rejected,nan
+6613be2c3a055b1dbdeabcef,EMP36,Node.js,"Williams, Potter and Phillips",06-05-2015,16-04-2024,14288b9a-23c3-478a-ae51-0c9c31b216dd,Rejected,nan
+6613be2c3a055b1dbdeabcf0,EMP37,Ruby,"Hoffman, Davidson and Mercer",16-04-2007,27-04-2024,16acf22f-2c81-45f3-9ab8-1d5102de0da3,Rejected,nan
+6613be2c3a055b1dbdeabcf1,EMP37,Accessibility,"Gordon, Baldwin and Gonzalez",07-08-1975,14-04-2024,1ba78d36-5949-40cc-9fef-0baa34a6c7d8,Rejected,nan
+6613be2c3a055b1dbdeabcf2,EMP37,Cybersecurity,Potter Group,10-07-2011,01-05-2024,2aa1f161-304e-4096-83c7-359507978b23,Rejected,nan
+6613be2c3a055b1dbdeabcf3,EMP37,Git,Gill-Hunt,16-12-1982,07-05-2024,150e8733-832b-4373-a49c-7ff101e8dcb4,Rejected,nan
+6613be2c3a055b1dbdeabcf4,EMP38,Flask,Carter Group,23-12-2002,02-05-2024,5a2ea3ec-7741-4050-ba30-4ecc3864311b,Approved,nan
+6613be2c3a055b1dbdeabcf5,EMP38,Responsive Design,Wilson and Sons,27-11-1989,13-04-2024,7c0e0187-6853-4760-a76c-4ea5865370b3,Rejected,nan
+6613be2c3a055b1dbdeabcf6,EMP38,Interaction Design,Walsh Ltd,10-09-2011,20-04-2024,28d35217-c75f-4f11-a7dc-900842c2573b,Rejected,nan
+6613be2c3a055b1dbdeabcf7,EMP38,Python,Parks-Bailey,30-03-1992,17-04-2024,a6feb4c7-4d41-4082-b232-dbaeda031519,Approved,nan
+6613be2c3a055b1dbdeabcf8,EMP39,Product Management,Rodriguez-Romero,25-05-1992,25-04-2024,55db19a2-b2c7-4866-84f1-ed9d38ae51ea,Rejected,nan
+6613be2c3a055b1dbdeabcf9,EMP39,Data Analysis,Harris Group,29-11-1985,29-04-2024,0f303dd9-3034-465a-b6d0-2c97ae9fcd58,Rejected,nan
+6613be2c3a055b1dbdeabcfa,EMP39,AWS,"Stanton, Miller and Lane",23-03-1987,16-04-2024,33f3f5b3-3233-4320-9fda-fc533b71f679,Approved,nan
+6613be2c3a055b1dbdeabcfb,EMP39,C#,Andrews Group,20-06-2011,16-04-2024,31316e0d-9ad5-4115-8205-5a6440a4deff,Approved,nan
+6613be2c3a055b1dbdeabcfc,EMP40,Business Analysis,Montgomery-Graves,14-10-2016,15-04-2024,711dcf58-f46c-4625-a831-92f29f78f685,Approved,nan
+6613be2c3a055b1dbdeabcfd,EMP40,Containerization,Yang-Tucker,13-04-1970,12-04-2024,c970de39-ce6e-4cf0-b2f2-8a69c1057135,Rejected,nan
+6613be2c3a055b1dbdeabcfe,EMP40,Angular,"Robinson, Massey and Drake",29-10-2003,12-04-2024,d823e187-d1ba-43ac-b299-45bad9fa0544,Approved,nan
+6613be2c3a055b1dbdeabcff,EMP40,Communication,"White, Griffin and Dougherty",30-06-2008,11-04-2024,983fb937-fb3d-4c80-8932-0ee5615df397,Rejected,nan
+6613be2c3a055b1dbdeabd00,EMP41,Continuous Deployment,Ruiz-Gregory,09-06-2003,12-04-2024,1f2b3f10-b8a7-4953-8a4a-71b3fce8f12f,Approved,nan
+6613be2c3a055b1dbdeabd01,EMP41,Kubernetes,Miller-Mathis,19-02-1998,05-05-2024,7c6262e1-a83f-4344-b674-25dc9275254b,Rejected,nan
+6613be2c3a055b1dbdeabd02,EMP41,Flask,Reed-Silva,26-04-2010,10-04-2024,b6fcba15-d6c4-4b2e-b547-8c6100c5fa43,Approved,nan
+6613be2c3a055b1dbdeabd03,EMP41,MySQL,"Adkins, Fowler and Glover",25-11-1998,10-04-2024,a8a95321-d6f6-43b2-bafe-de9a83cab275,Approved,nan
+6613be2c3a055b1dbdeabd04,EMP42,Statistical Analysis,Bonilla-Drake,03-12-2018,28-04-2024,fcc36621-a55d-4d9c-b518-f2ef3261d0fe,Rejected,nan
+6613be2c3a055b1dbdeabd05,EMP42,Continuous Integration,Davenport Group,29-10-1983,01-05-2024,99c01022-7ce3-46d5-9cd0-c262ec276117,Rejected,nan
+6613be2c3a055b1dbdeabd06,EMP42,Communication,"Garcia, Becker and Taylor",27-11-2008,25-04-2024,fcafd410-ed0b-429a-8f60-f4b26fbb7e73,Rejected,nan
+6613be2c3a055b1dbdeabd07,EMP42,Flask,"Williams, Anderson and Pham",17-12-2006,20-04-2024,61cba23e-9b8e-4f3f-a2bd-05848f7c92f0,Approved,nan
+6613be2c3a055b1dbdeabd08,EMP43,Wireframing,"Marshall, Carter and Obrien",01-03-2003,20-04-2024,cde72c7b-5ff8-4559-9656-6673e9cdd665,Rejected,nan
+6613be2c3a055b1dbdeabd09,EMP43,Data Analysis,Boyd-Glass,23-07-1987,04-05-2024,520f97db-a8f6-4b8e-8707-48d56dd1971b,Rejected,nan
+6613be2c3a055b1dbdeabd0a,EMP43,Communication,"Pugh, Fuller and Smith",28-01-1989,25-04-2024,44f39bc5-d255-4406-a8a4-f1c17255885d,Rejected,nan
+6613be2c3a055b1dbdeabd0b,EMP43,Business Analysis,Lamb Ltd,22-09-1978,03-05-2024,9156a3e3-3960-479c-825c-838cbcb0f47c,Approved,nan
+6613be2c3a055b1dbdeabd0c,EMP44,Machine Learning,Knight Group,15-10-1983,09-04-2024,47f0c975-7a0a-4b03-a7ca-2fd6f3cae3dc,Approved,nan
+6613be2c3a055b1dbdeabd0d,EMP44,PHP,Rush-Harvey,19-01-2006,30-04-2024,bf690791-b7b3-4bbe-a772-9a83c35940a6,Rejected,nan
+6613be2c3a055b1dbdeabd0e,EMP44,Kotlin,Perez LLC,03-01-1973,30-04-2024,7a5da368-2d3a-4644-9792-ee25900ccde1,Rejected,nan
+6613be2c3a055b1dbdeabd0f,EMP44,React,Harris-Ayers,25-11-1992,15-04-2024,e1cd0767-ebd6-49c3-b928-29815a80cb0c,Approved,nan
+6613be2c3a055b1dbdeabd10,EMP45,Penetration Testing,Weeks Ltd,30-01-1971,11-04-2024,d028fc8c-2836-43ea-8ee9-61fe184ff8b2,Approved,nan
+6613be2c3a055b1dbdeabd11,EMP45,Prototyping,Livingston and Sons,09-08-1988,11-04-2024,405c3ae2-14cd-41a4-98d6-7f05d167c836,Rejected,nan
+6613be2c3a055b1dbdeabd12,EMP45,Machine Learning,Wilson-Brown,14-11-1994,11-04-2024,15d51798-7c3b-4a10-8ba4-7b74f9f9b231,Approved,nan
+6613be2c3a055b1dbdeabd13,EMP45,Cybersecurity,Rogers-Palmer,04-12-2002,22-04-2024,d6ffccf8-9368-418c-8328-37240992ae3b,Approved,nan
+6613be2c3a055b1dbdeabd14,EMP46,CSS,Cunningham Ltd,17-02-2005,10-04-2024,9aad93a1-4742-410f-b4cd-b70aa771f4f7,Approved,nan
+6613be2c3a055b1dbdeabd15,EMP46,Continuous Deployment,Rivera-Nguyen,02-09-1988,11-04-2024,ac840292-0640-4f0d-96a5-ac498b249a3f,Rejected,nan
+6613be2c3a055b1dbdeabd16,EMP46,Node.js,Rhodes Inc,23-10-1972,05-05-2024,b5eb7de1-ec32-4844-abbe-dc951c341f9a,Approved,nan
+6613be2c3a055b1dbdeabd17,EMP46,GraphQL,Gonzalez-Rivers,23-10-2012,18-04-2024,3d17f03a-e114-4721-abfe-ccc5dc241786,Rejected,nan
+6613be2c3a055b1dbdeabd18,EMP47,Kotlin,Gonzalez Ltd,07-05-2004,15-04-2024,85b157db-3efd-4176-b0ea-36920bfbace1,Rejected,nan
+6613be2c3a055b1dbdeabd19,EMP47,Collaboration,"Sims, Vargas and Foster",07-08-1971,03-05-2024,b13b2496-1c8c-4c3c-8c98-6cf13dfa53c2,Rejected,nan
+6613be2c3a055b1dbdeabd1a,EMP47,Scrum,Williams Ltd,10-07-1971,25-04-2024,65316000-a399-4043-a010-289da1c8ea14,Approved,nan
+6613be2c3a055b1dbdeabd1b,EMP47,.NET,Moon LLC,13-02-2009,24-04-2024,9d5cb65a-2ec5-4dc9-a0c6-aa979009107c,Approved,nan
+6613be2c3a055b1dbdeabd1c,EMP48,Wireframing,Owens-White,10-12-1993,30-04-2024,cd9dbd07-9256-486f-a221-69982f7f625b,Rejected,nan
+6613be2c3a055b1dbdeabd1d,EMP48,Problem Solving,Sims Group,10-07-2005,14-04-2024,4027ff01-c2d9-4cd8-a712-800e4063b323,Rejected,nan
+6613be2c3a055b1dbdeabd1e,EMP48,Accessibility,"Andrews, Vargas and Mayer",23-04-1984,05-05-2024,27de113b-87b3-42e3-b941-f9fce46e658a,Approved,nan
+6613be2c3a055b1dbdeabd1f,EMP48,CI/CD,Crawford Group,29-05-2021,13-04-2024,cca5a2b5-77de-49dc-b771-0b52e6ff53d8,Approved,nan
+6613be2c3a055b1dbdeabd22,EMP49,Communication,"Porter, Farmer and Bell",23-09-1977,11-04-2024,9bb27806-e20b-4288-8898-88aa9f4e7b4c,Approved,nan
+6613be2c3a055b1dbdeabd23,EMP49,Penetration Testing,Ashley Inc,19-06-1977,29-04-2024,e059d730-dc40-4258-8dd2-8a07b29da876,Approved,nan
+6613be2c3a055b1dbdeabd24,EMP49,Accessibility,Diaz and Sons,17-06-1973,15-04-2024,028e4d72-96b6-408e-a2de-ac31a0a3fbda,Approved,nan
+6613be2c3a055b1dbdeabd25,EMP49,Containerization,Beck and Sons,13-08-1970,23-04-2024,594f3927-d46a-43d6-ab56-838cdb47eeb8,Approved,nan
+6613be2c3a055b1dbdeabd26,EMP50,Python,Morales-Hart,21-09-1981,07-05-2024,1d6cce09-12d9-49d2-b78b-a0f47d4d73b1,Rejected,nan
+6613be2c3a055b1dbdeabd27,EMP50,Git,Dickson-Jackson,01-05-1977,01-05-2024,680d54b9-31ce-42ad-a9e3-cc9e0c0df883,Rejected,nan
+6613be2c3a055b1dbdeabd28,EMP50,Cybersecurity,Noble-Bowers,26-10-1989,09-04-2024,a8c767ee-9a35-4c83-92f8-0410d4f61b0c,Approved,nan
+6613be2c3a055b1dbdeabd29,EMP50,Machine Learning,Jackson Inc,16-05-1989,29-04-2024,b18efbcf-dc38-41a4-b941-f1235c96986e,Approved,nan
+6613be2c3a055b1dbdeabd2a,EMP51,Azure,"Franklin, Walton and Jones",23-02-1992,29-04-2024,3f1f40b6-5af7-4cfa-8535-ef7f8727cd92,Approved,nan
+6613be2c3a055b1dbdeabd2b,EMP51,Documentation,Long-Jones,30-07-1988,10-04-2024,d3e37174-f5d2-45d2-bd45-bb717cafd17f,Approved,nan
+6613be2c3a055b1dbdeabd2c,EMP51,Java,"Bryant, Sims and Williams",04-11-1981,04-05-2024,3f34fe92-371f-4d2d-ab04-632ced56033e,Approved,nan
+6613be2c3a055b1dbdeabd2d,EMP51,Interaction Design,"Bentley, Rojas and Lang",27-07-1977,03-05-2024,a2955229-fc5c-4768-99ee-c3ad6b0180ec,Rejected,nan
+6613be2c3a055b1dbdeabd2e,EMP52,Google Cloud Platform,Gross Ltd,01-12-1970,12-04-2024,4f008954-9f1c-427b-a911-5ded393d1fc2,Rejected,nan
+6613be2c3a055b1dbdeabd2f,EMP52,Technical Writing,Cooper PLC,19-02-2010,03-05-2024,6e8409ed-3626-40d8-baf1-844042ece1a5,Rejected,nan
+6613be2c3a055b1dbdeabd30,EMP52,Java,Kerr-Stokes,21-10-2023,11-04-2024,4e20b53e-da1c-4c37-8343-c939a3ae67d7,Approved,nan
+6613be2c3a055b1dbdeabd31,EMP52,UI/UX Design,"Black, Hughes and Garcia",30-03-1972,09-04-2024,06b176d0-e748-4e3c-9256-ef43e37856be,Approved,nan
+6613be2c3a055b1dbdeabd32,EMP53,Ruby,"Carr, Fry and Wright",10-04-1975,13-04-2024,7609f037-f5a8-40d2-8067-f625ef694f50,Rejected,nan
+6613be2c3a055b1dbdeabd33,EMP53,JavaScript,"Oconnor, Ruiz and Graham",10-01-1977,22-04-2024,5e07d95d-57e8-4ecf-a4ef-7b227c96a500,Rejected,nan
+6613be2c3a055b1dbdeabd34,EMP53,Machine Learning,"Strickland, Ball and Smith",14-03-1989,19-04-2024,02888b92-eb7d-44a3-8ee9-b05caadcae90,Approved,nan
+6613be2c3a055b1dbdeabd35,EMP53,CI/CD,"Lopez, Mercer and Hinton",03-10-2017,13-04-2024,fc48d67e-d094-4e2b-aff6-7bf040f49234,Approved,nan
+6613be2c3a055b1dbdeabd36,EMP54,Cryptography,Cruz-Donaldson,04-01-2004,02-05-2024,8726424f-3241-4739-9d2e-ea953f3da825,Approved,nan
+6613be2c3a055b1dbdeabd37,EMP54,Machine Learning,"Palmer, Jordan and George",07-10-2015,29-04-2024,14b76e40-9382-4676-8176-82601f99ea6a,Rejected,nan
+6613be2c3a055b1dbdeabd38,EMP54,Objective-C,Moses-Daniel,04-03-2006,01-05-2024,fa3893a0-88ab-4152-8ce5-a4ff8f1a2e95,Rejected,nan
+6613be2c3a055b1dbdeabd39,EMP54,Communication,"Pollard, Cortez and Coleman",11-08-1974,07-05-2024,9e34d566-3d0b-484f-b2d6-212c771b9d29,Rejected,nan
+6613be2c3a055b1dbdeabd3a,EMP55,Swift,"West, Rojas and Lee",24-01-1992,27-04-2024,94b59c24-3422-411e-a3a9-69e4e5908f02,Rejected,nan
+6613be2c3a055b1dbdeabd3b,EMP55,Objective-C,Heath-Smith,24-07-2009,07-05-2024,59581700-2485-452a-8378-22340c9e81fd,Rejected,nan
+6613be2c3a055b1dbdeabd3c,EMP55,Business Analysis,"Morrow, Johnson and Carson",28-06-1979,20-04-2024,48baeff0-d551-4e73-91ed-e213d5220e8e,Rejected,nan
+6613be2c3a055b1dbdeabd3d,EMP55,Flask,"Simmons, Caldwell and Lloyd",19-12-1993,30-04-2024,75ea3b8c-678e-4095-b943-1ea2e6fe6815,Rejected,nan
+6613be2c3a055b1dbdeabd3e,EMP56,Google Cloud Platform,Wright-Forbes,20-03-2017,10-04-2024,8b1d1482-fb81-4f73-ab67-37537c11bbde,Approved,nan
+6613be2c3a055b1dbdeabd3f,EMP56,SQL,Hernandez-Ford,03-11-1988,16-04-2024,1efcc98f-f7ad-414f-b5e0-6d3d928ed27a,Approved,nan
+6613be2c3a055b1dbdeabd40,EMP56,Agile Product Management,Burke-Dixon,09-01-2010,29-04-2024,05f231d2-77dc-415a-8639-994bb3623d56,Rejected,nan
+6613be2c3a055b1dbdeabd41,EMP56,Communication,"Mccoy, Hughes and Martinez",14-11-1997,09-04-2024,08abff33-724b-47a7-a704-8b56d9f1c021,Approved,nan
+6613be2c3a055b1dbdeabd42,EMP57,Statistical Analysis,Ayala-Aguirre,04-09-1972,02-05-2024,a5dfa232-e8a7-4569-ac85-2045e1050a81,Rejected,nan
+6613be2c3a055b1dbdeabd43,EMP57,MongoDB,"Gomez, Jones and Obrien",15-10-2011,15-04-2024,b68e0d68-a0e9-4492-bc9a-9d47dd27a9d4,Rejected,nan
+6613be2c3a055b1dbdeabd44,EMP57,Support,"Newton, Leblanc and Kirby",20-12-2001,07-05-2024,4ff37144-e19d-4a94-8859-368407b9a294,Rejected,nan
+6613be2c3a055b1dbdeabd45,EMP57,Git,Little-King,15-03-2020,07-05-2024,3645de79-168a-4146-8284-3d1fb31feb87,Rejected,nan
+6613be2c3a055b1dbdeabd46,EMP58,UI/UX Design,Drake Inc,26-11-2004,29-04-2024,8a23cca9-0f81-4f5a-a28d-e9664967ff0c,Approved,nan
+6613be2c3a055b1dbdeabd47,EMP58,CSS,Jackson and Sons,31-08-1995,05-05-2024,5bd1f2e1-8535-4403-8cd0-e26b584e3d54,Approved,nan
+6613be2c3a055b1dbdeabd48,EMP58,Support,"Johnson, Sanders and Haynes",30-03-2008,15-04-2024,edb6f565-efd1-490d-bc5c-04151903ff77,Rejected,nan
+6613be2c3a055b1dbdeabd49,EMP58,Machine Learning,Atkins Ltd,23-09-2015,30-04-2024,db2afb09-70a6-416a-aec7-6a9d7656fc14,Rejected,nan
+6613be2c3a055b1dbdeabd4a,EMP59,Data Visualization,"Garcia, Perkins and Dudley",21-05-1983,12-04-2024,f0ca231d-4517-420e-8773-903ce230aa26,Rejected,nan
+6613be2c3a055b1dbdeabd4b,EMP59,UI/UX Design,"Larson, Holder and Lynch",31-03-2007,02-05-2024,62eb51ad-93f0-48f0-877e-aa2a9317f12a,Rejected,nan
+6613be2c3a055b1dbdeabd4c,EMP59,Kubernetes,Simon Group,27-10-1971,05-05-2024,fd79b9ff-f204-4f2f-a63b-cbfb0ea0cfad,Rejected,nan
+6613be2c3a055b1dbdeabd4d,EMP59,Information Security,"Soto, Martinez and Hatfield",13-07-1973,22-04-2024,fee8e2f9-9bf2-4fff-aa74-7943343b13d7,Approved,nan
+6613be2c3a055b1dbdeabd4e,EMP60,Kotlin,"Cook, Bennett and Johnson",14-03-2020,01-05-2024,fb535073-e565-4cfa-9f76-1296ac0b12b8,Approved,nan
+6613be2c3a055b1dbdeabd4f,EMP60,Machine Learning,Shah-Mendez,01-04-1973,22-04-2024,9843e061-1a2d-4086-ac70-11e7e7901372,Rejected,nan
+6613be2c3a055b1dbdeabd50,EMP60,Swift,Frazier-Torres,05-01-1990,14-04-2024,0d455251-bcaf-43b2-bae6-475360001dd1,Rejected,nan
+6613be2c3a055b1dbdeabd51,EMP60,Test-Driven Development,"Estrada, Rice and King",22-10-1991,04-05-2024,cbe440b6-681d-4630-a62b-2c763c46d301,Approved,nan
+6613be2c3a055b1dbdeabd52,EMP61,User Stories,Strickland-White,17-10-2003,26-04-2024,d60425d2-9a7d-4bf0-bddb-8a75d761f5d6,Rejected,nan
+6613be2c3a055b1dbdeabd53,EMP61,Requirements Analysis,Harper-Wilson,25-05-2019,07-05-2024,994a02cc-2ad5-4341-9de0-5990637c7917,Approved,nan
+6613be2c3a055b1dbdeabd54,EMP61,Angular,Page-Bauer,08-06-2018,03-05-2024,6096e977-71e9-4087-a058-afb62b6d6ece,Rejected,nan
+6613be2c3a055b1dbdeabd55,EMP61,Vue.js,Hayes-Johnson,19-04-1989,09-04-2024,b0afecc2-ea34-48d2-9aa0-8ffeb7578310,Rejected,nan
+6613be2c3a055b1dbdeabd56,EMP62,Data Science,Jones PLC,23-01-2004,11-04-2024,1c1051d9-4479-4019-9413-95a2ca3e03a2,Approved,nan
+6613be2c3a055b1dbdeabd57,EMP62,Product Management,"Young, Miller and Gomez",02-10-1976,11-04-2024,f4c440f7-1f35-4ff4-b3b0-e12611b5a8fb,Approved,nan
+6613be2c3a055b1dbdeabd58,EMP62,Interaction Design,"Johnson, Collins and Perez",14-11-1972,14-04-2024,6682f285-0c98-4e74-a747-adbfd2231c8a,Approved,nan
+6613be2c3a055b1dbdeabd59,EMP62,Test-Driven Development,Carter Ltd,31-10-2002,27-04-2024,4c887166-108b-4d0d-8085-af0dd290bd04,Approved,nan
+6613be2c3a055b1dbdeabd5a,EMP63,Wireframing,Combs Group,22-03-2016,11-04-2024,89911edb-a720-4274-8642-ce0d1639a58d,Rejected,nan
+6613be2c3a055b1dbdeabd5b,EMP63,SQL,Hamilton-Estrada,22-06-2007,15-04-2024,6aaf88d7-d1f2-46f7-a9de-2dbd88020cd7,Approved,nan
+6613be2c3a055b1dbdeabd5c,EMP63,Cybersecurity,Fischer PLC,18-12-2010,11-04-2024,ddeaa7e6-5186-4791-b0c1-450df037d32f,Rejected,nan
+6613be2c3a055b1dbdeabd5d,EMP63,Business Analysis,"Richards, Martinez and Reed",26-09-1970,19-04-2024,7caa7cc8-05dd-4b22-94c1-2a4dde6438b4,Rejected,nan
+6613be2c3a055b1dbdeabd5e,EMP64,Behavior-Driven Development,Freeman-Clark,08-10-1987,10-04-2024,d7314449-d6d3-46a4-b5a2-f37b170b9bc9,Approved,nan
+6613be2c3a055b1dbdeabd5f,EMP64,Python,Lee-White,04-10-1986,21-04-2024,ddb7b974-0653-4dc3-a4c0-0c98348b9bda,Approved,nan
+6613be2c3a055b1dbdeabd60,EMP64,Cybersecurity,Pacheco LLC,20-06-1992,23-04-2024,6bccbf80-8436-439b-b63d-488d548b7c2a,Rejected,nan
+6613be2c3a055b1dbdeabd61,EMP64,RESTful API,Orr-Cervantes,12-07-1981,11-04-2024,3424145f-1469-4106-8f5b-225c12aeb8df,Rejected,nan
+6613be2c3a055b1dbdeabd64,EMP65,Problem Solving,"Clark, Rosales and Wilkins",27-07-2010,30-04-2024,fd8259aa-48ad-45ef-b90e-5f6cc591f82e,Rejected,nan
+6613be2c3a055b1dbdeabd65,EMP65,Cryptography,"Dodson, Miller and Copeland",15-06-1977,01-05-2024,3844e99e-2068-4357-b524-e127c599446e,Rejected,nan
+6613be2c3a055b1dbdeabd66,EMP65,NoSQL,Russell PLC,20-04-2016,02-05-2024,2fc94985-7d05-419c-a924-2c38c21c5e90,Approved,nan
+6613be2c3a055b1dbdeabd67,EMP65,Google Cloud Platform,Powers-Murphy,06-08-1999,07-05-2024,962565d8-c5fe-4d09-9273-20376daa1f69,Approved,nan
+6613be2c3a055b1dbdeabd68,EMP66,NoSQL,Mitchell-Duran,18-08-2005,26-04-2024,12e1ec0b-1126-47ff-85be-bbe07c1ce97e,Rejected,nan
+6613be2c3a055b1dbdeabd69,EMP66,Flask,Crawford-Goodwin,07-07-1981,21-04-2024,522cc704-d4a2-40ce-aa62-79da70e7e2fb,Approved,nan
+6613be2c3a055b1dbdeabd6a,EMP66,Wireframing,Anderson-Arnold,12-05-2023,09-04-2024,e79742be-b3a4-4e34-abb7-b42fa360b6b9,Approved,nan
+6613be2c3a055b1dbdeabd6b,EMP66,Machine Learning,Williams and Sons,03-11-1977,19-04-2024,c75c7144-ea8c-4433-baab-aba99a561be7,Rejected,nan
+6613be2c3a055b1dbdeabd6c,EMP67,Continuous Deployment,Stewart Group,14-09-1984,06-05-2024,0d86fa95-9114-4ada-8ab5-824013595a84,Approved,nan
+6613be2c3a055b1dbdeabd6d,EMP67,Angular,Johnson LLC,20-03-1978,15-04-2024,5f2fd18f-d058-42af-b958-3858e50d2998,Approved,nan
+6613be2c3a055b1dbdeabd6e,EMP67,Information Security,Taylor Group,28-05-1974,05-05-2024,973ed3f9-dfa3-4e83-8169-7411a3a927e0,Rejected,nan
+6613be2c3a055b1dbdeabd6f,EMP67,Documentation,Brown PLC,13-05-1993,10-04-2024,6b260c0f-00f1-4f94-a64e-01705ea4f878,Rejected,nan
+6613be2c3a055b1dbdeabd70,EMP68,Interaction Design,Roy PLC,26-07-1992,21-04-2024,78f8d0ec-a210-42e5-964e-9d181e9faafb,Approved,nan
+6613be2c3a055b1dbdeabd71,EMP68,Wireframing,"Berry, Singh and Rios",04-01-1974,17-04-2024,16fecf6a-7c7f-4b62-82ba-9fd5f22e7727,Rejected,nan
+6613be2c3a055b1dbdeabd72,EMP68,Git,"Griffith, Murphy and Ross",01-02-1980,28-04-2024,cb09ecb0-9ef3-4b25-9550-84fd42b29689,Approved,nan
+6613be2c3a055b1dbdeabd73,EMP68,Network Security,Robinson-Mitchell,02-06-2023,23-04-2024,efcf2a84-b4e0-421a-8925-2fc8d8a0b2dc,Rejected,nan
+6613be2c3a055b1dbdeabd74,EMP69,Java,Harper-Fernandez,20-02-2012,02-05-2024,0294c480-9743-4314-8325-6c928abf4935,Approved,nan
+6613be2c3a055b1dbdeabd75,EMP69,.NET,"Fuentes, Barry and Miller",03-09-2013,03-05-2024,c3fd18f6-0656-4a3e-95b1-4316c1e1ad8c,Approved,nan
+6613be2c3a055b1dbdeabd76,EMP69,Prototyping,"Potter, Garcia and Maxwell",27-01-2006,27-04-2024,34809fda-409e-4374-a167-8aac17ddd5c0,Approved,nan
+6613be2c3a055b1dbdeabd77,EMP69,Objective-C,Taylor-Moore,22-03-2024,13-04-2024,9eb0ee85-a4bf-4e69-b5af-da1ab905b58a,Approved,nan
+6613be2c3a055b1dbdeabd78,EMP70,Behavior-Driven Development,Mitchell LLC,24-01-2010,14-04-2024,eab3646b-e73f-45e3-a1c5-42f77acd8dfe,Approved,nan
+6613be2c3a055b1dbdeabd79,EMP70,Git,Jones Inc,20-05-1995,10-04-2024,557a64f0-e135-455c-98e5-4b2c2f75fcf0,Approved,nan
+6613be2c3a055b1dbdeabd7a,EMP70,Docker,Rodriguez-Curtis,06-06-2011,17-04-2024,420db53b-f437-4906-9909-4f5fc6c978fa,Rejected,nan
+6613be2c3a055b1dbdeabd7b,EMP70,Microservices,"Edwards, Palmer and Newman",01-01-2004,28-04-2024,7e754e9d-1ed6-4763-9e2e-5dc90c76917c,Rejected,nan
+6613be2c3a055b1dbdeabd7c,EMP71,CSS,"Rodriguez, Burch and Ware",05-02-2023,10-04-2024,e912e916-f23b-4d74-a210-3dad8a5d3bdf,Rejected,nan
+6613be2c3a055b1dbdeabd7d,EMP71,Responsive Design,"Perry, Martin and Becker",24-07-2012,05-05-2024,04d925a2-a5a1-4fcb-a9a4-ed77bb6ff7ba,Rejected,nan
+6613be2c3a055b1dbdeabd7e,EMP71,Artificial Intelligence,Landry Ltd,20-03-1974,15-04-2024,5fc9d8d1-b836-4162-9617-4fef0d82be60,Rejected,nan
+6613be2c3a055b1dbdeabd7f,EMP71,Agile Methodologies,Rodriguez PLC,13-04-1985,05-05-2024,429afa08-a1f0-4e70-81c6-28873c4793db,Rejected,nan
+6613be2c3a055b1dbdeabd80,EMP72,User Stories,Lopez-Dixon,22-04-1978,13-04-2024,09c7abab-facd-47d0-ae1f-7c70d8ec00bd,Rejected,nan
+6613be2c3a055b1dbdeabd81,EMP72,Technical Writing,Acosta Ltd,23-12-1994,30-04-2024,437e5d86-0112-45c2-aa04-058ce3e869c1,Rejected,nan
+6613be2c3a055b1dbdeabd82,EMP72,DevOps,Hahn-Adams,24-04-1990,07-05-2024,41c7895d-5191-4d0b-ae2b-f2662354de72,Rejected,nan
+6613be2c3a055b1dbdeabd83,EMP72,Google Cloud Platform,"Holden, Jones and Campos",23-02-2018,25-04-2024,34b3ce7b-4fd9-4a9f-899f-c278da4910c8,Rejected,nan
+6613be2c3a055b1dbdeabd84,EMP73,JavaScript,"Marshall, Ramsey and Rivera",18-01-2014,29-04-2024,895ad33c-5f71-4db6-8296-a659a5978261,Approved,nan
+6613be2c3a055b1dbdeabd85,EMP73,Continuous Deployment,Strickland-Collins,23-12-1989,30-04-2024,ff61b152-1743-48f8-9bc5-2257b3c655bd,Approved,nan
+6613be2c3a055b1dbdeabd86,EMP73,Objective-C,"Sanchez, Bullock and Flores",17-06-1994,24-04-2024,59e3e883-c05d-49f2-b9ca-c972ff1b949a,Approved,nan
+6613be2c3a055b1dbdeabd87,EMP73,Data Visualization,"Martinez, Bates and Smith",30-10-1983,01-05-2024,02cff8b7-30ce-44a8-9599-a4bf79f5e03a,Rejected,nan
+6613be2c3a055b1dbdeabd88,EMP74,Interaction Design,Lee-Rodriguez,03-11-2011,23-04-2024,8540e2fb-174b-4611-9f77-3fce22052105,Rejected,nan
+6613be2c3a055b1dbdeabd89,EMP74,React,"Dalton, Jackson and Johnson",19-04-2011,09-04-2024,ea4ae85b-6e53-4367-a0b3-160b07d7beff,Approved,nan
+6613be2c3a055b1dbdeabd8a,EMP74,SQL,Anderson-Baker,16-12-2023,13-04-2024,bb5e7116-df8f-4423-a90c-a0e340637db6,Rejected,nan
+6613be2c3a055b1dbdeabd8b,EMP74,PHP,Greer-Farrell,08-12-2005,06-05-2024,5852b14c-3148-4baf-b713-36b97d4b1650,Approved,nan
+6613be2c3a055b1dbdeabd8c,EMP75,Flask,Arias PLC,24-05-1993,02-05-2024,7384933a-a36f-4344-84aa-7c8fa68ed217,Rejected,nan
+6613be2c3a055b1dbdeabd8d,EMP75,Network Security,"Newman, Quinn and Walter",19-10-2001,12-04-2024,8dd39bee-e196-4c3d-a569-ef87c6e15077,Approved,nan
+6613be2c3a055b1dbdeabd8e,EMP75,Data Visualization,"Walker, Thomas and Orr",14-01-2001,29-04-2024,e55b09ce-d839-4807-ab82-94ffb9f1641a,Approved,nan
+6613be2c3a055b1dbdeabd8f,EMP75,Prototyping,Parks Ltd,16-05-1990,07-05-2024,c3b554b7-15bf-49d6-9777-88275d6195d1,Approved,nan
+6613be2c3a055b1dbdeabd90,EMP76,Data Visualization,Bautista-Cain,22-07-2021,25-04-2024,da81c779-7d3a-4e5e-88d5-21aaafe94f62,Approved,nan
+6613be2c3a055b1dbdeabd91,EMP76,CI/CD,Henry-Cole,11-04-1978,15-04-2024,eedc59dc-7b96-4f3a-84f3-b558c668c910,Approved,nan
+6613be2c3a055b1dbdeabd92,EMP76,Google Cloud Platform,Brown-Singh,09-09-2018,28-04-2024,6849fab6-aa66-4553-be7b-d1769703444d,Rejected,nan
+6613be2c3a055b1dbdeabd93,EMP76,Technical Writing,"Harris, Garcia and Gonzalez",04-03-1996,13-04-2024,b16240c1-55d0-43fa-bb42-f4634202fbe1,Rejected,nan
+6613be2c3a055b1dbdeabd94,EMP77,Artificial Intelligence,Bowen LLC,26-09-2011,15-04-2024,c118495b-f22f-4d7e-bfc2-04b8f39650e4,Approved,nan
+6613be2c3a055b1dbdeabd95,EMP77,Continuous Deployment,Holt and Sons,24-07-1977,03-05-2024,e48ede33-7d55-47a2-8507-dc1ae286bb02,Approved,nan
+6613be2c3a055b1dbdeabd96,EMP77,UI/UX Design,Adkins Group,21-02-2011,17-04-2024,bbb1dce5-a94a-459e-ac68-c969a5b74a96,Approved,nan
+6613be2c3a055b1dbdeabd97,EMP77,Behavior-Driven Development,"Contreras, Daniels and Brown",05-10-2018,19-04-2024,3d96b84e-7fdb-4d6b-aab2-b043d169908b,Approved,nan
+6613be2c3a055b1dbdeabd98,EMP78,JavaScript,Maynard-Moran,07-04-2002,11-04-2024,6dac12d5-a3e3-4798-8eba-bd6ea6e84f23,Rejected,nan
+6613be2c3a055b1dbdeabd99,EMP78,Troubleshooting,Wheeler-Oliver,19-04-1994,03-05-2024,d81d6af3-41c4-4a17-ac90-9b9b0bd3f641,Rejected,nan
+6613be2c3a055b1dbdeabd9a,EMP78,Network Security,Mckinney-White,03-10-2020,02-05-2024,9e735993-54d8-4aee-b73f-173b7beded82,Approved,nan
+6613be2c3a055b1dbdeabd9b,EMP78,Django,Arnold PLC,21-02-1974,20-04-2024,d28a0255-5bdc-4ae0-a0ed-6f13bc3331bc,Rejected,nan
+6613be2c3a055b1dbdeabd9c,EMP79,Google Cloud Platform,Gonzalez LLC,28-11-1978,13-04-2024,86ba4039-295b-466f-881f-c11f3a7a8096,Rejected,nan
+6613be2c3a055b1dbdeabd9d,EMP79,JavaScript,"Johnson, Figueroa and Sullivan",03-07-1995,22-04-2024,0799712f-b1a4-4b48-a20d-accb671bc150,Approved,nan
+6613be2c3a055b1dbdeabd9e,EMP79,Documentation,Tapia LLC,08-06-2022,09-04-2024,9b347dfa-5d1a-44c2-bbc8-84229327c010,Rejected,nan
+6613be2c3a055b1dbdeabd9f,EMP79,Leadership,"Scott, Rogers and Bell",08-09-1995,26-04-2024,15985224-b447-4ca2-955f-d2d1febf48e9,Approved,nan
+6613be2c3a055b1dbdeabda0,EMP80,PHP,Reyes PLC,07-08-1997,19-04-2024,55f7aa7f-1e0a-41a4-bf43-f5163e96548a,Approved,nan
+6613be2c3a055b1dbdeabda1,EMP80,Vue.js,Williams LLC,29-01-2021,13-04-2024,b9a00952-8a61-4cb0-8d43-24a151c33c9b,Approved,nan
+6613be2c3a055b1dbdeabda2,EMP80,Cybersecurity,"Alvarez, Cruz and Hood",07-10-1995,10-04-2024,450f8295-7b9e-49b6-b97b-b401b4fdd597,Rejected,nan
+6613be2c3a055b1dbdeabda3,EMP80,UI/UX Design,Nichols PLC,07-04-1999,25-04-2024,8e5719d2-6963-47ce-af95-f6b011de30a9,Rejected,nan
+6613be2c3a055b1dbdeabda7,EMP81,Flask,White-Tucker,08-04-1976,20-04-2024,cae10648-ea91-451c-8927-7439a38d7d08,Rejected,nan
+6613be2c3a055b1dbdeabda8,EMP81,Node.js,"King, Stout and Johnson",12-09-1985,16-04-2024,20cae4a4-3076-445d-bc85-7158542066bc,Rejected,nan
+6613be2c3a055b1dbdeabda9,EMP81,Swift,Stephens-Petty,28-01-1996,01-05-2024,ccdfc8e1-62b7-4088-879d-3f4a2a97bae8,Rejected,nan
+6613be2c3a055b1dbdeabdaa,EMP81,Data Science,"Sims, Williams and Jordan",15-02-1976,11-04-2024,4b23fa43-5747-4b2a-a55d-e09252ad85e2,Approved,nan
+6613be2c3a055b1dbdeabdab,EMP82,MongoDB,"Vega, Ellison and Morrow",05-02-1996,27-04-2024,3a64da85-9e88-453f-becc-ea1033396f5c,Approved,nan
+6613be2c3a055b1dbdeabdac,EMP82,Docker,Turner LLC,14-10-1994,01-05-2024,758579cd-e3fe-4d47-8f9e-07d0fab9832c,Rejected,nan
+6613be2c3a055b1dbdeabdad,EMP82,Statistical Analysis,Jones Inc,05-05-2006,17-04-2024,e64e9274-276b-4bf6-ae49-8f8195402ecb,Rejected,nan
+6613be2c3a055b1dbdeabdae,EMP82,Test-Driven Development,"Ramirez, Walter and Walker",21-07-1974,12-04-2024,4ce44a8e-dbc3-4f55-b586-70f8f8f6352c,Approved,nan
+6613be2c3a055b1dbdeabdaf,EMP83,Swift,Holloway Inc,14-03-2004,03-05-2024,ea758d47-0cb4-4993-827c-d676f469db2a,Approved,nan
+6613be2c3a055b1dbdeabdb0,EMP83,Requirements Analysis,"Thornton, Torres and Smith",09-04-2006,16-04-2024,eaa42550-816e-4276-8446-9acf12ac6871,Rejected,nan
+6613be2c3a055b1dbdeabdb1,EMP83,Cybersecurity,Lee-Joseph,05-11-1995,03-05-2024,018c6d2c-6f17-4564-b438-1edd1e66c4c0,Rejected,nan
+6613be2c3a055b1dbdeabdb2,EMP83,Angular,"Clark, Rangel and Weaver",17-06-1975,11-04-2024,6003455d-fbe1-49d7-853d-6e5de7966008,Rejected,nan
+6613be2c3a055b1dbdeabdb3,EMP84,Business Analysis,Smith Ltd,02-08-2012,17-04-2024,fc84bc9a-35a3-45cf-960a-acdc28f233df,Approved,nan
+6613be2c3a055b1dbdeabdb4,EMP84,Network Security,Ruiz Inc,06-03-2023,06-05-2024,351c01f9-1fb3-40bc-a0e9-2d759922fdb0,Rejected,nan
+6613be2c3a055b1dbdeabdb5,EMP84,Agile Product Management,"Williams, Alvarez and Farley",13-04-1986,24-04-2024,15835881-31e4-415a-a112-8e552825fbae,Rejected,nan
+6613be2c3a055b1dbdeabdb6,EMP84,PHP,Santana-Tucker,10-02-1979,23-04-2024,32006123-449d-4143-ba98-342aee9a8664,Rejected,nan
+6613be2c3a055b1dbdeabdb7,EMP85,Agile Methodologies,Randolph Inc,17-03-1985,14-04-2024,5d9420ef-6cb7-45e6-b1ee-fc5b23785c0a,Approved,nan
+6613be2c3a055b1dbdeabdb8,EMP85,Product Management,Black PLC,09-11-2002,23-04-2024,ec1446ef-9bd4-43e1-aaff-89423c6b5e14,Rejected,nan
+6613be2c3a055b1dbdeabdb9,EMP85,Scrum,Ewing Ltd,23-08-2014,29-04-2024,b74b2ba9-fea3-4988-87cd-5ae2c862002d,Rejected,nan
+6613be2c3a055b1dbdeabdba,EMP85,Accessibility,Alvarado Ltd,11-09-2018,28-04-2024,eb60fd73-1818-4705-9db9-f49ee5f23dd4,Approved,nan
+6613be2c3a055b1dbdeabdbb,EMP86,Cybersecurity,Pearson-Salas,20-06-2001,06-05-2024,c98130bc-53e6-444b-9633-efbc45be7895,Approved,nan
+6613be2c3a055b1dbdeabdbc,EMP86,AWS,"Brown, Brewer and Tate",05-03-1991,24-04-2024,ac963b92-5c97-4c57-8611-9cf42612d7a1,Rejected,nan
+6613be2c3a055b1dbdeabdbd,EMP86,Kotlin,"Conley, Little and Jackson",03-05-2011,06-05-2024,28e47ae5-7b69-4619-99b9-476928602397,Approved,nan
+6613be2c3a055b1dbdeabdbe,EMP86,Communication,York-Lewis,21-09-1972,24-04-2024,1aa18ea6-06af-42a4-80a7-fbdfcf8ed6bb,Rejected,nan
+6613be2c3a055b1dbdeabdbf,EMP87,Statistical Analysis,"Watts, Marks and Perez",19-05-2004,01-05-2024,f86e20e5-20d3-4b26-973c-71f7de4ca696,Rejected,nan
+6613be2c3a055b1dbdeabdc0,EMP87,Data Science,Flores-Burns,29-10-1984,10-04-2024,a5b8b5f9-fc0f-49bb-9ed9-86748fa8d674,Rejected,nan
+6613be2c3a055b1dbdeabdc1,EMP87,DevOps,"Boyer, Evans and Anderson",14-09-1981,29-04-2024,ded493b3-38d6-4422-827c-51b8acaac94b,Approved,nan
+6613be2c3a055b1dbdeabdc2,EMP87,Requirements Analysis,"Thompson, Cohen and Simpson",16-08-2013,27-04-2024,6df809bc-5a58-4f09-b949-599c34c0a842,Rejected,nan
+6613be2c3a055b1dbdeabdc3,EMP88,Microservices,Ewing LLC,19-11-1992,24-04-2024,84989767-632c-4bc7-a40f-661ec9f8b0f5,Approved,nan
+6613be2c3a055b1dbdeabdc4,EMP88,C#,"Hoffman, Zavala and Villanueva",12-01-1998,21-04-2024,2d2eb886-a493-46b5-9d3c-57d13053098f,Rejected,nan
+6613be2c3a055b1dbdeabdc5,EMP88,Agile Product Management,Maldonado-Johnson,27-06-2021,12-04-2024,3d5e6a01-1531-4bb5-af82-fff403a54b78,Rejected,nan
+6613be2c3a055b1dbdeabdc6,EMP88,AWS,Simmons-Moody,20-02-1985,25-04-2024,8cbb3e56-d204-4e4c-afd8-0a9572de3cce,Approved,nan
+6613be2c3a055b1dbdeabdc7,EMP89,Ruby,Mccoy-Herrera,31-03-2017,13-04-2024,8e5803f7-af79-467d-82a3-0b7802bdfde2,Approved,nan
+6613be2c3a055b1dbdeabdc8,EMP89,Test-Driven Development,Lawrence-Nichols,24-06-1987,01-05-2024,cc87336e-ab3a-4f52-8994-852b6da35de9,Approved,nan
+6613be2c3a055b1dbdeabdc9,EMP89,Support,Green Inc,25-06-1991,03-05-2024,574cd700-7fd3-48c9-bb21-e27029644927,Rejected,nan
+6613be2c3a055b1dbdeabdca,EMP89,Prototyping,Jones and Sons,14-01-1977,20-04-2024,4b764444-3312-4e63-8859-073a7d62a693,Approved,nan
+6613be2c3a055b1dbdeabdcb,EMP90,Python,Manning-Black,14-07-1988,19-04-2024,caf3962a-d390-49ba-88cb-137ab02ecec6,Approved,nan
+6613be2c3a055b1dbdeabdcc,EMP90,Documentation,Hendricks-Stephens,16-08-1990,28-04-2024,798417ed-c007-4281-973f-aeeb15e6ad15,Rejected,nan
+6613be2c3a055b1dbdeabdcd,EMP90,Technical Writing,"Miller, Herring and Mann",16-02-1994,03-05-2024,ebba3fcc-b8fb-4da9-b598-cb5750cbac28,Approved,nan
+6613be2c3a055b1dbdeabdce,EMP90,.NET,Johnson LLC,26-06-2015,07-05-2024,bc595e20-c027-4c97-b6af-19b0c7798aad,Approved,nan
+6613be2c3a055b1dbdeabdcf,EMP91,Continuous Integration,"Norris, Freeman and Sosa",09-03-2011,29-04-2024,b8c947cf-4a39-4bca-a96d-1b67751acb9f,Approved,nan
+6613be2c3a055b1dbdeabdd0,EMP91,Ruby,Williams Inc,16-06-1996,01-05-2024,dd5215b7-098c-4486-a21c-9782be52c752,Rejected,nan
+6613be2c3a055b1dbdeabdd1,EMP91,Accessibility,Becker-Cruz,19-11-1972,22-04-2024,76be3075-ed09-4cc1-a025-125ccd4107b0,Approved,nan
+6613be2c3a055b1dbdeabdd2,EMP91,Git,Carpenter Inc,19-11-1996,05-05-2024,9fc631ba-ffb7-4349-a932-4bfc9b33b0ba,Approved,nan
+6613be2c3a055b1dbdeabdd3,EMP92,Swift,Andrews LLC,09-05-2004,15-04-2024,23f1e346-02c3-4dab-8a93-5e223391a36c,Rejected,nan
+6613be2c3a055b1dbdeabdd4,EMP92,Kubernetes,"Long, Jensen and Willis",23-10-2009,30-04-2024,dc320582-a94f-4c88-9b63-863b886bea15,Approved,nan
+6613be2c3a055b1dbdeabdd5,EMP92,Communication,Reynolds-Martin,06-08-2012,21-04-2024,25acb34b-939c-4fca-8533-0aa25fc3d2c9,Rejected,nan
+6613be2c3a055b1dbdeabdd6,EMP92,Data Analysis,Jones LLC,05-01-1987,10-04-2024,4532405e-5770-454b-9f5c-ed0cd1b9df01,Approved,nan
+6613be2c3a055b1dbdeabdd7,EMP93,Flask,Russell-Shaw,27-02-1985,16-04-2024,c79b722b-1cf2-4bf4-8965-add3df4866cf,Rejected,nan
+6613be2c3a055b1dbdeabdd8,EMP93,Containerization,Knight-Bryant,23-03-1983,05-05-2024,171cf746-e542-4be6-8f2f-5147342323c8,Approved,nan
+6613be2c3a055b1dbdeabdd9,EMP93,Node.js,King Inc,31-03-1971,22-04-2024,3b812835-4106-4e5b-b8df-b81586a1b9c9,Approved,nan
+6613be2c3a055b1dbdeabdda,EMP93,Python,Watkins Inc,11-03-1990,21-04-2024,f7e07d8f-ed5c-4ff3-9a91-32a7e14f49f4,Rejected,nan
+6613be2c3a055b1dbdeabddb,EMP94,Kubernetes,Horne and Sons,24-06-2009,02-05-2024,37b98bc2-05de-4955-b208-23118c42fa2d,Approved,nan
+6613be2c3a055b1dbdeabddc,EMP94,Communication,Guerrero-Lewis,07-07-2001,20-04-2024,f14fa4d3-0096-4979-9adf-bacb536c67e2,Approved,nan
+6613be2c3a055b1dbdeabddd,EMP94,Scrum,"Nelson, Henson and Lambert",20-08-2003,19-04-2024,af0a843b-54b8-40c9-820c-37b65dd6c55f,Approved,nan
+6613be2c3a055b1dbdeabdde,EMP94,Vue.js,"Hall, Giles and Henderson",03-08-1995,30-04-2024,b3b85036-d052-4bc4-833b-bd97b65fed47,Rejected,nan
+6613be2c3a055b1dbdeabddf,EMP95,Technical Writing,"Martinez, Smith and Mathis",14-12-1995,12-04-2024,502149fb-eb90-4cd6-af1d-49f868e0c6d3,Approved,nan
+6613be2c3a055b1dbdeabde0,EMP95,Ruby,Lopez PLC,12-05-2003,16-04-2024,e9254a7c-0cf0-491d-a1a9-752e7e34c1b4,Rejected,nan
+6613be2c3a055b1dbdeabde1,EMP95,Objective-C,"Gutierrez, Case and Simpson",11-11-1996,25-04-2024,5d22fc92-ef51-4dc9-b68f-4620a450e91d,Rejected,nan
+6613be2c3a055b1dbdeabde2,EMP95,Java,Rice Group,11-09-2010,11-04-2024,04f64cef-0ddd-4e5e-916e-5763aa56a03b,Approved,nan
+6613be2c3a055b1dbdeabde3,EMP96,Product Management,"Snyder, Valdez and Lee",13-09-2018,06-05-2024,a2d4bc96-ff99-44e2-8053-d214c9a9e025,Approved,nan
+6613be2c3a055b1dbdeabde4,EMP96,CSS,King-Mitchell,12-12-1985,18-04-2024,1cfc5b2f-a520-42bf-8a17-5a85a41551cb,Approved,nan
+6613be2c3a055b1dbdeabde5,EMP96,PostgreSQL,Butler Group,10-12-1988,11-04-2024,9eb92396-0c18-4066-8e60-2b2f41bfdad6,Rejected,nan
+6613be2c3a055b1dbdeabde6,EMP96,Cryptography,"Miller, Flowers and Knox",19-03-2023,18-04-2024,c55ecf49-81c2-4e05-b70e-a67f693528e7,Rejected,nan
+6613be2c3a055b1dbdeabde9,EMP97,Documentation,"Jones, King and Munoz",25-05-2021,01-05-2024,16b7ab16-1912-42e4-ad43-356b4144b1b8,Rejected,nan
+6613be2c3a055b1dbdeabdea,EMP97,JavaScript,Wu PLC,17-12-1988,17-04-2024,69c35194-ac18-46e8-8e0f-bf9209518850,Rejected,nan
+6613be2c3a055b1dbdeabdeb,EMP97,.NET,Johnson and Sons,27-07-1977,26-04-2024,607f864f-e092-4ae3-9781-97cbabf47b85,Approved,nan
+6613be2c3a055b1dbdeabdec,EMP97,Requirements Analysis,"Graham, Cruz and Woods",29-01-2007,26-04-2024,072c783f-a518-4219-bd35-a13db72f1186,Rejected,nan
+6613be2c3a055b1dbdeabded,EMP98,Product Management,Taylor Group,13-01-1999,17-04-2024,4a559d2e-a542-4ccf-9caf-6c612921b6e7,Approved,nan
+6613be2c3a055b1dbdeabdee,EMP98,Leadership,Richards-Bell,30-01-1993,29-04-2024,e8738a11-b822-4f60-a68b-16db20a2e998,Approved,nan
+6613be2c3a055b1dbdeabdef,EMP98,Artificial Intelligence,Odonnell Inc,21-01-1978,27-04-2024,febc68c5-1237-4e9b-bb21-953dd17deba7,Approved,nan
+6613be2c3a055b1dbdeabdf0,EMP98,Data Visualization,Morton LLC,05-06-2022,19-04-2024,53a4d498-91e6-4947-ade0-2f707341800b,Rejected,nan
+6613be2c3a055b1dbdeabdf1,EMP99,Node.js,Newton-Stark,07-04-2024,06-05-2024,6d24c923-e50f-46bb-bec6-d0f6051f1393,Approved,nan
+6613be2c3a055b1dbdeabdf2,EMP99,Prototyping,Carter-Chavez,10-01-1976,29-04-2024,77e40832-b3be-431a-86fa-f5db2addafbc,Approved,nan
+6613be2c3a055b1dbdeabdf3,EMP99,Requirements Analysis,Patterson-White,22-05-2017,19-04-2024,d4da52ec-219f-448d-98c5-77cb070b32c2,Approved,nan
+6613be2c3a055b1dbdeabdf4,EMP99,Containerization,Wilson Inc,25-04-2009,02-05-2024,00d9879c-87fc-4ff1-aa3b-5eeeee49dfb5,Approved,nan
+6613be2c3a055b1dbdeabdf5,EMP100,Azure,"Knight, Brown and Harrington",16-01-1979,26-04-2024,6f145beb-6529-4233-afa2-9b8316f7294f,Rejected,nan
+6613be2c3a055b1dbdeabdf6,EMP100,Vue.js,Hunter Inc,17-08-1974,04-05-2024,99f06a17-180f-4f2d-a303-94e9816551b9,Approved,nan
+6613be2c3a055b1dbdeabdf7,EMP100,HTML,Bruce Group,18-12-1991,27-04-2024,94a1cd51-60af-41e0-8efe-5d896d245223,Rejected,nan
+6613be2c3a055b1dbdeabdf8,EMP100,Penetration Testing,Cruz PLC,31-05-2010,25-04-2024,814f9cf1-3de6-4207-9c00-03cd25be5a59,Approved,nan
+6613be2c3a055b1dbdeabdf9,EMP101,Statistical Analysis,Munoz-Flores,22-03-1973,28-04-2024,2899624f-6095-4f2a-970c-7defe3d2c8c0,Approved,nan
+6613be2c3a055b1dbdeabdfa,EMP101,Azure,"Larsen, Conley and Porter",09-02-2021,27-04-2024,9ca514b5-09d9-453f-a0a3-684a5e268653,Rejected,nan
+6613be2c3a055b1dbdeabdfb,EMP101,Agile Methodologies,Dyer-Smith,07-02-2018,22-04-2024,1166e525-a9f7-4a52-96c5-7f6fbf8c1284,Approved,nan
+6613be2c3a055b1dbdeabdfc,EMP101,Swift,Nelson LLC,02-05-1987,16-04-2024,6cc6842d-5bd4-4852-9ad1-3e28e173bf6c,Rejected,nan
+6613be2c3a055b1dbdeabdfd,EMP102,Agile Methodologies,Lynch-Escobar,27-02-1998,13-04-2024,5a703af6-669c-4294-bcf5-c1681a7b4ed1,Rejected,nan
+6613be2c3a055b1dbdeabdfe,EMP102,HTML,Leonard LLC,03-09-2015,06-05-2024,544fc330-7171-4078-a46c-3d968bb91a85,Rejected,nan
+6613be2c3a055b1dbdeabdff,EMP102,SQL,Morris Ltd,09-05-2014,21-04-2024,4759427a-d42c-4323-80d8-5810ce90b7a0,Rejected,nan
+6613be2c3a055b1dbdeabe00,EMP102,Product Management,Parker-Brewer,05-07-1982,03-05-2024,28c17e45-41e6-452f-8067-1afcb5d02ed3,Rejected,nan
+6613be2c3a055b1dbdeabe01,EMP103,PHP,"Burns, Smith and George",21-12-1972,09-04-2024,ff9e2331-168f-4805-8fc5-d919f298b7d6,Approved,nan
+6613be2c3a055b1dbdeabe02,EMP103,SQL,Harmon and Sons,11-01-1986,09-04-2024,b543f783-ed1a-4c04-8b99-9389dc2115bf,Approved,nan
+6613be2c3a055b1dbdeabe03,EMP103,Python,Bowers-Baker,09-08-2001,21-04-2024,b22d7425-74f6-4bcf-8c70-f5d239778c06,Rejected,nan
+6613be2c3a055b1dbdeabe04,EMP103,AWS,Bailey Group,25-03-1996,06-05-2024,dee29620-5369-4fa7-a794-8f92a838f0e2,Rejected,nan
+6613be2c3a055b1dbdeabe05,EMP104,Cybersecurity,Howell-Williams,13-09-1999,16-04-2024,16913836-433b-44a0-a605-96338cd5ec05,Approved,nan
+6613be2c3a055b1dbdeabe06,EMP104,Continuous Deployment,"Miller, Johnson and Hernandez",20-03-2008,27-04-2024,a4c0aec1-5594-4bea-99e8-ed226b118aa2,Approved,nan
+6613be2c3a055b1dbdeabe07,EMP104,SQL,Mann LLC,08-06-1988,01-05-2024,e08fef6e-e745-4868-826d-3f9bdd8fa54e,Approved,nan
+6613be2c3a055b1dbdeabe08,EMP104,RESTful API,Russell-Wilcox,15-03-2009,27-04-2024,46fb6880-49ef-44f8-ae5f-aa63a6c84bc8,Rejected,nan
+6613be2c3a055b1dbdeabe09,EMP105,MySQL,Mitchell-Jones,22-12-1971,13-04-2024,05b2e20f-0abd-4cf4-bb84-8735010db54f,Rejected,nan
+6613be2c3a055b1dbdeabe0a,EMP105,Ruby,Anderson PLC,02-04-1972,29-04-2024,bfd49dba-9e6e-407a-b24b-35e5b3856a5b,Rejected,nan
+6613be2c3a055b1dbdeabe0b,EMP105,Statistical Analysis,Nelson-Daniel,21-06-1996,11-04-2024,b8354353-e670-4d12-9712-24539bb6620b,Rejected,nan
+6613be2c3a055b1dbdeabe0c,EMP105,Communication,"Watkins, Parker and Flores",15-11-1997,29-04-2024,de9624a1-ee81-4676-9cbd-b0229e60b299,Rejected,nan
+6613be2c3a055b1dbdeabe0d,EMP106,Containerization,Miller and Sons,21-05-2019,06-05-2024,e92b7b3d-0af1-4795-b8f4-f1ebffe1a86d,Approved,nan
+6613be2c3a055b1dbdeabe0e,EMP106,HTML,Franklin-Riggs,12-08-1971,27-04-2024,07097533-02ed-4753-b0b4-8e1d8003f79a,Rejected,nan
+6613be2c3a055b1dbdeabe0f,EMP106,Accessibility,"Evans, Torres and Greene",02-12-1971,12-04-2024,1d3b8bdc-a2a3-45a1-b116-1a7387a86701,Approved,nan
+6613be2c3a055b1dbdeabe10,EMP106,Agile Product Management,Reyes-Martinez,20-01-1994,04-05-2024,115c82de-7a9a-46a2-8a05-47f073fe0351,Rejected,nan
+6613be2c3a055b1dbdeabe11,EMP107,Responsive Design,Pugh-Lopez,21-07-1982,10-04-2024,025ee553-da15-4b9a-b383-f59e88008e4c,Approved,nan
+6613be2c3a055b1dbdeabe12,EMP107,Test-Driven Development,Martinez LLC,11-02-1999,17-04-2024,50491cad-07f8-4e70-bf4a-238cfef5f1c5,Approved,nan
+6613be2c3a055b1dbdeabe13,EMP107,RESTful API,"Norris, Chapman and Morgan",17-02-1984,16-04-2024,950b2f69-4ea2-4c58-a187-63336f751015,Rejected,nan
+6613be2c3a055b1dbdeabe14,EMP107,Technical Writing,Adams-Luna,01-03-1978,26-04-2024,857b6a0a-6c22-4f3c-8cf7-afee2e494287,Approved,nan
+6613be2c3a055b1dbdeabe15,EMP108,Containerization,Perez-Armstrong,06-06-1970,11-04-2024,20cd2ba3-61aa-45e8-85a9-d2ac072fd88a,Rejected,nan
+6613be2c3a055b1dbdeabe16,EMP108,Requirements Analysis,Medina-Griffin,10-10-2009,22-04-2024,644cbbb2-bace-4d51-a216-0e96bacf2790,Approved,nan
+6613be2c3a055b1dbdeabe17,EMP108,User Stories,Waters-Lang,27-10-1987,18-04-2024,ba8830da-a22c-46c2-b952-af3751f93d43,Rejected,nan
+6613be2c3a055b1dbdeabe18,EMP108,PostgreSQL,"Brown, Cooper and Vargas",23-04-2016,01-05-2024,a2ece2ac-fc4c-437c-9d1b-3677fe69e653,Rejected,nan
+6613be2c3a055b1dbdeabe19,EMP109,Leadership,"Kim, Byrd and Goodwin",14-05-2002,26-04-2024,3e79324a-a32b-4b43-ad62-d68c25f011c4,Approved,nan
+6613be2c3a055b1dbdeabe1a,EMP109,RESTful API,Howell-Andrews,14-10-1996,26-04-2024,967fd21e-868a-4a6a-8031-fef193b1a2ae,Rejected,nan
+6613be2c3a055b1dbdeabe1b,EMP109,Communication,Campbell LLC,19-05-2012,29-04-2024,d36bcbc2-3b20-4e74-833b-3a63a484dbe4,Rejected,nan
+6613be2c3a055b1dbdeabe1c,EMP109,Behavior-Driven Development,Hunt Inc,18-07-2018,21-04-2024,774cc734-46b8-430c-84ef-6af78d0661b6,Approved,nan
+6613be2c3a055b1dbdeabe1d,EMP110,C#,Bell-Price,18-06-2007,06-05-2024,696e8fb2-8779-4752-8196-ab8d8ce90a1f,Approved,nan
+6613be2c3a055b1dbdeabe1e,EMP110,Behavior-Driven Development,Sandoval Inc,04-09-1975,04-05-2024,bc4f3c6a-99a1-4d25-8e90-0c9ea5cbfcba,Rejected,nan
+6613be2c3a055b1dbdeabe1f,EMP110,Azure,Smith-Dalton,18-03-1979,24-04-2024,a57cfc8a-6a70-4de3-885f-6579853d6e14,Approved,nan
+6613be2c3a055b1dbdeabe20,EMP110,Django,"Salas, Smith and Yates",15-12-2012,25-04-2024,54ebed3a-b0a9-46fb-98cf-5b999275e5f0,Rejected,nan
+6613be2c3a055b1dbdeabe21,EMP111,MySQL,Smith and Sons,02-11-2003,15-04-2024,10915ce0-c14a-4295-83fd-e69499b87924,Rejected,nan
+6613be2c3a055b1dbdeabe22,EMP111,Python,"Brown, Kennedy and Smith",28-01-2004,20-04-2024,0a3127b8-bb74-4f51-846b-13a1cb75f08a,Approved,nan
+6613be2c3a055b1dbdeabe23,EMP111,Containerization,Romero-Smith,22-04-1977,02-05-2024,989bd3c6-f815-414e-9d6d-057149961d76,Approved,nan
+6613be2c3a055b1dbdeabe24,EMP111,PostgreSQL,Briggs PLC,10-06-1995,27-04-2024,d1e11769-92d0-4405-a01f-51b5f27bb985,Approved,nan
+6613be2c3a055b1dbdeabe25,EMP112,Agile Product Management,Hamilton Group,26-12-1970,17-04-2024,d9520199-02e1-416f-bcce-91d7494c1499,Rejected,nan
+6613be2c3a055b1dbdeabe26,EMP112,Vue.js,White-Livingston,10-12-2012,26-04-2024,f0458d6a-8a5d-4d85-a2c2-7acf422eddd4,Rejected,nan
+6613be2c3a055b1dbdeabe27,EMP112,JavaScript,"Snyder, Pratt and Hart",27-07-2007,22-04-2024,187dea29-8fe4-45df-a161-25a227f9580b,Approved,nan
+6613be2c3a055b1dbdeabe28,EMP112,Artificial Intelligence,"Young, Armstrong and Snyder",29-03-2014,26-04-2024,c60cef71-c66d-4603-b1b4-4d115c3d8dc3,Rejected,nan
+6613be2c3a055b1dbdeabe2c,EMP113,Agile Methodologies,"Torres, Mitchell and Mitchell",26-05-2006,23-04-2024,6c71c789-05bd-4f34-a758-942976b31dc0,Approved,nan
+6613be2c3a055b1dbdeabe2d,EMP113,Wireframing,Dunn LLC,10-06-1988,06-05-2024,c6144f72-6ac5-475e-ac36-c764ac9b1bd6,Approved,nan
+6613be2c3a055b1dbdeabe2e,EMP113,Cybersecurity,"Cooley, Davis and Zimmerman",23-03-1975,29-04-2024,8f982679-637e-4d54-99b8-d423b4ede103,Rejected,nan
+6613be2c3a055b1dbdeabe2f,EMP113,React,Mitchell-Moss,27-12-1985,24-04-2024,10cb5929-627e-415c-a229-5f4364173128,Rejected,nan
+6613be2c3a055b1dbdeabe30,EMP114,JavaScript,Powers and Sons,29-07-1976,26-04-2024,2229cbf0-8f1b-40ff-932c-9b174cf483cf,Approved,nan
+6613be2c3a055b1dbdeabe31,EMP114,Kotlin,"Anderson, Mendoza and Adams",05-05-1981,15-04-2024,db91ee85-bbbe-4491-81d0-5be3a0005226,Approved,nan
+6613be2c3a055b1dbdeabe32,EMP114,Information Security,Berry-Anderson,18-06-1981,02-05-2024,9f5a4170-7c3d-4df0-a5f9-be715d622502,Approved,nan
+6613be2c3a055b1dbdeabe33,EMP114,Scrum,"Duncan, Wright and Young",14-01-1983,18-04-2024,369029cb-1fa4-49b9-ac6e-47877f27f4bd,Rejected,nan
+6613be2c3a055b1dbdeabe34,EMP115,JavaScript,Smith-Reed,26-09-2005,18-04-2024,6bb726c4-2189-4dae-a686-c2b3dc9cb220,Approved,nan
+6613be2c3a055b1dbdeabe35,EMP115,Git,Wolfe Inc,01-05-2006,15-04-2024,eb556381-2751-4014-a577-3231b6734d56,Rejected,nan
+6613be2c3a055b1dbdeabe36,EMP115,Communication,Harrison and Sons,06-09-2000,01-05-2024,a4f37d0b-f838-4131-b362-6861525bdd0f,Approved,nan
+6613be2c3a055b1dbdeabe37,EMP115,NoSQL,Banks Ltd,06-07-2009,01-05-2024,97e0b3e6-7f8b-40f3-9722-ace7cdef000e,Rejected,nan
+6613be2c3a055b1dbdeabe38,EMP116,Documentation,Kaufman-Mason,02-09-1983,09-04-2024,c09d98fd-ce3e-4386-9ae5-8cff0cb64c83,Rejected,nan
+6613be2c3a055b1dbdeabe39,EMP116,Responsive Design,"Thomas, Charles and Rodriguez",31-03-1985,18-04-2024,c306e695-7009-4e05-b6a3-34e87221af68,Rejected,nan
+6613be2c3a055b1dbdeabe3a,EMP116,React,Yang-Mcdonald,30-07-2017,09-04-2024,c416aa43-c7d0-470c-a23d-5e6d374e8cd7,Approved,nan
+6613be2c3a055b1dbdeabe3b,EMP116,Cryptography,Suarez LLC,22-12-2018,14-04-2024,3861c8a1-8b17-45a1-969d-5e6df2c07011,Rejected,nan
+6613be2c3a055b1dbdeabe3c,EMP117,Java,"Arroyo, Jones and Adams",15-07-2009,14-04-2024,a1f016c1-b512-4b66-8653-8bdb51c62e3c,Approved,nan
+6613be2c3a055b1dbdeabe3d,EMP117,Technical Writing,Sparks-Brooks,14-09-2022,09-04-2024,fb8e255e-6f5a-45c5-9b33-01b2ccb0c935,Rejected,nan
+6613be2c3a055b1dbdeabe3e,EMP117,Containerization,Lowe-Wilson,04-02-1992,06-05-2024,c520061e-538d-4d1d-8952-c3ada3c2c281,Rejected,nan
+6613be2c3a055b1dbdeabe3f,EMP117,Python,Walker Group,22-03-2023,25-04-2024,db72c5fd-6ff3-4967-8b36-c27c6d318a94,Approved,nan
+6613be2c3a055b1dbdeabe40,EMP118,Kubernetes,Melendez Ltd,09-12-1994,13-04-2024,ee927763-fb80-4924-9207-917e2baff126,Rejected,nan
+6613be2c3a055b1dbdeabe41,EMP118,Kotlin,Baker Ltd,05-01-1981,16-04-2024,41f48d61-a5c7-4a67-9e34-3d6f10c98738,Approved,nan
+6613be2c3a055b1dbdeabe42,EMP118,Scrum,Jimenez LLC,07-12-1989,15-04-2024,0b5d54b7-cf17-46eb-a680-40dc3eeb015f,Rejected,nan
+6613be2c3a055b1dbdeabe43,EMP118,Test-Driven Development,Smith-Jordan,28-09-2013,11-04-2024,9534ac19-3828-433f-af95-3e154e3459c6,Approved,nan
+6613be2c3a055b1dbdeabe44,EMP119,Angular,"Anderson, Tucker and Roberts",27-08-2005,13-04-2024,1b53e447-bdc2-4e64-b48f-764f11d81aef,Rejected,nan
+6613be2c3a055b1dbdeabe45,EMP119,Objective-C,Richards Inc,20-12-2013,17-04-2024,c7498a61-94b5-4e41-b0c4-1f4fa2b66697,Approved,nan
+6613be2c3a055b1dbdeabe46,EMP119,Data Analysis,Walker LLC,10-06-1983,12-04-2024,4f7dd26a-63d2-4575-89ec-4f53d1754160,Approved,nan
+6613be2c3a055b1dbdeabe47,EMP119,Flask,Baird-Jacobson,08-09-2015,28-04-2024,8832cfa9-cf74-4b7a-9299-59baf126a3a1,Approved,nan
+6613be2c3a055b1dbdeabe48,EMP120,Docker,"Baker, Martinez and Reynolds",21-04-1987,04-05-2024,cdfd8364-41be-4468-a924-7e8e4761e6cb,Rejected,nan
+6613be2c3a055b1dbdeabe49,EMP120,JavaScript,Boyd-Tucker,19-01-2022,04-05-2024,8c9af627-c93e-40c8-94a3-3b8a04056cd9,Approved,nan
+6613be2c3a055b1dbdeabe4a,EMP120,Interaction Design,Perry Ltd,19-05-2016,24-04-2024,84d1bd15-7e7b-4546-97e4-75748f608425,Rejected,nan
+6613be2c3a055b1dbdeabe4b,EMP120,Agile Methodologies,"Williams, Kerr and Rubio",11-01-1986,01-05-2024,5f249d89-4674-4ca8-ba90-06c9987d4044,Approved,nan
+6613be2c3a055b1dbdeabe4c,EMP121,Leadership,Cain LLC,05-01-2009,22-04-2024,5dd105b0-53c2-40eb-beab-bf0301c6b83c,Approved,nan
+6613be2c3a055b1dbdeabe4d,EMP121,Interaction Design,Sanford Group,06-11-1983,23-04-2024,12c5a8d7-1637-42eb-bd9c-eaee339d349b,Approved,nan
+6613be2c3a055b1dbdeabe4e,EMP121,Problem Solving,"Phillips, Mcdonald and Garcia",17-05-1998,04-05-2024,043a2544-7496-4d2d-bf39-eb2bdef6011e,Approved,nan
+6613be2c3a055b1dbdeabe4f,EMP121,C#,Pacheco-Berger,30-03-1987,03-05-2024,ddf188bf-45ff-4f9c-9a11-c2ae8eea2c32,Rejected,nan
+6613be2c3a055b1dbdeabe50,EMP122,.NET,Wheeler Group,23-07-1982,27-04-2024,0a35a6ee-359b-43b1-b7f8-8b2a9a237396,Rejected,nan
+6613be2c3a055b1dbdeabe51,EMP122,MongoDB,Rogers-Donaldson,25-09-1988,03-05-2024,86d1129f-787b-4cbb-b5ce-8653c43eca71,Rejected,nan
+6613be2c3a055b1dbdeabe52,EMP122,Responsive Design,"Henry, Johnson and Powell",31-10-2013,16-04-2024,406d0bfe-ff9e-45fa-ad5a-729ae8749b36,Rejected,nan
+6613be2c3a055b1dbdeabe53,EMP122,Agile Methodologies,"Simpson, Jimenez and Walker",30-04-1984,27-04-2024,48463e28-1ae1-41ee-93b6-b53ff3c77712,Rejected,nan
+6613be2c3a055b1dbdeabe54,EMP123,SQL,"Harper, Davenport and Hughes",23-11-2014,05-05-2024,fe813771-ac33-4d07-9f4e-71ce9fe9d0eb,Approved,nan
+6613be2c3a055b1dbdeabe55,EMP123,PostgreSQL,Dunlap-Gibson,23-10-1994,17-04-2024,0841c9cc-ac7f-4083-ac16-534294851068,Rejected,nan
+6613be2c3a055b1dbdeabe56,EMP123,Django,"Gardner, Jenkins and Herring",14-03-1981,22-04-2024,d1aa2949-bff3-42f0-a025-4f2373178b6d,Approved,nan
+6613be2c3a055b1dbdeabe57,EMP123,Kubernetes,May Group,13-01-2024,07-05-2024,a999f5d2-f0a1-4a2d-aa1c-7ff200fb24ae,Rejected,nan
+6613be2c3a055b1dbdeabe58,EMP124,Docker,"Ramirez, Newman and Simmons",14-07-1998,28-04-2024,64682310-8a77-4563-b713-67b1396c014e,Rejected,nan
+6613be2c3a055b1dbdeabe59,EMP124,Objective-C,Gonzalez Ltd,29-04-2018,24-04-2024,28ff314c-cd18-4952-b839-cfa5ca94ee72,Approved,nan
+6613be2c3a055b1dbdeabe5a,EMP124,Continuous Deployment,Ferguson-Snow,05-01-1970,02-05-2024,32132043-0c57-4640-8302-b74bc9124cd6,Rejected,nan
+6613be2c3a055b1dbdeabe5b,EMP124,DevOps,Petersen LLC,03-01-1972,19-04-2024,2127e39e-b8d2-470e-a01a-a6f6944520df,Approved,nan
+6613be2c3a055b1dbdeabe5c,EMP125,Agile Methodologies,"White, Willis and Osborn",01-02-1970,01-05-2024,ad0b9545-5e59-4b2f-8fc3-0ee6a22f509d,Rejected,nan
+6613be2c3a055b1dbdeabe5d,EMP125,Collaboration,Small LLC,06-06-1997,19-04-2024,6b95bf39-2340-4f06-a362-bd2e95839039,Approved,nan
+6613be2c3a055b1dbdeabe5e,EMP125,Machine Learning,Mosley-Edwards,13-12-2008,23-04-2024,d5290286-e409-4fa4-a4d2-24cbf5b8c3c2,Approved,nan
+6613be2c3a055b1dbdeabe5f,EMP125,Troubleshooting,"Meyer, Rhodes and Moreno",05-03-1986,07-05-2024,402b389e-952b-4220-a43d-8a1c8c7795a2,Rejected,nan
+6613be2c3a055b1dbdeabe60,EMP126,CSS,"White, Page and Scott",18-06-1993,04-05-2024,67d3f1b2-8805-4dff-bba6-2c4c8160cb48,Approved,nan
+6613be2c3a055b1dbdeabe61,EMP126,Microservices,"Cummings, Simpson and Love",24-06-2018,06-05-2024,0df786d8-8fd6-48fd-bc9b-238c0fb1e0de,Approved,nan
+6613be2c3a055b1dbdeabe62,EMP126,Collaboration,Herrera-Flores,21-10-2003,26-04-2024,f600b2ee-bac8-4327-aa33-77a53586c5f7,Approved,nan
+6613be2c3a055b1dbdeabe63,EMP126,React,"Browning, Garcia and Wells",17-03-1971,23-04-2024,623a2ef3-dafc-40dd-bd66-b5ccd5ef3bdf,Rejected,nan
+6613be2c3a055b1dbdeabe64,EMP127,Azure,Vazquez LLC,12-07-1993,25-04-2024,b9d07058-df15-467c-8915-0f54b9215f18,Rejected,nan
+6613be2c3a055b1dbdeabe65,EMP127,HTML,"Vincent, Cole and Lowe",20-02-1981,29-04-2024,39bc21ff-3d1c-4cad-a133-6f86791c906c,Rejected,nan
+6613be2c3a055b1dbdeabe66,EMP127,Django,"Wang, Rodriguez and Diaz",10-08-1999,25-04-2024,02b176a8-fee4-40d2-81ef-8fc229e77687,Rejected,nan
+6613be2c3a055b1dbdeabe67,EMP127,C#,Torres and Sons,29-08-1974,16-04-2024,fa1fa217-fa23-41e2-8fc4-ef30cfafb66c,Rejected,nan
+6613be2c3a055b1dbdeabe68,EMP128,Objective-C,Moore-Rose,12-07-2015,26-04-2024,c212ca3f-683a-4ecd-ba91-cfa485b11941,Rejected,nan
+6613be2c3a055b1dbdeabe69,EMP128,Data Analysis,Johnson Ltd,03-02-2009,25-04-2024,9c4e0f5a-28d9-40cc-9b52-3597ce4d9643,Rejected,nan
+6613be2c3a055b1dbdeabe6a,EMP128,Agile Methodologies,Donaldson LLC,09-03-2020,26-04-2024,39ff01ec-d242-41c3-818c-6d3d4e585731,Rejected,nan
+6613be2c3a055b1dbdeabe6b,EMP128,Problem Solving,Taylor-Griffin,08-07-1989,02-05-2024,07894c37-1d82-4d5b-9871-9772a780314e,Approved,nan
+6613be2c3a055b1dbdeabe6f,EMP129,Docker,"Frederick, Watkins and Sandoval",01-09-2018,14-04-2024,a6b44a29-b360-4617-b518-6f1e6b9f5916,Approved,nan
+6613be2c3a055b1dbdeabe70,EMP129,Microservices,"Fitzgerald, Mills and Cohen",19-12-1999,13-04-2024,aec86a6f-c9c9-4af1-82ee-f67de8bc34d5,Rejected,nan
+6613be2c3a055b1dbdeabe71,EMP129,Vue.js,James Ltd,27-08-2000,24-04-2024,509645fb-1df9-47d9-bc3a-26ef06178be0,Rejected,nan
+6613be2c3a055b1dbdeabe72,EMP129,Data Visualization,Johnson PLC,23-06-1978,09-04-2024,c545f2eb-dc11-4c24-9258-f1e1b8955cc6,Rejected,nan
+6613be2c3a055b1dbdeabe73,EMP130,Business Analysis,Garcia-Dickson,26-10-1998,22-04-2024,23a32364-c1d9-4add-a315-69d28a8238fd,Approved,nan
+6613be2c3a055b1dbdeabe74,EMP130,Wireframing,Cobb-Young,21-07-1977,26-04-2024,6c843b93-72e7-49af-90e6-aa4c09e1fb1b,Approved,nan
+6613be2c3a055b1dbdeabe75,EMP130,Azure,"Adkins, Chandler and Norman",30-03-1980,05-05-2024,9680a122-d6eb-403c-ba5d-6136f2539b58,Rejected,nan
+6613be2c3a055b1dbdeabe76,EMP130,Kotlin,Rivera PLC,21-07-1994,25-04-2024,6af75ea2-a80c-4704-8049-47e18903c3b3,Rejected,nan
+6613be2c3a055b1dbdeabe77,EMP131,CSS,Williams Group,02-03-1981,23-04-2024,55e870f1-bfa2-4b3b-96e4-8bc4d52d5a38,Approved,nan
+6613be2c3a055b1dbdeabe78,EMP131,Agile Product Management,"Shaffer, Jordan and Gray",07-08-1971,25-04-2024,6fef8c5f-b3d5-4061-9088-23088777eea0,Approved,nan
+6613be2c3a055b1dbdeabe79,EMP131,Continuous Deployment,Banks Ltd,26-03-1975,24-04-2024,44f23fe5-02f4-42eb-b493-6cebaf14a204,Rejected,nan
+6613be2c3a055b1dbdeabe7a,EMP131,Ruby,"Day, Cox and Marquez",23-09-2013,09-04-2024,e8c7e25f-8715-4fca-8bea-94ee4679be85,Approved,nan
+6613be2c3a055b1dbdeabe7b,EMP132,PostgreSQL,"Graham, Lawrence and Atkins",24-11-1993,03-05-2024,e287e50f-4d8a-4026-a1e2-3398caa63163,Approved,nan
+6613be2c3a055b1dbdeabe7c,EMP132,Swift,Jordan and Sons,22-04-2000,06-05-2024,4175afcb-8f98-4493-a79d-dacb00e8b1e7,Rejected,nan
+6613be2c3a055b1dbdeabe7e,EMP132,DevOps,Fisher Inc,31-12-1984,30-04-2024,87f5b994-f9ef-4fbb-9644-3b209cd16594,Rejected,nan
+6613be2c3a055b1dbdeabe7f,EMP132,Responsive Design,"Martinez, Ramirez and Miller",11-01-2004,09-04-2024,cc67fe2c-c8f8-48c5-b310-44c76a10bed0,Rejected,nan
+6613be2c3a055b1dbdeabe80,EMP133,Responsive Design,Stafford-Jackson,12-02-2004,01-05-2024,62438e80-8367-43cf-a6bf-c6ab7adeefd6,Rejected,nan
+6613be2c3a055b1dbdeabe81,EMP133,Requirements Analysis,"James, Fry and Perry",18-04-1980,26-04-2024,a00d6fce-0027-4984-88a9-70efce354791,Approved,nan
+6613be2c3a055b1dbdeabe82,EMP133,Business Analysis,Bautista-Johnson,02-11-1982,25-04-2024,6cdcbc1f-6a1c-404e-9c1b-25ce3b10e830,Rejected,nan
+6613be2c3a055b1dbdeabe83,EMP133,Continuous Integration,Thompson PLC,07-05-1996,02-05-2024,56524862-bc10-4b71-a083-3b94b3665b03,Rejected,nan
+6613be2c3a055b1dbdeabe84,EMP134,Flask,Kirk Inc,03-05-1996,25-04-2024,2da84cb5-2ad3-4a39-a702-069288127c9b,Approved,nan
+6613be2c3a055b1dbdeabe85,EMP134,JavaScript,"Moore, Moore and Gould",09-10-1973,11-04-2024,f9c80126-b5d3-4e65-834f-22a7092d0f04,Approved,nan
+6613be2c3a055b1dbdeabe86,EMP134,AWS,Barron Inc,17-09-2020,22-04-2024,d442bbc9-b34e-46cc-81b8-cdfe80a62e8c,Rejected,nan
+6613be2c3a055b1dbdeabe87,EMP134,Interaction Design,Richardson-Nash,04-10-2003,18-04-2024,21900341-4fee-4859-8da2-4369faf1999e,Rejected,nan
+6613be2c3a055b1dbdeabe88,EMP135,Agile Product Management,"Hernandez, Hernandez and Guerrero",25-09-1993,06-05-2024,d8fb3e41-5205-42a6-89d3-21f042bc6311,Approved,nan
+6613be2c3a055b1dbdeabe89,EMP135,Behavior-Driven Development,Cook Ltd,23-08-1984,05-05-2024,b534c0ea-e5d9-44d9-9640-3ce24f25948d,Approved,nan
+6613be2c3a055b1dbdeabe8a,EMP135,Django,Wilson Inc,02-07-1996,11-04-2024,69c72325-1357-4fdb-994e-d486f5c8b4f7,Approved,nan
+6613be2c3a055b1dbdeabe8b,EMP135,Flask,"Aguirre, Carey and Smith",31-08-1993,15-04-2024,11f8344a-8b69-4b93-ab6d-3add37d854f3,Approved,nan
+6613be2c3a055b1dbdeabe8c,EMP136,Containerization,"Lambert, Stevens and Mcpherson",24-02-2017,23-04-2024,0071cad9-73a9-4772-b655-f5297dc67d1a,Rejected,nan
+6613be2c3a055b1dbdeabe8d,EMP136,Java,"Graham, Rodriguez and Bullock",08-07-2006,06-05-2024,0ae6f0b1-7e93-45ee-9d0c-ad3b9169c343,Approved,nan
+6613be2c3a055b1dbdeabe8e,EMP136,Kubernetes,Chapman and Sons,08-04-1983,15-04-2024,5b38593e-4bb2-4620-b2f9-af79534bbb21,Rejected,nan
+6613be2c3a055b1dbdeabe8f,EMP136,Python,"Benjamin, Rich and Perry",05-10-2017,14-04-2024,9afb86d5-ce93-4685-9c95-3e6f684add75,Approved,nan
+6613be2c3a055b1dbdeabe90,EMP137,Git,Humphrey-Sellers,06-10-2007,21-04-2024,b1a939a6-44ec-4709-a325-11a8809727a0,Approved,nan
+6613be2c3a055b1dbdeabe91,EMP137,Product Management,"Smith, Torres and Ross",18-08-1989,30-04-2024,7361cc9a-97b9-4426-a858-1a40534184fe,Rejected,nan
+6613be2c3a055b1dbdeabe92,EMP137,User Research,Campbell Inc,05-12-1971,01-05-2024,6706d450-e27c-4cb8-a6ac-3f83c0865fd3,Approved,nan
+6613be2c3a055b1dbdeabe93,EMP137,Continuous Deployment,Morgan LLC,13-08-1974,04-05-2024,0f948e86-62a6-47d0-a6fe-5931f736e44b,Approved,nan
+6613be2c3a055b1dbdeabe94,EMP138,Agile Product Management,"Obrien, Reynolds and Perry",10-05-1979,16-04-2024,c7bab286-a9a3-4d60-9c79-574b739831f6,Approved,nan
+6613be2c3a055b1dbdeabe95,EMP138,Python,Fernandez PLC,13-08-2013,25-04-2024,feb07d90-d5b4-4cad-a0b1-30caa83efef3,Rejected,nan
+6613be2c3a055b1dbdeabe96,EMP138,Git,Jimenez-Gomez,01-08-2023,23-04-2024,83bd4616-ce98-4f70-a685-3111158150cc,Rejected,nan
+6613be2c3a055b1dbdeabe97,EMP138,Continuous Integration,"Ali, Shepherd and Ponce",15-11-2010,25-04-2024,91fa0ffc-b765-4faf-811a-ea47c257669b,Approved,nan
+6613be2c3a055b1dbdeabe98,EMP139,Azure,"Barker, Salas and White",28-08-1973,19-04-2024,17fd0be2-5af3-4497-84e9-aced9c2598a8,Approved,nan
+6613be2c3a055b1dbdeabe99,EMP139,Django,Higgins-Stevenson,28-05-2008,26-04-2024,611ac9aa-ce2b-4ab0-8e42-52ea4a6f32d7,Approved,nan
+6613be2c3a055b1dbdeabe9a,EMP139,Problem Solving,"Boone, Smith and Moore",09-02-2006,29-04-2024,31e88f08-e837-4385-8db0-a56a410d907e,Approved,nan
+6613be2c3a055b1dbdeabe9b,EMP139,Test-Driven Development,Williams-Beard,25-07-2014,02-05-2024,abe47a42-28dd-448a-bf53-20abb85d6551,Rejected,nan
+6613be2c3a055b1dbdeabe9c,EMP140,Information Security,"Blankenship, Carter and Kelley",05-02-1983,04-05-2024,c8c9fb3d-da01-4628-89ea-2341dc5ddac6,Approved,nan
+6613be2c3a055b1dbdeabe9d,EMP140,C#,Rodriguez-Barnett,19-10-2022,12-04-2024,7d2856ca-16a3-422e-a184-807c6a9a6753,Approved,nan
+6613be2c3a055b1dbdeabe9e,EMP140,Communication,"Bennett, Zimmerman and Simmons",18-01-2007,05-05-2024,23f1f91b-b63b-4151-9a12-f9e192a07c29,Approved,nan
+6613be2c3a055b1dbdeabe9f,EMP140,GraphQL,Thompson Group,13-08-2010,28-04-2024,a625827f-b483-43b7-bf85-2eb7ef1c648a,Approved,nan
+6613be2c3a055b1dbdeabea0,EMP141,Product Management,"Page, Patton and Rivera",04-06-2001,29-04-2024,8cd62def-3ab9-4857-a2b5-1b1a1474ee1a,Approved,nan
+6613be2c3a055b1dbdeabea1,EMP141,Troubleshooting,Delgado LLC,19-08-2017,14-04-2024,b905a6ee-76c7-4960-8c82-b0d5507a5ae2,Approved,nan
+6613be2c3a055b1dbdeabea2,EMP141,Data Science,Knox-Hayes,16-03-1974,27-04-2024,fadee072-5b47-4a52-8679-5311537e47af,Approved,nan
+6613be2c3a055b1dbdeabea3,EMP141,Continuous Integration,Mcneil-Casey,19-07-2020,10-04-2024,445108a3-fdd5-4064-a6af-601a2646bf4d,Approved,nan
+6613be2c3a055b1dbdeabea4,EMP142,Business Analysis,"Dunlap, Cummings and Wilson",04-02-1994,30-04-2024,2760ca54-0f56-4266-a0b0-97f63b31b230,Rejected,nan
+6613be2c3a055b1dbdeabea5,EMP142,Information Security,"Ramirez, Watson and Gill",06-01-2019,19-04-2024,334c4b29-6836-4f6a-8fba-b2800b87bf22,Approved,nan
+6613be2c3a055b1dbdeabea6,EMP142,Continuous Deployment,Reynolds Group,06-11-2017,14-04-2024,9f89c932-d811-40a3-9b8c-ea0196d7f4ec,Approved,nan
+6613be2c3a055b1dbdeabea7,EMP142,DevOps,Garcia Group,26-10-2001,21-04-2024,1b4ce8ac-f390-490e-a813-66ee0408179e,Approved,nan
+6613be2c3a055b1dbdeabea8,EMP143,Microservices,"Ortiz, Bush and Ray",29-03-2018,16-04-2024,4e54b098-2de2-4984-9db8-bf030938bf5c,Approved,nan
+6613be2c3a055b1dbdeabea9,EMP143,Azure,"Johnson, Huerta and Robinson",04-01-2009,13-04-2024,ce0d9e20-c5e4-44e4-9ac8-5d5a3ec7ce5b,Approved,nan
+6613be2c3a055b1dbdeabeaa,EMP143,CI/CD,"Hughes, Cherry and Vance",09-08-2005,06-05-2024,1d220428-eb2d-4f78-8534-354fd0d406a4,Approved,nan
+6613be2c3a055b1dbdeabeab,EMP143,MongoDB,Smith-Underwood,08-01-1977,12-04-2024,50ef06e1-45a6-49c9-a844-c8f5d47e3d6a,Rejected,nan
+6613be2c3a055b1dbdeabeac,EMP144,Statistical Analysis,Reyes-Torres,17-10-2007,24-04-2024,4bd72c94-b73a-468f-b632-db2bef67f038,Rejected,nan
+6613be2c3a055b1dbdeabead,EMP144,UI/UX Design,Moreno Inc,07-01-1984,17-04-2024,8144b907-df37-41b4-829f-ded1a4ebbbe6,Rejected,nan
+6613be2c3a055b1dbdeabeae,EMP144,Accessibility,"Bartlett, Pierce and Taylor",21-08-1973,09-04-2024,93b8f4a1-d31f-4cfb-9894-262c55e703cb,Approved,nan
+6613be2c3a055b1dbdeabeaf,EMP144,Django,"Green, Johnson and Johnson",15-11-1988,01-05-2024,30f51bf1-2284-4c84-9b6e-b48181d6248b,Rejected,nan
+6613be2c3a055b1dbdeabeb2,EMP145,MySQL,Murphy Group,30-01-2004,21-04-2024,a5d54563-45e5-4bb9-9b03-fec7e5655461,Approved,nan
+6613be2c3a055b1dbdeabeb3,EMP145,Prototyping,"Morris, Beasley and Hardy",09-04-1997,30-04-2024,e99ab87d-2306-421e-b2bb-6850bd8e2b0e,Approved,nan
+6613be2c3a055b1dbdeabeb4,EMP145,Interaction Design,Melton and Sons,12-09-1981,05-05-2024,74b63781-fa4e-4b91-9355-46b632cbe86c,Approved,nan
+6613be2c3a055b1dbdeabeb5,EMP145,Accessibility,"Boyle, Wolf and Davis",20-06-1995,30-04-2024,8710164f-8cfb-43ee-b957-a40dc1f7327b,Rejected,nan
+6613be2c3a055b1dbdeabeb6,EMP146,NoSQL,Wallace-Newton,31-07-1971,13-04-2024,75214701-b008-4896-9988-e8a089b69a0a,Approved,nan
+6613be2c3a055b1dbdeabeb7,EMP146,Network Security,Garza Inc,06-08-2020,27-04-2024,93682b80-bc32-4bda-8d23-bcb9e08476e5,Rejected,nan
+6613be2c3a055b1dbdeabeb8,EMP146,Behavior-Driven Development,Carrillo-Chapman,20-03-1981,03-05-2024,f40c5d33-6f68-471a-885c-550f8c58ecf2,Approved,nan
+6613be2c3a055b1dbdeabeb9,EMP146,Problem Solving,Garcia LLC,16-07-2006,07-05-2024,f54d38f6-16a3-419d-8262-828911cf51c8,Approved,nan
+6613be2c3a055b1dbdeabeba,EMP147,User Stories,Phillips-Wyatt,10-10-1973,23-04-2024,f5a39c7e-89b8-4ff4-b0ac-2e0ed77a11dc,Rejected,nan
+6613be2c3a055b1dbdeabebb,EMP147,DevOps,Hale-Young,08-11-2020,13-04-2024,3ef2c319-f7f3-4fef-af34-b296026a557b,Approved,nan
+6613be2c3a055b1dbdeabebc,EMP147,Business Analysis,Terry Ltd,18-06-2014,03-05-2024,9e4e2d3e-8f69-4b9b-a860-9cdd72f5afc4,Rejected,nan
+6613be2c3a055b1dbdeabebd,EMP147,Ruby,"Moss, Maynard and Vaughn",14-05-2009,07-05-2024,d9c268ca-0cf9-4676-b42f-d242c680f937,Rejected,nan
+6613be2c3a055b1dbdeabebe,EMP148,HTML,"Wilson, Mcguire and Gonzales",11-06-1971,13-04-2024,ce2ff989-88d2-4377-a464-9fca2455c0b5,Rejected,nan
+6613be2c3a055b1dbdeabebf,EMP148,Microservices,Johnson-Taylor,23-12-2015,10-04-2024,91a49084-9209-49de-a65b-06a949c5cfe5,Approved,nan
+6613be2c3a055b1dbdeabec0,EMP148,Interaction Design,Allen-Jarvis,10-01-2002,12-04-2024,7a64769a-4c9b-4539-8375-d2cfce0d2f43,Approved,nan
+6613be2c3a055b1dbdeabec1,EMP148,CI/CD,Franklin-Novak,26-08-1978,13-04-2024,887f0967-e44f-46ba-bb44-a8516de6cfa9,Rejected,nan
+6613be2c3a055b1dbdeabec2,EMP149,React,Davis-Lopez,17-12-1994,16-04-2024,7c6cad24-6b9f-46fc-9e9a-ee1e8f2b3709,Approved,nan
+6613be2c3a055b1dbdeabec3,EMP149,Statistical Analysis,Perez PLC,29-06-2007,29-04-2024,132aca10-1aa8-4e4d-95f2-de95d621c217,Approved,nan
+6613be2c3a055b1dbdeabec4,EMP149,Ruby,"Cameron, Brown and Matthews",06-10-1990,06-05-2024,61f4f3cb-3bf8-410b-822d-00a874fac016,Approved,nan
+6613be2c3a055b1dbdeabec5,EMP149,Artificial Intelligence,Young Inc,29-08-1997,30-04-2024,e99a7b6f-3e5c-4d48-b499-54827476f32a,Rejected,nan
+6613be2c3a055b1dbdeabec6,EMP150,Kotlin,Velez-Dalton,13-08-2014,15-04-2024,0b588bdb-cdd6-411e-bfbc-0721b70006e7,Approved,nan
+6613be2c3a055b1dbdeabec7,EMP150,Documentation,"Flores, Nguyen and Beltran",02-07-2017,04-05-2024,af8ef8e1-afdc-4c3c-a8a8-dcf97af492d7,Approved,nan
+6613be2c3a055b1dbdeabec8,EMP150,Django,"Gray, Diaz and Hill",25-03-2003,06-05-2024,bb1084c3-2d57-4ee0-8655-6f32105d0975,Approved,nan
+6613be2c3a055b1dbdeabec9,EMP150,RESTful API,Brown-Clark,27-04-1981,18-04-2024,996d0aa3-535b-4705-9d3c-3c95405cbeb8,Rejected,nan
+6613be2c3a055b1dbdeabeca,EMP151,Java,Reed Group,03-12-2001,18-04-2024,a2e271cd-fb64-4786-b9ac-6749b14dee90,Rejected,nan
+6613be2c3a055b1dbdeabecb,EMP151,Data Visualization,"Watts, Jenkins and Rios",06-10-2001,12-04-2024,b15f3bbc-0006-4a38-9eab-c6af1d789e12,Approved,nan
+6613be2c3a055b1dbdeabecc,EMP151,CSS,Acosta Inc,29-06-1982,29-04-2024,2b47ee8c-c664-4fb8-a16d-bebb5533fc7f,Approved,nan
+6613be2c3a055b1dbdeabecd,EMP151,NoSQL,"Carlson, Ramirez and Woodard",09-11-1982,13-04-2024,7699d8bc-5558-42f3-993b-db62ee7de259,Rejected,nan
+6613be2c3a055b1dbdeabece,EMP152,PHP,"Castaneda, Webster and Calderon",25-07-1989,17-04-2024,87af60f6-a8a4-413c-a8d2-f14e16480244,Rejected,nan
+6613be2c3a055b1dbdeabecf,EMP152,Node.js,"Stanley, Tucker and Beasley",19-02-1993,21-04-2024,6901bde3-14b3-497c-9eb2-5af3101e6936,Rejected,nan
+6613be2c3a055b1dbdeabed0,EMP152,JavaScript,Haynes-Phillips,04-09-2015,15-04-2024,a2691f34-052f-481a-a67e-a993071b9e43,Approved,nan
+6613be2c3a055b1dbdeabed1,EMP152,Machine Learning,Fleming Group,24-09-1980,14-04-2024,6992c578-e64e-4a08-9bfc-18f921582197,Rejected,nan
+6613be2c3a055b1dbdeabed2,EMP153,Continuous Deployment,"Jimenez, King and Evans",30-10-1998,10-04-2024,b051f1e1-29dd-4abc-9d28-22713b8e7e7b,Approved,nan
+6613be2c3a055b1dbdeabed3,EMP153,Flask,"Hayes, Williams and Owen",27-05-2010,07-05-2024,2bf8bcfc-de03-4646-a5af-2a0fda4ed61e,Approved,nan
+6613be2c3a055b1dbdeabed4,EMP153,Objective-C,Norman-Davis,13-01-1985,29-04-2024,4a9e826a-59d2-4e94-b215-8f28b8a0c6f7,Rejected,nan
+6613be2c3a055b1dbdeabed5,EMP153,Artificial Intelligence,Clark Group,19-10-1974,21-04-2024,bc67ebf7-205d-48f8-a0d0-338cb7dafd62,Approved,nan
+6613be2c3a055b1dbdeabed6,EMP154,Ruby,"Wright, Hoffman and Wilson",13-11-2013,24-04-2024,29fda9e2-c45b-43aa-b503-3a67246ce5af,Rejected,nan
+6613be2c3a055b1dbdeabed7,EMP154,Information Security,Lowe and Sons,09-01-1981,20-04-2024,3f556160-4f09-41cd-a9f8-5f1b0052888c,Rejected,nan
+6613be2c3a055b1dbdeabed8,EMP154,Git,Mitchell-Williams,27-12-1971,29-04-2024,0df3282b-367e-47a8-825b-14acab1cdcae,Approved,nan
+6613be2c3a055b1dbdeabed9,EMP154,GraphQL,Mclean Inc,14-10-2012,17-04-2024,d76cb4d0-241d-420a-adfc-0151968b7b63,Rejected,nan
+6613be2c3a055b1dbdeabeda,EMP155,Machine Learning,Mitchell Inc,08-09-1998,30-04-2024,511637b4-fcfd-4415-b8ae-9e2281745242,Rejected,nan
+6613be2c3a055b1dbdeabedb,EMP155,Scrum,Moyer-Brown,21-01-1976,30-04-2024,76ae3ac5-fd85-496f-83ec-df2b98509626,Approved,nan
+6613be2c3a055b1dbdeabedc,EMP155,Objective-C,Marquez and Sons,07-04-1986,20-04-2024,be603dea-e083-4c99-8e72-3242f166dd67,Approved,nan
+6613be2c3a055b1dbdeabedd,EMP155,Docker,"Richard, Ruiz and Mitchell",07-01-1986,20-04-2024,6a246c18-c527-46c5-a959-22b971d13f2e,Approved,nan
+6613be2c3a055b1dbdeabede,EMP156,Ruby,"Jones, Duarte and Lewis",19-10-2016,21-04-2024,74d3bcd7-e30a-4353-9609-731e9c676279,Approved,nan
+6613be2c3a055b1dbdeabedf,EMP156,Cryptography,Moreno Group,21-08-1979,14-04-2024,0c294838-a79c-46a5-9607-dc19fc97f71f,Rejected,nan
+6613be2c3a055b1dbdeabee0,EMP156,MongoDB,Brock LLC,02-07-2005,05-05-2024,f4409606-7ab9-4337-842d-93086cace4ea,Rejected,nan
+6613be2c3a055b1dbdeabee1,EMP156,User Research,Le-Martinez,30-05-1988,17-04-2024,cd880a98-d2e3-447e-b5d5-b0dccb73e42d,Approved,nan
+6613be2c3a055b1dbdeabee2,EMP157,Troubleshooting,Mclaughlin-Bell,21-11-2011,22-04-2024,7a2de914-7478-4ca0-8542-badbd572d25f,Rejected,nan
+6613be2c3a055b1dbdeabee3,EMP157,RESTful API,Thomas Ltd,01-05-1972,06-05-2024,3f551312-1fb3-4d91-9288-7d29c40549aa,Rejected,nan
+6613be2c3a055b1dbdeabee4,EMP157,Artificial Intelligence,Scott-Schaefer,19-03-1982,04-05-2024,206a6b0c-7307-426a-af96-9f06c3640cae,Approved,nan
+6613be2c3a055b1dbdeabee5,EMP157,Technical Writing,Roach and Sons,30-12-2004,10-04-2024,5231952b-7469-48fe-8a4a-1367940a088d,Rejected,nan
+6613be2c3a055b1dbdeabee7,EMP158,JavaScript,"Moore, Escobar and George",30-01-2014,10-04-2024,82db3059-3a56-4a54-bc15-fbbaf9e1464d,Rejected,nan
+6613be2c3a055b1dbdeabee8,EMP158,Vue.js,Hoffman-Hernandez,04-07-1973,20-04-2024,5afc05f5-8518-4c01-8197-37d171594f9e,Approved,nan
+6613be2c3a055b1dbdeabee9,EMP158,DevOps,Phillips LLC,05-08-2014,22-04-2024,de4cc5e2-ad99-48e7-ad73-eb65ee1b1b29,Rejected,nan
+6613be2c3a055b1dbdeabeea,EMP158,Penetration Testing,"Ball, Boyd and Murphy",10-03-1972,21-04-2024,30b5ed03-1617-4afd-9c1e-a6c48894f949,Approved,nan
+6613be2c3a055b1dbdeabeeb,EMP159,Java,Smith PLC,10-02-2024,26-04-2024,0959f54c-8ced-4bdb-af49-c69bff6c42a9,Rejected,nan
+6613be2c3a055b1dbdeabeec,EMP159,Data Science,Mendoza Group,24-03-2004,22-04-2024,e8f04d80-d3ff-4ca0-955c-1199f8d7f7e6,Approved,nan
+6613be2c3a055b1dbdeabeed,EMP159,CSS,"Dunlap, Chavez and Mitchell",03-10-2018,15-04-2024,54c345c1-e29d-4634-b257-6b378d14090d,Approved,nan
+6613be2c3a055b1dbdeabeee,EMP159,MySQL,Wright and Sons,20-09-2015,07-05-2024,60ebe8bd-d3b2-4f82-a352-bff840fdc559,Approved,nan
+6613be2c3a055b1dbdeabeef,EMP160,Agile Methodologies,Garcia and Sons,12-07-1996,23-04-2024,104cec80-930e-483b-bcd7-04776142da95,Rejected,nan
+6613be2c3a055b1dbdeabef0,EMP160,User Research,Davila-Miller,19-01-1980,20-04-2024,944ddd60-6160-4fe1-8f81-16371cbecdc4,Rejected,nan
+6613be2c3a055b1dbdeabef1,EMP160,Wireframing,Phillips Inc,26-08-1978,30-04-2024,4f70a0c6-3625-4fe5-a335-3dcbc34f4439,Rejected,nan
+6613be2c3a055b1dbdeabef2,EMP160,Collaboration,Perez LLC,25-04-1984,16-04-2024,b1e323fb-0577-4641-a407-f30e1166d526,Rejected,nan
+6613be2c3a055b1dbdeabef6,EMP161,Prototyping,"Coleman, Forbes and Lynch",08-09-1994,04-05-2024,2b271b1c-e97f-4346-92d2-93401444e63c,Rejected,nan
+6613be2c3a055b1dbdeabef7,EMP161,C#,Lane LLC,08-08-1981,10-04-2024,390295e6-0e0d-4f6f-8b6f-88ea0c35f7f1,Rejected,nan
+6613be2c3a055b1dbdeabef8,EMP161,Ruby,"Greene, Walters and Washington",04-12-2021,02-05-2024,da66348b-a555-41be-96fb-fd14fd6c895c,Approved,nan
+6613be2c3a055b1dbdeabef9,EMP161,Google Cloud Platform,"Lee, Robinson and Rodgers",09-09-2013,13-04-2024,57c06162-0296-4d96-859e-ff4f9bd0d10a,Rejected,nan
+6613be2c3a055b1dbdeabefa,EMP162,Docker,Smith-Patel,27-05-2015,07-05-2024,573574b9-552c-4e25-bbfd-39f24ccec4ef,Approved,nan
+6613be2c3a055b1dbdeabefb,EMP162,Wireframing,"Levy, Short and Carroll",03-02-2019,25-04-2024,ba12c253-8bb1-4ebb-85e4-f0419230ec18,Approved,nan
+6613be2c3a055b1dbdeabefc,EMP162,DevOps,Macias-Nichols,04-10-2002,09-04-2024,71843a29-23e2-41d8-89d6-05de8e4d8104,Approved,nan
+6613be2c3a055b1dbdeabefd,EMP162,Product Management,Meyer and Sons,22-12-1996,03-05-2024,09291ff2-c0ec-493f-b2fc-e08ef1628b96,Rejected,nan
+6613be2c3a055b1dbdeabefe,EMP163,PHP,Jordan and Sons,16-03-2009,14-04-2024,e03c23a0-a941-40ec-bbce-5cb068e283a1,Approved,nan
+6613be2c3a055b1dbdeabeff,EMP163,SQL,Mason Ltd,03-11-1980,28-04-2024,3ff9a8d9-4c3c-487b-a5a6-dce9d22cc688,Approved,nan
+6613be2c3a055b1dbdeabf00,EMP163,JavaScript,Johnson-Walker,11-07-2003,21-04-2024,8299683b-0a28-453e-8815-009f045396c3,Approved,nan
+6613be2c3a055b1dbdeabf01,EMP163,PostgreSQL,"Rodriguez, Glass and Grant",02-04-2001,05-05-2024,5fe0af00-c953-457d-b9e9-72873733f7c5,Rejected,nan
+6613be2c3a055b1dbdeabf02,EMP164,CI/CD,"Jackson, Smith and Rice",09-01-2018,03-05-2024,3fd1f935-2753-4cce-a8ec-3fd3f9d74638,Rejected,nan
+6613be2c3a055b1dbdeabf03,EMP164,RESTful API,"Brown, Becker and Griffith",16-08-1987,23-04-2024,798d1e41-81c7-4c38-b4eb-abde721aec38,Rejected,nan
+6613be2c3a055b1dbdeabf04,EMP164,CSS,"Allen, Ruiz and Miller",10-10-2003,21-04-2024,73b7a70f-60ce-46a9-9c06-ab3416872f6c,Rejected,nan
+6613be2c3a055b1dbdeabf05,EMP164,Problem Solving,Potts PLC,27-06-2007,27-04-2024,4a784590-9c53-4863-8361-2f3cc22a7b10,Approved,nan
+6613be2c3a055b1dbdeabf06,EMP165,Network Security,Chavez-Martin,15-01-2006,17-04-2024,5417e362-858c-4b90-b44c-7b07d5256533,Rejected,nan
+6613be2c3a055b1dbdeabf07,EMP165,React,Campbell-Williams,30-11-1987,19-04-2024,01517046-457b-45c1-854f-ec1155288815,Approved,nan
+6613be2c3a055b1dbdeabf08,EMP165,Ruby,Sanchez-Murphy,22-02-2015,17-04-2024,0598f254-ddca-4bdd-83d3-3dab6a61df83,Approved,nan
+6613be2c3a055b1dbdeabf09,EMP165,Technical Writing,Smith-Rodriguez,28-02-2022,11-04-2024,0ef82235-5509-4bab-8f6e-a406c992f413,Rejected,nan
+6613be2c3a055b1dbdeabf0a,EMP166,Cryptography,Smith-Porter,31-08-2012,11-04-2024,4ac074d9-6d87-436c-a469-092433e83056,Approved,nan
+6613be2c3a055b1dbdeabf0b,EMP166,Google Cloud Platform,Woodard-Black,18-10-1979,27-04-2024,fae4275d-c781-481b-9d9a-1402c5242180,Approved,nan
+6613be2c3a055b1dbdeabf0c,EMP166,Kotlin,"Lee, Lowery and Harris",10-10-2011,04-05-2024,39d12169-6838-4ddc-8927-1ee7d3be5cc7,Approved,nan
+6613be2c3a055b1dbdeabf0d,EMP166,C#,Harmon Inc,14-01-2001,29-04-2024,9205e255-7748-447d-9e0d-d7dfeb79ed31,Rejected,nan
+6613be2c3a055b1dbdeabf0e,EMP167,.NET,"Hughes, Shelton and Ritter",29-11-2000,13-04-2024,7cc98d34-e0b5-41cc-94bd-321442e4767f,Approved,nan
+6613be2c3a055b1dbdeabf0f,EMP167,Information Security,"Elliott, Collier and Robinson",13-03-2024,25-04-2024,bcfb8744-0013-4369-a0c2-0e53e3261b2c,Rejected,nan
+6613be2c3a055b1dbdeabf10,EMP167,Documentation,Welch PLC,06-12-1987,14-04-2024,a2cc5255-2468-4468-9b58-ee8d9f5e378d,Approved,nan
+6613be2c3a055b1dbdeabf11,EMP167,PHP,Ramirez PLC,04-11-1980,01-05-2024,a3002372-83a1-4151-8268-f954724626d9,Approved,nan
+6613be2c3a055b1dbdeabf12,EMP168,Java,George PLC,16-04-1987,18-04-2024,e2af0e14-5afa-42e8-bd0b-6b76c2c98882,Rejected,nan
+6613be2c3a055b1dbdeabf13,EMP168,Vue.js,Daniels Inc,17-04-2018,23-04-2024,8dad927d-a338-4921-a0c6-821aa5a2aaa7,Rejected,nan
+6613be2c3a055b1dbdeabf14,EMP168,CI/CD,"Bean, Blair and Campbell",13-12-2019,29-04-2024,738a34f2-5dd1-411d-9677-3be6b3bbe820,Approved,nan
+6613be2c3a055b1dbdeabf15,EMP168,DevOps,Preston-Brown,02-01-1978,23-04-2024,572da9fe-19eb-465e-b7f4-835d744c321b,Rejected,nan
+6613be2c3a055b1dbdeabf16,EMP169,Ruby,"Knight, Gordon and Lee",23-02-2007,17-04-2024,aec054c3-d3ea-441d-b28d-39c88179b15a,Rejected,nan
+6613be2c3a055b1dbdeabf17,EMP169,Communication,Lewis and Sons,13-07-1999,30-04-2024,6776a060-eac2-4e0a-ba53-99c5c0378bb8,Rejected,nan
+6613be2c3a055b1dbdeabf18,EMP169,Prototyping,Arias PLC,17-06-1995,15-04-2024,fbd659c1-e63d-4380-b9ca-58918e1062f5,Approved,nan
+6613be2c3a055b1dbdeabf19,EMP169,DevOps,"Wells, Jenkins and Neal",06-12-1990,05-05-2024,53ddc83a-2859-46d6-aaf2-4d0c24f522d5,Approved,nan
+6613be2c3a055b1dbdeabf1a,EMP170,Test-Driven Development,Williams-Douglas,02-03-1971,11-04-2024,b1c0862a-6f8c-404e-92c2-dde5e0e9a1bc,Rejected,nan
+6613be2c3a055b1dbdeabf1b,EMP170,Node.js,"Drake, Salas and Myers",03-09-2006,14-04-2024,95801a1c-942b-4d34-a6fa-94ca6b4ca91f,Rejected,nan
+6613be2c3a055b1dbdeabf1c,EMP170,Data Science,"Murray, Carter and Rodriguez",13-05-1987,28-04-2024,add24634-d6e9-4b1c-9741-7fbfc85a3e26,Approved,nan
+6613be2c3a055b1dbdeabf1d,EMP170,Kotlin,Garcia Ltd,04-06-2002,12-04-2024,ae6cca46-79ee-4556-af53-8c0d170349ba,Approved,nan
+6613be2c3a055b1dbdeabf1e,EMP171,Statistical Analysis,"Novak, Thomas and Stanley",29-12-2019,12-04-2024,faa8ff43-9596-4b44-8d47-e75f6dbd9d1d,Approved,nan
+6613be2c3a055b1dbdeabf1f,EMP171,Requirements Analysis,Alvarez-Odonnell,23-02-2014,06-05-2024,028b0841-1bd6-4618-b6df-029267399904,Rejected,nan
+6613be2c3a055b1dbdeabf20,EMP171,Communication,"Hughes, Pittman and Dickerson",08-06-2011,11-04-2024,d4145777-aca4-4d10-86f4-1a5fa0c89929,Rejected,nan
+6613be2c3a055b1dbdeabf21,EMP171,Flask,"Sullivan, Fleming and Harrington",29-08-2012,28-04-2024,0cb21de9-0682-41ee-8dcd-18d19d114aea,Rejected,nan
+6613be2c3a055b1dbdeabf22,EMP172,Statistical Analysis,"Alvarado, Kim and Peters",08-02-1976,26-04-2024,d45d7359-da8f-4c7d-86d5-5e863aa1d0e8,Rejected,nan
+6613be2c3a055b1dbdeabf23,EMP172,HTML,"Crosby, Parker and Acevedo",24-02-1971,16-04-2024,291f2e7b-b8c9-4e78-a1ed-87e57c3459e2,Approved,nan
+6613be2c3a055b1dbdeabf24,EMP172,NoSQL,"Bennett, Jacobs and Harris",19-11-1999,14-04-2024,87cbefe0-fa36-41d7-98b7-7925422dd826,Rejected,nan
+6613be2c3a055b1dbdeabf25,EMP172,Problem Solving,"Pineda, Pruitt and Russo",08-04-1986,13-04-2024,27e1e67c-f061-4e24-8b5c-6a9eede3b019,Approved,nan
+6613be2c3a055b1dbdeabf26,EMP173,Collaboration,"Moore, Moran and Stokes",13-12-1982,30-04-2024,3c0e72a0-36da-4fe3-92e5-65fa8b52de1f,Rejected,nan
+6613be2c3a055b1dbdeabf27,EMP173,Continuous Deployment,Brown-Simmons,06-07-1986,14-04-2024,e0d1e9d1-4033-48cf-a158-6bd56569bf68,Rejected,nan
+6613be2c3a055b1dbdeabf28,EMP173,User Stories,Freeman Inc,18-05-2000,28-04-2024,b0f364b9-e208-4fb0-b69c-04d5d9033e98,Approved,nan
+6613be2c3a055b1dbdeabf29,EMP173,Behavior-Driven Development,Gardner PLC,15-09-1972,13-04-2024,ec0113c8-10e1-484c-9c38-7d072cbc4c67,Rejected,nan
+6613be2c3a055b1dbdeabf2a,EMP174,Product Management,"Reyes, Smith and Thomas",07-08-1981,22-04-2024,74b50363-af01-4f0f-a868-574ff13f1dc8,Approved,nan
+6613be2c3a055b1dbdeabf2b,EMP174,Scrum,Watts-Bailey,25-11-2023,30-04-2024,ca4ebb87-0cb3-4b59-9f83-5ddc7a0fd5ed,Approved,nan
+6613be2c3a055b1dbdeabf2c,EMP174,Django,Ramos Group,11-11-1998,26-04-2024,ddcc2483-e35a-493b-8cbb-526e022c5226,Approved,nan
+6613be2c3a055b1dbdeabf2d,EMP174,Angular,"Hawkins, Adams and Herrera",19-10-2008,17-04-2024,a7e411ee-dbe1-4c81-b353-5dce2d122205,Approved,nan
+6613be2c3a055b1dbdeabf2e,EMP175,RESTful API,"Clements, Phillips and Mccann",27-12-2016,06-05-2024,90b19b86-8fb5-4d90-8866-2d25980396d2,Approved,nan
+6613be2c3a055b1dbdeabf2f,EMP175,Ruby,"Huynh, Gonzalez and Jackson",10-08-1994,06-05-2024,151826fa-b1f2-418a-91a4-596263f984bc,Approved,nan
+6613be2c3a055b1dbdeabf30,EMP175,Azure,Harrell-Oconnor,25-06-2008,05-05-2024,d7a69c83-649e-4b80-ab10-0570b53a29ad,Rejected,nan
+6613be2c3a055b1dbdeabf31,EMP175,Swift,Glass Group,08-10-2016,01-05-2024,512ef35f-6d90-4c0b-9bff-97c8ad6f6633,Rejected,nan
+6613be2c3a055b1dbdeabf32,EMP176,Test-Driven Development,"Mcdaniel, Ray and Parker",17-01-1970,21-04-2024,ae42fe96-2ff4-461e-a191-ad6c67377df9,Approved,nan
+6613be2c3a055b1dbdeabf33,EMP176,User Research,Herman and Sons,27-04-2001,29-04-2024,c41ec096-ecb7-4a12-9456-692ff8620d14,Approved,nan
+6613be2c3a055b1dbdeabf34,EMP176,Swift,Pratt Group,03-06-1992,24-04-2024,82547a1c-75f2-4903-974a-97bb40d6de85,Rejected,nan
+6613be2c3a055b1dbdeabf35,EMP176,Data Analysis,Murray Ltd,10-10-1998,30-04-2024,2f28fcd9-83ab-426b-a220-4388d9deb835,Approved,nan
+6613be2c3a055b1dbdeabf39,EMP177,Penetration Testing,"Moore, Hernandez and Stark",28-06-1998,07-05-2024,60f1fc51-026d-4af0-b279-2e2097ad96a4,Approved,nan
+6613be2c3a055b1dbdeabf3a,EMP177,CSS,Glover Inc,19-02-1987,06-05-2024,cbd3d97c-c0a7-41c1-94c2-d636e620d8ff,Approved,nan
+6613be2c3a055b1dbdeabf3b,EMP177,Requirements Analysis,"Martinez, Henson and Gonzalez",31-01-1984,27-04-2024,71953f73-8134-43e3-8ecf-b3cb4c9f329e,Rejected,nan
+6613be2c3a055b1dbdeabf3c,EMP177,Scrum,Herrera-Lewis,17-01-2009,17-04-2024,eb72976b-6133-4b26-a383-57738867ec3b,Rejected,nan
+6613be2c3a055b1dbdeabf3d,EMP178,PHP,"Adkins, Stevens and Peterson",18-08-1972,22-04-2024,bde3a714-f78b-4bc3-bbe4-6ee8488acd51,Rejected,nan
+6613be2c3a055b1dbdeabf3e,EMP178,Test-Driven Development,White-Roberts,06-08-2022,15-04-2024,e195f3db-3d5e-4ec6-91ac-74271581e37b,Approved,nan
+6613be2c3a055b1dbdeabf3f,EMP178,Interaction Design,"Kerr, Williamson and Lee",20-09-2006,18-04-2024,7017103e-8191-4866-a382-4aab39f67d0d,Rejected,nan
+6613be2c3a055b1dbdeabf40,EMP178,React,"Padilla, Mathis and Brooks",19-04-2010,05-05-2024,bf24d94c-a666-48f5-bbc6-0e3a5bd38cc0,Approved,nan
+6613be2c3a055b1dbdeabf41,EMP179,Network Security,Smith-Brewer,10-10-2020,18-04-2024,c8e9e4cf-bd7c-44bd-b7d0-784cfc3c9411,Approved,nan
+6613be2c3a055b1dbdeabf42,EMP179,Continuous Deployment,Newman PLC,26-06-2016,30-04-2024,a2e54392-6767-4a10-9a5c-2fc6a8c634ce,Rejected,nan
+6613be2c3a055b1dbdeabf43,EMP179,Leadership,Campbell-Schmidt,21-07-1991,17-04-2024,f44a1b70-701e-4865-a7a7-561a308ffc04,Approved,nan
+6613be2c3a055b1dbdeabf44,EMP179,Product Management,Moyer-Lewis,26-06-2007,26-04-2024,4f7df2bc-230e-462c-8cce-8d21e4001001,Approved,nan
+6613be2c3a055b1dbdeabf45,EMP180,Flask,"Hahn, Velazquez and Green",24-01-1996,20-04-2024,c7e7901c-c5a7-48da-889f-de0d5434aa15,Rejected,nan
+6613be2c3a055b1dbdeabf46,EMP180,Problem Solving,Johnson-Brown,01-10-1972,13-04-2024,b924ad15-2e35-4285-9079-cfe38ceecffd,Approved,nan
+6613be2c3a055b1dbdeabf47,EMP180,React,Harris-Knight,14-10-1991,27-04-2024,2893a73c-1de5-4943-a8af-f77d9146f624,Approved,nan
+6613be2c3a055b1dbdeabf48,EMP180,DevOps,"Davis, Barnett and Simpson",27-04-1978,16-04-2024,d30e2c1c-1f74-46a8-8938-90ded560f45e,Rejected,nan
+6613be2c3a055b1dbdeabf49,EMP181,Product Management,Moyer Group,28-11-1986,27-04-2024,5ea016a7-3ed3-4850-bac0-950a74394b56,Approved,nan
+6613be2c3a055b1dbdeabf4a,EMP181,Accessibility,"Williams, Gomez and Hart",27-10-1995,28-04-2024,8a00f029-4244-4dd4-b71c-bfa22972c1e4,Rejected,nan
+6613be2c3a055b1dbdeabf4b,EMP181,Data Analysis,Johnson Ltd,08-06-2014,28-04-2024,fc14d4b6-5925-4293-9803-686a74da06b7,Rejected,nan
+6613be2c3a055b1dbdeabf4c,EMP181,Scrum,"Turner, Jones and Guzman",11-02-1996,23-04-2024,cfc8e24d-9092-4ec2-a33f-856f71c3bb2c,Rejected,nan
+6613be2c3a055b1dbdeabf4d,EMP182,User Stories,Williams-Pena,12-03-1982,07-05-2024,56bf9123-95e4-4968-8ab7-1516d1dfabae,Approved,nan
+6613be2c3a055b1dbdeabf4e,EMP182,Communication,Martin PLC,27-03-2003,18-04-2024,11072fc0-ac26-4f8b-939a-6e0acf35931f,Approved,nan
+6613be2c3a055b1dbdeabf4f,EMP182,Business Analysis,"Benitez, Kaiser and Mills",26-05-2023,23-04-2024,c5d9c36f-fcb8-4d2e-9bbd-66606ec6221f,Approved,nan
+6613be2c3a055b1dbdeabf50,EMP182,Cryptography,Miller Inc,01-08-1978,22-04-2024,bf502484-cd39-4a3e-b858-83db55433dd9,Approved,nan
+6613be2c3a055b1dbdeabf51,EMP183,Containerization,Dunn Group,21-12-1989,18-04-2024,9ea5835a-db82-4db9-8be2-b5775182cfb9,Approved,nan
+6613be2c3a055b1dbdeabf52,EMP183,HTML,"Davis, Lopez and Blackburn",22-01-2024,18-04-2024,592ff02d-daee-41d9-8f39-2d352777b9aa,Rejected,nan
+6613be2c3a055b1dbdeabf53,EMP183,Agile Methodologies,Kim and Sons,22-10-1979,03-05-2024,b0e96d65-f080-486f-a92a-63682fb895a1,Approved,nan
+6613be2c3a055b1dbdeabf54,EMP183,Data Analysis,Robertson-Mullins,28-10-1979,16-04-2024,d47b7584-8ff2-4815-b6b9-e17dfea9637e,Approved,nan
+6613be2c3a055b1dbdeabf55,EMP184,Azure,"Bradford, Aguirre and Gardner",10-08-2014,14-04-2024,6482e508-ed57-43c8-bea4-efad7e79b74f,Approved,nan
+6613be2c3a055b1dbdeabf56,EMP184,NoSQL,Washington-Kaufman,12-03-2020,21-04-2024,2b60ec07-5363-4b9d-bffb-00a99ac2f8e4,Approved,nan
+6613be2c3a055b1dbdeabf57,EMP184,C#,Rodriguez-Walker,21-01-1997,26-04-2024,0a5a1d1d-dfc8-4040-9c28-204c7f6ee6dd,Rejected,nan
+6613be2c3a055b1dbdeabf58,EMP184,Agile Methodologies,"Hicks, Bradshaw and Watts",12-12-1970,27-04-2024,d5eab424-cef7-4a98-ba50-a701c88db4a7,Approved,nan
+6613be2c3a055b1dbdeabf59,EMP185,CI/CD,"Mcguire, Fuentes and Lozano",12-10-1980,11-04-2024,7ec583ee-bd65-4efc-b2ed-50fbe486bf23,Approved,nan
+6613be2c3a055b1dbdeabf5a,EMP185,JavaScript,"Hogan, Johnson and Vargas",22-04-1997,11-04-2024,85e8d679-618b-4491-a9cb-ec95068cb8a9,Rejected,nan
+6613be2c3a055b1dbdeabf5b,EMP185,Node.js,Rivera Inc,18-07-2006,18-04-2024,a67fcc5d-28aa-460b-b8b9-7138e173836e,Approved,nan
+6613be2c3a055b1dbdeabf5c,EMP185,Vue.js,Molina Inc,31-08-2019,11-04-2024,1cd7850e-a5f3-405c-810e-3539e1263231,Approved,nan
+6613be2c3a055b1dbdeabf5d,EMP186,Responsive Design,Baker PLC,07-09-2008,05-05-2024,4cf0a7d9-8bae-4268-a20a-a0c9da004a15,Rejected,nan
+6613be2c3a055b1dbdeabf5e,EMP186,Kotlin,Meyers-Johnson,29-12-2011,15-04-2024,1d406cb0-bcc2-418e-a0d3-13690ed72393,Approved,nan
+6613be2c3a055b1dbdeabf5f,EMP186,UI/UX Design,"Lee, Decker and Oliver",10-12-2001,20-04-2024,78387ea3-aab5-4199-954f-4eb1ce7f432f,Approved,nan
+6613be2c3a055b1dbdeabf60,EMP186,Network Security,"Todd, Santiago and Landry",04-07-2019,06-05-2024,7580cb7a-5518-4e28-bc5d-449f5ed8336d,Rejected,nan
+6613be2c3a055b1dbdeabf61,EMP187,Ruby,"Middleton, Castillo and Johnson",17-09-2012,13-04-2024,a664d4c1-e7c9-4c41-8cfe-d95976050485,Rejected,nan
+6613be2c3a055b1dbdeabf62,EMP187,Accessibility,Ward Ltd,20-02-2001,28-04-2024,984db213-0b5f-460d-bc3b-4c4377a0f450,Rejected,nan
+6613be2c3a055b1dbdeabf63,EMP187,Containerization,Black-Brown,27-04-1987,05-05-2024,d16124d1-f080-434d-92be-d94d62db838c,Approved,nan
+6613be2c3a055b1dbdeabf64,EMP187,Python,Powell-Ruiz,05-11-2015,10-04-2024,81e4bc9b-c873-48a5-a441-c7bd0ea3bbb8,Rejected,nan
+6613be2c3a055b1dbdeabf65,EMP188,Azure,Williams Ltd,12-11-2009,15-04-2024,8a3cc525-cf88-403b-b206-b4cbc4867edd,Rejected,nan
+6613be2c3a055b1dbdeabf66,EMP188,Kubernetes,Lloyd and Sons,16-03-1991,14-04-2024,04fa20f5-d901-4e63-82af-fb32bf39e469,Rejected,nan
+6613be2c3a055b1dbdeabf67,EMP188,Swift,"Allen, Romero and Campos",25-05-2010,05-05-2024,a64046b9-0422-462f-8af2-73bacd182589,Approved,nan
+6613be2c3a055b1dbdeabf68,EMP188,Data Analysis,Wells Ltd,04-10-1989,22-04-2024,f344a862-8e84-40ef-9f50-3395018e664c,Approved,nan
+6613be2c3a055b1dbdeabf69,EMP189,Microservices,Kaufman LLC,02-01-2020,30-04-2024,c2707d09-69e2-459b-81fc-34d862c71fcd,Approved,nan
+6613be2c3a055b1dbdeabf6a,EMP189,Node.js,"Cortez, Moss and Fleming",07-02-1995,25-04-2024,73e9eb47-1018-4114-b091-137f74798736,Approved,nan
+6613be2c3a055b1dbdeabf6b,EMP189,Wireframing,"Strong, Harvey and Bishop",13-03-2002,07-05-2024,c3794262-75c0-4c5d-9b10-283cf0579f27,Approved,nan
+6613be2c3a055b1dbdeabf6c,EMP189,Continuous Deployment,Lopez-Johnson,30-12-2012,06-05-2024,99a7ef5d-1643-4ead-b998-afb9b1b53a9a,Rejected,nan
+6613be2c3a055b1dbdeabf6d,EMP190,Containerization,"Rose, Nash and Pearson",04-08-1975,03-05-2024,276924f7-b3e6-4845-8202-4cc4a5555af6,Approved,nan
+6613be2c3a055b1dbdeabf6e,EMP190,MongoDB,Colon Group,08-08-2022,27-04-2024,3031f0ff-6863-495d-b384-ccfd90f60704,Rejected,nan
+6613be2c3a055b1dbdeabf6f,EMP190,Interaction Design,Peterson-Maxwell,24-12-1987,10-04-2024,a3675bc6-15ce-4f34-aaad-e277e8f64d67,Approved,nan
+6613be2c3a055b1dbdeabf70,EMP190,Collaboration,"Meyer, Brown and Flores",02-02-1993,29-04-2024,f5d85104-b9a1-4e03-89f8-9b01f00eb34c,Rejected,nan
+6613be2c3a055b1dbdeabf71,EMP191,NoSQL,Chavez-Martin,31-08-2019,11-04-2024,ff58adf8-3ecb-41ed-b4cb-57a36bd10f2d,Rejected,nan
+6613be2c3a055b1dbdeabf72,EMP191,Google Cloud Platform,"Patterson, Moore and Ward",10-09-2021,29-04-2024,83301afa-4347-4177-a56a-0beda4ff3b74,Approved,nan
+6613be2c3a055b1dbdeabf73,EMP191,Java,"Pearson, Reynolds and Williams",27-05-1997,18-04-2024,5a6e983a-05ab-46b0-b02b-87942c96303c,Approved,nan
+6613be2c3a055b1dbdeabf74,EMP191,Scrum,Ray-Krause,21-12-2014,15-04-2024,1fff42a8-1518-41a7-9fdb-bfde66b7583f,Approved,nan
+6613be2c3a055b1dbdeabf75,EMP192,Information Security,"Thompson, Fletcher and Warren",11-07-1981,20-04-2024,6fe83102-c793-4682-9493-cc0b4ec7d3cf,Approved,nan
+6613be2c3a055b1dbdeabf76,EMP192,C#,Clark Ltd,15-07-2017,23-04-2024,e8d9451e-37cb-4699-ba70-fbde336d5447,Approved,nan
+6613be2c3a055b1dbdeabf77,EMP192,MongoDB,Acosta LLC,03-12-1998,06-05-2024,43b3ac12-4119-40c3-97ae-bedfebad842f,Approved,nan
+6613be2c3a055b1dbdeabf78,EMP192,SQL,Kaufman PLC,30-03-1972,28-04-2024,b2434629-e8bb-4dae-ab7c-337b0ec10fbc,Rejected,nan
+6613be2c3a055b1dbdeabf83,EMP193,Data Visualization,"Griffin, Johnson and Swanson",31-03-1980,05-05-2024,6d5970d7-8c50-4982-9480-1d7f8da4ef05,Approved,nan
+6613be2c3a055b1dbdeabf84,EMP193,Network Security,Frazier-Wright,07-04-1981,14-04-2024,1ca0dadd-e604-4d92-9fa0-827d6adb76bf,Approved,nan
+6613be2c3a055b1dbdeabf85,EMP193,HTML,Mcdonald PLC,13-07-2018,23-04-2024,b993d77e-850d-4ae2-b9c6-f9c39de3f2c4,Rejected,nan
+6613be2c3a055b1dbdeabf86,EMP193,Behavior-Driven Development,Mendoza LLC,05-04-1982,06-05-2024,88404481-aa81-44ed-8086-dcc942b04457,Approved,nan
+6613be2c3a055b1dbdeabf87,EMP194,Scrum,Parker-Schmidt,29-04-1989,06-05-2024,4127c3b4-3286-4c73-86c8-b06030fa2436,Rejected,nan
+6613be2c3a055b1dbdeabf88,EMP194,SQL,Anderson and Sons,01-01-2019,28-04-2024,77491e87-a953-40c5-8cc6-0b9af825b288,Approved,nan
+6613be2c3a055b1dbdeabf89,EMP194,Behavior-Driven Development,Russell-Obrien,21-08-2003,22-04-2024,875649b8-9ffd-4690-8b64-54bfe10dca5f,Approved,nan
+6613be2c3a055b1dbdeabf8a,EMP194,Cryptography,"Wilson, Campbell and Montgomery",15-06-1984,02-05-2024,38f2d2df-8866-45b4-852f-1634aa90361d,Rejected,nan
+6613be2c3a055b1dbdeabf8b,EMP195,Artificial Intelligence,"Nelson, Hughes and Hughes",19-09-1971,11-04-2024,0cb8ee43-0468-42ee-8086-add14d00e08d,Rejected,nan
+6613be2c3a055b1dbdeabf8c,EMP195,Responsive Design,Peck Ltd,19-08-1999,24-04-2024,cc565d2b-1e47-46ab-91ba-1c45546a40b3,Approved,nan
+6613be2c3a055b1dbdeabf8d,EMP195,Continuous Deployment,"Faulkner, Preston and Cooper",13-04-2019,18-04-2024,54dfa1c4-77d3-4246-93ef-6aa4e01b5546,Approved,nan
+6613be2c3a055b1dbdeabf8e,EMP195,Django,Bennett and Sons,14-02-1985,29-04-2024,032e5b3c-5dd4-4c0f-84ff-ab0a43b158e7,Approved,nan
+6613be2c3a055b1dbdeabf8f,EMP196,Angular,"Perry, Davis and Fischer",04-08-1993,12-04-2024,678ef7d2-bb57-4973-bdc8-f657dc14d3d9,Rejected,nan
+6613be2c3a055b1dbdeabf90,EMP196,C#,Chan LLC,23-03-2023,03-05-2024,6bf8f03d-029b-4c56-bbca-c2bb9bc48db3,Approved,nan
+6613be2c3a055b1dbdeabf91,EMP196,Penetration Testing,"Stokes, Ayala and Wallace",26-06-1977,21-04-2024,0ac75d2a-a07c-4227-914c-5f3671d4cb92,Rejected,nan
+6613be2c3a055b1dbdeabf92,EMP196,Git,Farmer-Nolan,14-07-2012,29-04-2024,539db401-e18d-4b99-bdc6-654b04b6dd1f,Approved,nan
+6613be2c3a055b1dbdeabf93,EMP197,Statistical Analysis,"Guzman, Wilson and Campbell",09-11-2012,04-05-2024,902d497d-b165-4729-a89c-c8898b5292f2,Approved,nan
+6613be2c3a055b1dbdeabf94,EMP197,Problem Solving,Cooley-Sanchez,03-08-1990,25-04-2024,1d1f31c7-6768-4d53-a1aa-0133f5a6ae7b,Rejected,nan
+6613be2c3a055b1dbdeabf95,EMP197,Communication,"Ayers, Hernandez and Johnson",30-05-2014,25-04-2024,c3fbd530-6377-451c-a605-a37fa710ede7,Approved,nan
+6613be2c3a055b1dbdeabf96,EMP197,Business Analysis,Mason Group,16-04-1994,29-04-2024,cf85ee9c-1116-4d4b-ae45-6837cf3fd31e,Approved,nan
+6613be2c3a055b1dbdeabf97,EMP198,Statistical Analysis,Massey Inc,01-10-1984,21-04-2024,a0d49467-f060-4b72-8bda-9daa5cdf4b17,Approved,nan
+6613be2c3a055b1dbdeabf98,EMP198,Scrum,Bass-Mahoney,11-10-2008,05-05-2024,c76702dc-ec5a-43de-b0ec-b640b7046ade,Rejected,nan
+6613be2c3a055b1dbdeabf99,EMP198,Requirements Analysis,Farley-Martin,14-04-2000,22-04-2024,d6c1d2f6-4adc-4cfd-91ed-7d2a81c0ee79,Rejected,nan
+6613be2c3a055b1dbdeabf9a,EMP198,NoSQL,Anderson PLC,22-01-2023,30-04-2024,9c3906f9-0115-415c-beff-baf33a42b145,Rejected,nan
+6613be2c3a055b1dbdeabf9b,EMP199,User Stories,Hancock LLC,11-08-1972,05-05-2024,d150d227-2107-49ac-88fd-5a621dccea42,Rejected,nan
+6613be2c3a055b1dbdeabf9c,EMP199,C#,"Alexander, Smith and Castillo",28-11-1971,01-05-2024,45a860ff-11bd-43ff-94ac-293eb660ad20,Rejected,nan
+6613be2c3a055b1dbdeabf9d,EMP199,Agile Methodologies,"Johnson, Green and Hernandez",18-12-2017,13-04-2024,64aa6976-b684-4167-b52f-02312260fb70,Rejected,nan
+6613be2c3a055b1dbdeabf9e,EMP199,Requirements Analysis,Dean-Simmons,11-05-1973,15-04-2024,8c03a8ce-10ca-441c-b640-136b407d7ef0,Approved,nan
+6617eb39e34ce91036f0858f,EMP001,Javaxyz,IBM,2024-04-11,2025-04-11,dku0-kfnwkf-efjnwef,Approved,0.0
+6617f3be6ab000ed33f59e0d,EMP001,Java,IBM,2024-04-11,2024-04-11,dku0-kfnwkf-efjnwef,Pending,0.0
+6617f3cb6ab000ed33f59e11,EMP001,Java,IBM,2024-04-11,2024-04-11,dku0-kfnwkf-efjnwef,Pending,0.0

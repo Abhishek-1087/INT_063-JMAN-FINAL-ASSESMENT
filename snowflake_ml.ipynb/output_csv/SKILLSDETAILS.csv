@@ -1,0 +1,799 @@
+_ID,USERID,SKILLS,RATING,__V
+6613bd4e3a055b1dbde97966,EMP1,Flask,2,nan
+6613bd4e3a055b1dbde97967,EMP1,Python,3,nan
+6613bd4e3a055b1dbde97968,EMP1,Swift,4,nan
+6613bd4e3a055b1dbde97969,EMP1,Responsive Design,5,nan
+6613bd4e3a055b1dbde9796a,EMP2,AWS,2,nan
+6613bd4e3a055b1dbde9796b,EMP2,Continuous Deployment,1,nan
+6613bd4e3a055b1dbde9796c,EMP2,NoSQL,5,nan
+6613bd4e3a055b1dbde9796d,EMP2,React,5,nan
+6613bd4e3a055b1dbde9796e,EMP3,MySQL,1,nan
+6613bd4e3a055b1dbde9796f,EMP3,Scrum,3,nan
+6613bd4e3a055b1dbde97970,EMP3,Docker,3,nan
+6613bd4e3a055b1dbde97971,EMP3,C#,1,nan
+6613bd4e3a055b1dbde97972,EMP4,Kubernetes,4,nan
+6613bd4e3a055b1dbde97973,EMP4,Data Analysis,1,nan
+6613bd4e3a055b1dbde97974,EMP4,Node.js,4,nan
+6613bd4e3a055b1dbde97975,EMP4,Google Cloud Platform,3,nan
+6613bd4e3a055b1dbde97976,EMP5,Continuous Integration,1,nan
+6613bd4e3a055b1dbde97977,EMP5,DevOps,3,nan
+6613bd4e3a055b1dbde97978,EMP5,Cryptography,1,nan
+6613bd4e3a055b1dbde97979,EMP5,Artificial Intelligence,5,nan
+6613bd4e3a055b1dbde9797a,EMP6,Documentation,4,nan
+6613bd4e3a055b1dbde9797b,EMP6,Node.js,1,nan
+6613bd4e3a055b1dbde9797c,EMP6,Collaboration,4,nan
+6613bd4e3a055b1dbde9797d,EMP6,Support,2,nan
+6613bd4e3a055b1dbde9797e,EMP7,Python,3,nan
+6613bd4e3a055b1dbde9797f,EMP7,Agile Methodologies,4,nan
+6613bd4e3a055b1dbde97980,EMP7,Data Visualization,3,nan
+6613bd4e3a055b1dbde97981,EMP7,MongoDB,1,nan
+6613bd4e3a055b1dbde97982,EMP8,Problem Solving,4,nan
+6613bd4e3a055b1dbde97983,EMP8,Network Security,2,nan
+6613bd4e3a055b1dbde97984,EMP8,Data Visualization,5,nan
+6613bd4e3a055b1dbde97985,EMP8,Documentation,4,nan
+6613bd4e3a055b1dbde97986,EMP9,CSS,4,nan
+6613bd4e3a055b1dbde97987,EMP9,UI/UX Design,2,nan
+6613bd4e3a055b1dbde97988,EMP9,Statistical Analysis,3,nan
+6613bd4e3a055b1dbde97989,EMP9,Communication,5,nan
+6613bd4e3a055b1dbde9798a,EMP10,Support,5,nan
+6613bd4e3a055b1dbde9798b,EMP10,SQL,3,nan
+6613bd4e3a055b1dbde9798c,EMP10,Data Visualization,3,nan
+6613bd4e3a055b1dbde9798d,EMP10,Wireframing,5,nan
+6613bd4e3a055b1dbde9798e,EMP11,Interaction Design,5,nan
+6613bd4e3a055b1dbde9798f,EMP11,Data Science,4,nan
+6613bd4e3a055b1dbde97990,EMP11,Penetration Testing,1,nan
+6613bd4e3a055b1dbde97991,EMP11,CI/CD,1,nan
+6613bd4e3a055b1dbde97992,EMP12,SQL,1,nan
+6613bd4e3a055b1dbde97993,EMP12,Java,4,nan
+6613bd4e3a055b1dbde97994,EMP12,Wireframing,4,nan
+6613bd4e3a055b1dbde97995,EMP12,Documentation,4,nan
+6613bd4e3a055b1dbde97996,EMP13,UI/UX Design,1,nan
+6613bd4e3a055b1dbde97997,EMP13,Behavior-Driven Development,2,nan
+6613bd4e3a055b1dbde97998,EMP13,Ruby,4,nan
+6613bd4e3a055b1dbde97999,EMP13,Penetration Testing,2,nan
+6613bd4e3a055b1dbde9799a,EMP14,Test-Driven Development,1,nan
+6613bd4e3a055b1dbde9799b,EMP14,Docker,1,nan
+6613bd4e3a055b1dbde9799c,EMP14,DevOps,3,nan
+6613bd4e3a055b1dbde9799d,EMP14,Data Visualization,3,nan
+6613bd4e3a055b1dbde9799e,EMP15,Responsive Design,3,nan
+6613bd4e3a055b1dbde9799f,EMP15,DevOps,3,nan
+6613bd4e3a055b1dbde979a0,EMP15,Azure,3,nan
+6613bd4e3a055b1dbde979a1,EMP15,Business Analysis,5,nan
+6613bd4e3a055b1dbde979a2,EMP16,Agile Product Management,3,nan
+6613bd4e3a055b1dbde979a3,EMP16,Data Visualization,1,nan
+6613bd4e3a055b1dbde979a4,EMP16,Communication,1,nan
+6613bd4e3a055b1dbde979a5,EMP16,GraphQL,5,nan
+6613bd4e3a055b1dbde979a6,EMP17,C#,1,nan
+6613bd4e3a055b1dbde979a7,EMP17,Documentation,3,nan
+6613bd4e3a055b1dbde979a8,EMP17,Continuous Integration,2,nan
+6613bd4e3a055b1dbde979a9,EMP17,Statistical Analysis,2,nan
+6613bd4e3a055b1dbde979aa,EMP18,Angular,5,nan
+6613bd4e3a055b1dbde979ab,EMP18,Business Analysis,2,nan
+6613bd4e3a055b1dbde979ac,EMP18,Cybersecurity,1,nan
+6613bd4e3a055b1dbde979ad,EMP18,Behavior-Driven Development,5,nan
+6613bd4e3a055b1dbde979ae,EMP19,Continuous Deployment,5,nan
+6613bd4e3a055b1dbde979af,EMP19,Leadership,5,nan
+6613bd4e3a055b1dbde979b0,EMP19,Requirements Analysis,4,nan
+6613bd4e3a055b1dbde979b1,EMP19,Continuous Integration,3,nan
+6613bd4e3a055b1dbde979b2,EMP20,Product Management,4,nan
+6613bd4e3a055b1dbde979b3,EMP20,Business Analysis,3,nan
+6613bd4e3a055b1dbde979b4,EMP20,Django,3,nan
+6613bd4e3a055b1dbde979b5,EMP20,CSS,3,nan
+6613bd4e3a055b1dbde979b6,EMP21,Support,4,nan
+6613bd4e3a055b1dbde979b7,EMP21,Information Security,2,nan
+6613bd4e3a055b1dbde979b8,EMP21,MySQL,2,nan
+6613bd4e3a055b1dbde979b9,EMP21,Docker,4,nan
+6613bd4e3a055b1dbde979ba,EMP22,User Stories,4,nan
+6613bd4e3a055b1dbde979bb,EMP22,Continuous Deployment,5,nan
+6613bd4e3a055b1dbde979bc,EMP22,Collaboration,4,nan
+6613bd4e3a055b1dbde979bd,EMP22,C#,1,nan
+6613bd4e3a055b1dbde979be,EMP23,Leadership,3,nan
+6613bd4e3a055b1dbde979bf,EMP23,GraphQL,2,nan
+6613bd4e3a055b1dbde979c0,EMP23,Swift,5,nan
+6613bd4e3a055b1dbde979c1,EMP23,NoSQL,2,nan
+6613bd4e3a055b1dbde979c2,EMP24,Problem Solving,2,nan
+6613bd4e3a055b1dbde979c3,EMP24,Flask,3,nan
+6613bd4e3a055b1dbde979c4,EMP24,SQL,2,nan
+6613bd4e3a055b1dbde979c5,EMP24,C#,4,nan
+6613bd4e3a055b1dbde979c6,EMP25,JavaScript,1,nan
+6613bd4e3a055b1dbde979c7,EMP25,PHP,4,nan
+6613bd4e3a055b1dbde979c8,EMP25,Angular,4,nan
+6613bd4e3a055b1dbde979c9,EMP25,Flask,3,nan
+6613bd4e3a055b1dbde979ca,EMP26,MySQL,2,nan
+6613bd4e3a055b1dbde979cb,EMP26,MongoDB,2,nan
+6613bd4e3a055b1dbde979cc,EMP26,Collaboration,5,nan
+6613bd4e3a055b1dbde979cd,EMP26,Git,4,nan
+6613bd4e3a055b1dbde979ce,EMP27,NoSQL,5,nan
+6613bd4e3a055b1dbde979cf,EMP27,JavaScript,3,nan
+6613bd4e3a055b1dbde979d0,EMP27,Data Analysis,2,nan
+6613bd4e3a055b1dbde979d1,EMP27,MySQL,3,nan
+6613bd4e3a055b1dbde979d2,EMP28,User Stories,5,nan
+6613bd4e3a055b1dbde979d3,EMP28,Angular,4,nan
+6613bd4e3a055b1dbde979d4,EMP28,Information Security,3,nan
+6613bd4e3a055b1dbde979d5,EMP28,Test-Driven Development,4,nan
+6613bd4e3a055b1dbde979d6,EMP29,User Stories,2,nan
+6613bd4e3a055b1dbde979d7,EMP29,GraphQL,5,nan
+6613bd4e3a055b1dbde979d8,EMP29,Data Visualization,4,nan
+6613bd4e3a055b1dbde979d9,EMP29,Problem Solving,4,nan
+6613bd4e3a055b1dbde979da,EMP30,MySQL,1,nan
+6613bd4e3a055b1dbde979db,EMP30,Cryptography,4,nan
+6613bd4e3a055b1dbde979dc,EMP30,Responsive Design,4,nan
+6613bd4e3a055b1dbde979dd,EMP30,Product Management,2,nan
+6613bd4e3a055b1dbde979de,EMP31,Google Cloud Platform,2,nan
+6613bd4e3a055b1dbde979df,EMP31,Kubernetes,1,nan
+6613bd4e3a055b1dbde979e0,EMP31,Leadership,3,nan
+6613bd4e3a055b1dbde979e1,EMP31,Artificial Intelligence,3,nan
+6613bd4e3a055b1dbde979e2,EMP32,Cybersecurity,5,nan
+6613bd4e3a055b1dbde979e3,EMP32,DevOps,5,nan
+6613bd4e3a055b1dbde979e4,EMP32,PostgreSQL,5,nan
+6613bd4e3a055b1dbde979e5,EMP32,Support,2,nan
+6613bd4e3a055b1dbde979e8,EMP33,JavaScript,2,nan
+6613bd4e3a055b1dbde979e9,EMP33,Product Management,1,nan
+6613bd4e3a055b1dbde979ea,EMP33,Continuous Integration,1,nan
+6613bd4e3a055b1dbde979eb,EMP33,Data Science,1,nan
+6613bd4e3a055b1dbde979ec,EMP34,GraphQL,1,nan
+6613bd4e3a055b1dbde979ed,EMP34,MySQL,3,nan
+6613bd4e3a055b1dbde979ee,EMP34,Requirements Analysis,1,nan
+6613bd4e3a055b1dbde979ef,EMP34,.NET,4,nan
+6613bd4e3a055b1dbde979f0,EMP35,Network Security,1,nan
+6613bd4e3a055b1dbde979f1,EMP35,React,3,nan
+6613bd4e3a055b1dbde979f2,EMP35,Test-Driven Development,3,nan
+6613bd4e3a055b1dbde979f3,EMP35,Angular,3,nan
+6613bd4e3a055b1dbde979f4,EMP36,GraphQL,3,nan
+6613bd4e3a055b1dbde979f5,EMP36,Continuous Deployment,3,nan
+6613bd4e3a055b1dbde979f6,EMP36,Network Security,3,nan
+6613bd4e3a055b1dbde979f7,EMP36,Node.js,5,nan
+6613bd4e3a055b1dbde979f8,EMP37,Ruby,5,nan
+6613bd4e3a055b1dbde979f9,EMP37,Accessibility,1,nan
+6613bd4e3a055b1dbde979fa,EMP37,Cybersecurity,4,nan
+6613bd4e3a055b1dbde979fb,EMP37,Git,4,nan
+6613bd4e3a055b1dbde979fc,EMP38,Flask,2,nan
+6613bd4e3a055b1dbde979fd,EMP38,Responsive Design,5,nan
+6613bd4e3a055b1dbde979fe,EMP38,Interaction Design,5,nan
+6613bd4e3a055b1dbde979ff,EMP38,Python,4,nan
+6613bd4e3a055b1dbde97a00,EMP39,Product Management,1,nan
+6613bd4e3a055b1dbde97a01,EMP39,Data Analysis,2,nan
+6613bd4e3a055b1dbde97a02,EMP39,AWS,3,nan
+6613bd4e3a055b1dbde97a03,EMP39,C#,2,nan
+6613bd4e3a055b1dbde97a04,EMP40,Business Analysis,4,nan
+6613bd4e3a055b1dbde97a05,EMP40,Containerization,2,nan
+6613bd4e3a055b1dbde97a06,EMP40,Angular,4,nan
+6613bd4e3a055b1dbde97a07,EMP40,Communication,5,nan
+6613bd4e3a055b1dbde97a08,EMP41,Continuous Deployment,2,nan
+6613bd4e3a055b1dbde97a09,EMP41,Kubernetes,5,nan
+6613bd4e3a055b1dbde97a0a,EMP41,Flask,1,nan
+6613bd4e3a055b1dbde97a0b,EMP41,MySQL,1,nan
+6613bd4e3a055b1dbde97a0c,EMP42,Statistical Analysis,5,nan
+6613bd4e3a055b1dbde97a0d,EMP42,Continuous Integration,5,nan
+6613bd4e3a055b1dbde97a0e,EMP42,Communication,5,nan
+6613bd4e3a055b1dbde97a0f,EMP42,Flask,3,nan
+6613bd4e3a055b1dbde97a10,EMP43,Wireframing,4,nan
+6613bd4e3a055b1dbde97a11,EMP43,Data Analysis,1,nan
+6613bd4e3a055b1dbde97a12,EMP43,Communication,5,nan
+6613bd4e3a055b1dbde97a13,EMP43,Business Analysis,4,nan
+6613bd4e3a055b1dbde97a14,EMP44,Machine Learning,5,nan
+6613bd4e3a055b1dbde97a15,EMP44,PHP,4,nan
+6613bd4e3a055b1dbde97a16,EMP44,Kotlin,3,nan
+6613bd4e3a055b1dbde97a17,EMP44,React,2,nan
+6613bd4e3a055b1dbde97a18,EMP45,Penetration Testing,5,nan
+6613bd4e3a055b1dbde97a19,EMP45,Prototyping,2,nan
+6613bd4e3a055b1dbde97a1a,EMP45,Machine Learning,2,nan
+6613bd4e3a055b1dbde97a1b,EMP45,Cybersecurity,1,nan
+6613bd4e3a055b1dbde97a1c,EMP46,CSS,2,nan
+6613bd4e3a055b1dbde97a1d,EMP46,Continuous Deployment,2,nan
+6613bd4e3a055b1dbde97a1e,EMP46,Node.js,5,nan
+6613bd4e3a055b1dbde97a1f,EMP46,GraphQL,4,nan
+6613bd4e3a055b1dbde97a20,EMP47,Kotlin,1,nan
+6613bd4e3a055b1dbde97a21,EMP47,Collaboration,4,nan
+6613bd4e3a055b1dbde97a22,EMP47,Scrum,5,nan
+6613bd4e3a055b1dbde97a23,EMP47,.NET,1,nan
+6613bd4e3a055b1dbde97a24,EMP48,Wireframing,5,nan
+6613bd4e3a055b1dbde97a25,EMP48,Problem Solving,4,nan
+6613bd4e3a055b1dbde97a26,EMP48,Accessibility,5,nan
+6613bd4e3a055b1dbde97a27,EMP48,CI/CD,5,nan
+6613bd4e3a055b1dbde97a2a,EMP49,Communication,2,nan
+6613bd4e3a055b1dbde97a2b,EMP49,Penetration Testing,2,nan
+6613bd4e3a055b1dbde97a2c,EMP49,Accessibility,4,nan
+6613bd4e3a055b1dbde97a2d,EMP49,Containerization,5,nan
+6613bd4e3a055b1dbde97a2e,EMP50,Python,1,nan
+6613bd4e3a055b1dbde97a2f,EMP50,Git,4,nan
+6613bd4e3a055b1dbde97a30,EMP50,Cybersecurity,2,nan
+6613bd4e3a055b1dbde97a31,EMP50,Machine Learning,1,nan
+6613bd4e3a055b1dbde97a32,EMP51,Azure,3,nan
+6613bd4e3a055b1dbde97a33,EMP51,Documentation,5,nan
+6613bd4e3a055b1dbde97a34,EMP51,Java,4,nan
+6613bd4e3a055b1dbde97a35,EMP51,Interaction Design,5,nan
+6613bd4e3a055b1dbde97a36,EMP52,Google Cloud Platform,4,nan
+6613bd4e3a055b1dbde97a37,EMP52,Technical Writing,5,nan
+6613bd4e3a055b1dbde97a38,EMP52,Java,5,nan
+6613bd4e3a055b1dbde97a39,EMP52,UI/UX Design,2,nan
+6613bd4e3a055b1dbde97a3a,EMP53,Ruby,4,nan
+6613bd4e3a055b1dbde97a3b,EMP53,JavaScript,3,nan
+6613bd4e3a055b1dbde97a3c,EMP53,Machine Learning,2,nan
+6613bd4e3a055b1dbde97a3d,EMP53,CI/CD,2,nan
+6613bd4e3a055b1dbde97a3e,EMP54,Cryptography,2,nan
+6613bd4e3a055b1dbde97a3f,EMP54,Machine Learning,3,nan
+6613bd4e3a055b1dbde97a40,EMP54,Objective-C,4,nan
+6613bd4e3a055b1dbde97a41,EMP54,Communication,2,nan
+6613bd4e3a055b1dbde97a42,EMP55,Swift,5,nan
+6613bd4e3a055b1dbde97a43,EMP55,Objective-C,4,nan
+6613bd4e3a055b1dbde97a44,EMP55,Business Analysis,4,nan
+6613bd4e3a055b1dbde97a45,EMP55,Flask,2,nan
+6613bd4e3a055b1dbde97a46,EMP56,Google Cloud Platform,5,nan
+6613bd4e3a055b1dbde97a47,EMP56,SQL,4,nan
+6613bd4e3a055b1dbde97a48,EMP56,Agile Product Management,1,nan
+6613bd4e3a055b1dbde97a49,EMP56,Communication,5,nan
+6613bd4e3a055b1dbde97a4a,EMP57,Statistical Analysis,4,nan
+6613bd4e3a055b1dbde97a4b,EMP57,MongoDB,3,nan
+6613bd4e3a055b1dbde97a4c,EMP57,Support,4,nan
+6613bd4e3a055b1dbde97a4d,EMP57,Git,3,nan
+6613bd4e3a055b1dbde97a4e,EMP58,UI/UX Design,4,nan
+6613bd4e3a055b1dbde97a4f,EMP58,CSS,4,nan
+6613bd4e3a055b1dbde97a50,EMP58,Support,5,nan
+6613bd4e3a055b1dbde97a51,EMP58,Machine Learning,1,nan
+6613bd4e3a055b1dbde97a52,EMP59,Data Visualization,1,nan
+6613bd4e3a055b1dbde97a53,EMP59,UI/UX Design,4,nan
+6613bd4e3a055b1dbde97a54,EMP59,Kubernetes,1,nan
+6613bd4e3a055b1dbde97a55,EMP59,Information Security,1,nan
+6613bd4e3a055b1dbde97a56,EMP60,Kotlin,3,nan
+6613bd4e3a055b1dbde97a57,EMP60,Machine Learning,2,nan
+6613bd4e3a055b1dbde97a58,EMP60,Swift,2,nan
+6613bd4e3a055b1dbde97a59,EMP60,Test-Driven Development,2,nan
+6613bd4e3a055b1dbde97a5a,EMP61,User Stories,2,nan
+6613bd4e3a055b1dbde97a5b,EMP61,Requirements Analysis,1,nan
+6613bd4e3a055b1dbde97a5c,EMP61,Angular,3,nan
+6613bd4e3a055b1dbde97a5d,EMP61,Vue.js,4,nan
+6613bd4e3a055b1dbde97a5e,EMP62,Data Science,4,nan
+6613bd4e3a055b1dbde97a5f,EMP62,Product Management,2,nan
+6613bd4e3a055b1dbde97a60,EMP62,Interaction Design,1,nan
+6613bd4e3a055b1dbde97a61,EMP62,Test-Driven Development,3,nan
+6613bd4e3a055b1dbde97a62,EMP63,Wireframing,5,nan
+6613bd4e3a055b1dbde97a63,EMP63,SQL,5,nan
+6613bd4e3a055b1dbde97a64,EMP63,Cybersecurity,4,nan
+6613bd4e3a055b1dbde97a65,EMP63,Business Analysis,5,nan
+6613bd4e3a055b1dbde97a66,EMP64,Behavior-Driven Development,3,nan
+6613bd4e3a055b1dbde97a67,EMP64,Python,4,nan
+6613bd4e3a055b1dbde97a68,EMP64,Cybersecurity,4,nan
+6613bd4e3a055b1dbde97a69,EMP64,RESTful API,4,nan
+6613bd4e3a055b1dbde97a6c,EMP65,Problem Solving,5,nan
+6613bd4e3a055b1dbde97a6d,EMP65,Cryptography,5,nan
+6613bd4e3a055b1dbde97a6e,EMP65,NoSQL,2,nan
+6613bd4e3a055b1dbde97a6f,EMP65,Google Cloud Platform,4,nan
+6613bd4e3a055b1dbde97a70,EMP66,NoSQL,1,nan
+6613bd4e3a055b1dbde97a71,EMP66,Flask,2,nan
+6613bd4e3a055b1dbde97a72,EMP66,Wireframing,3,nan
+6613bd4e3a055b1dbde97a73,EMP66,Machine Learning,5,nan
+6613bd4e3a055b1dbde97a74,EMP67,Continuous Deployment,3,nan
+6613bd4e3a055b1dbde97a75,EMP67,Angular,4,nan
+6613bd4e3a055b1dbde97a76,EMP67,Information Security,4,nan
+6613bd4e3a055b1dbde97a77,EMP67,Documentation,4,nan
+6613bd4e3a055b1dbde97a78,EMP68,Interaction Design,5,nan
+6613bd4e3a055b1dbde97a79,EMP68,Wireframing,2,nan
+6613bd4e3a055b1dbde97a7a,EMP68,Git,4,nan
+6613bd4e3a055b1dbde97a7b,EMP68,Network Security,2,nan
+6613bd4e3a055b1dbde97a7c,EMP69,Java,5,nan
+6613bd4e3a055b1dbde97a7d,EMP69,.NET,1,nan
+6613bd4e3a055b1dbde97a7e,EMP69,Prototyping,2,nan
+6613bd4e3a055b1dbde97a7f,EMP69,Objective-C,3,nan
+6613bd4e3a055b1dbde97a80,EMP70,Behavior-Driven Development,2,nan
+6613bd4e3a055b1dbde97a81,EMP70,Git,5,nan
+6613bd4e3a055b1dbde97a82,EMP70,Docker,4,nan
+6613bd4e3a055b1dbde97a83,EMP70,Microservices,4,nan
+6613bd4e3a055b1dbde97a84,EMP71,CSS,4,nan
+6613bd4e3a055b1dbde97a85,EMP71,Responsive Design,1,nan
+6613bd4e3a055b1dbde97a86,EMP71,Artificial Intelligence,3,nan
+6613bd4e3a055b1dbde97a87,EMP71,Agile Methodologies,4,nan
+6613bd4e3a055b1dbde97a88,EMP72,User Stories,2,nan
+6613bd4e3a055b1dbde97a89,EMP72,Technical Writing,2,nan
+6613bd4e3a055b1dbde97a8a,EMP72,DevOps,5,nan
+6613bd4e3a055b1dbde97a8b,EMP72,Google Cloud Platform,3,nan
+6613bd4e3a055b1dbde97a8c,EMP73,JavaScript,5,nan
+6613bd4e3a055b1dbde97a8d,EMP73,Continuous Deployment,3,nan
+6613bd4e3a055b1dbde97a8e,EMP73,Objective-C,3,nan
+6613bd4e3a055b1dbde97a8f,EMP73,Data Visualization,4,nan
+6613bd4e3a055b1dbde97a90,EMP74,Interaction Design,5,nan
+6613bd4e3a055b1dbde97a91,EMP74,React,4,nan
+6613bd4e3a055b1dbde97a92,EMP74,SQL,4,nan
+6613bd4e3a055b1dbde97a93,EMP74,PHP,5,nan
+6613bd4e3a055b1dbde97a94,EMP75,Flask,4,nan
+6613bd4e3a055b1dbde97a95,EMP75,Network Security,1,nan
+6613bd4e3a055b1dbde97a96,EMP75,Data Visualization,2,nan
+6613bd4e3a055b1dbde97a97,EMP75,Prototyping,2,nan
+6613bd4e3a055b1dbde97a98,EMP76,Data Visualization,3,nan
+6613bd4e3a055b1dbde97a99,EMP76,CI/CD,5,nan
+6613bd4e3a055b1dbde97a9a,EMP76,Google Cloud Platform,5,nan
+6613bd4e3a055b1dbde97a9b,EMP76,Technical Writing,4,nan
+6613bd4e3a055b1dbde97a9c,EMP77,Artificial Intelligence,4,nan
+6613bd4e3a055b1dbde97a9d,EMP77,Continuous Deployment,1,nan
+6613bd4e3a055b1dbde97a9e,EMP77,UI/UX Design,3,nan
+6613bd4e3a055b1dbde97a9f,EMP77,Behavior-Driven Development,4,nan
+6613bd4e3a055b1dbde97aa0,EMP78,JavaScript,1,nan
+6613bd4e3a055b1dbde97aa1,EMP78,Troubleshooting,5,nan
+6613bd4e3a055b1dbde97aa2,EMP78,Network Security,5,nan
+6613bd4e3a055b1dbde97aa3,EMP78,Django,1,nan
+6613bd4e3a055b1dbde97aa4,EMP79,Google Cloud Platform,3,nan
+6613bd4e3a055b1dbde97aa5,EMP79,JavaScript,1,nan
+6613bd4e3a055b1dbde97aa6,EMP79,Documentation,3,nan
+6613bd4e3a055b1dbde97aa7,EMP79,Leadership,1,nan
+6613bd4e3a055b1dbde97aa8,EMP80,PHP,1,nan
+6613bd4e3a055b1dbde97aa9,EMP80,Vue.js,3,nan
+6613bd4e3a055b1dbde97aaa,EMP80,Cybersecurity,5,nan
+6613bd4e3a055b1dbde97aab,EMP80,UI/UX Design,5,nan
+6613bd4e3a055b1dbde97aae,EMP81,Flask,2,nan
+6613bd4e3a055b1dbde97aaf,EMP81,Node.js,3,nan
+6613bd4e3a055b1dbde97ab0,EMP81,Swift,3,nan
+6613bd4e3a055b1dbde97ab1,EMP81,Data Science,2,nan
+6613bd4e3a055b1dbde97ab2,EMP82,MongoDB,4,nan
+6613bd4e3a055b1dbde97ab3,EMP82,Docker,1,nan
+6613bd4e3a055b1dbde97ab4,EMP82,Statistical Analysis,3,nan
+6613bd4e3a055b1dbde97ab5,EMP82,Test-Driven Development,5,nan
+6613bd4e3a055b1dbde97ab6,EMP83,Swift,2,nan
+6613bd4e3a055b1dbde97ab7,EMP83,Requirements Analysis,3,nan
+6613bd4e3a055b1dbde97ab8,EMP83,Cybersecurity,4,nan
+6613bd4e3a055b1dbde97ab9,EMP83,Angular,4,nan
+6613bd4e3a055b1dbde97aba,EMP84,Business Analysis,5,nan
+6613bd4e3a055b1dbde97abb,EMP84,Network Security,5,nan
+6613bd4e3a055b1dbde97abc,EMP84,Agile Product Management,1,nan
+6613bd4e3a055b1dbde97abd,EMP84,PHP,1,nan
+6613bd4e3a055b1dbde97abe,EMP85,Agile Methodologies,4,nan
+6613bd4e3a055b1dbde97abf,EMP85,Product Management,5,nan
+6613bd4e3a055b1dbde97ac0,EMP85,Scrum,2,nan
+6613bd4e3a055b1dbde97ac1,EMP85,Accessibility,5,nan
+6613bd4e3a055b1dbde97ac2,EMP86,Cybersecurity,5,nan
+6613bd4e3a055b1dbde97ac3,EMP86,AWS,1,nan
+6613bd4e3a055b1dbde97ac4,EMP86,Kotlin,2,nan
+6613bd4e3a055b1dbde97ac5,EMP86,Communication,1,nan
+6613bd4e3a055b1dbde97ac6,EMP87,Statistical Analysis,5,nan
+6613bd4e3a055b1dbde97ac7,EMP87,Data Science,1,nan
+6613bd4e3a055b1dbde97ac8,EMP87,DevOps,3,nan
+6613bd4e3a055b1dbde97ac9,EMP87,Requirements Analysis,3,nan
+6613bd4e3a055b1dbde97aca,EMP88,Microservices,1,nan
+6613bd4e3a055b1dbde97acb,EMP88,C#,5,nan
+6613bd4e3a055b1dbde97acc,EMP88,Agile Product Management,4,nan
+6613bd4e3a055b1dbde97acd,EMP88,AWS,5,nan
+6613bd4e3a055b1dbde97ace,EMP89,Ruby,3,nan
+6613bd4e3a055b1dbde97acf,EMP89,Test-Driven Development,3,nan
+6613bd4e3a055b1dbde97ad0,EMP89,Support,2,nan
+6613bd4e3a055b1dbde97ad1,EMP89,Prototyping,3,nan
+6613bd4e3a055b1dbde97ad2,EMP90,Python,1,nan
+6613bd4e3a055b1dbde97ad3,EMP90,Documentation,3,nan
+6613bd4e3a055b1dbde97ad4,EMP90,Technical Writing,2,nan
+6613bd4e3a055b1dbde97ad5,EMP90,.NET,2,nan
+6613bd4e3a055b1dbde97ad6,EMP91,Continuous Integration,3,nan
+6613bd4e3a055b1dbde97ad7,EMP91,Ruby,2,nan
+6613bd4e3a055b1dbde97ad8,EMP91,Accessibility,1,nan
+6613bd4e3a055b1dbde97ad9,EMP91,Git,2,nan
+6613bd4e3a055b1dbde97ada,EMP92,Swift,2,nan
+6613bd4e3a055b1dbde97adb,EMP92,Kubernetes,4,nan
+6613bd4e3a055b1dbde97adc,EMP92,Communication,1,nan
+6613bd4e3a055b1dbde97add,EMP92,Data Analysis,4,nan
+6613bd4e3a055b1dbde97ade,EMP93,Flask,1,nan
+6613bd4e3a055b1dbde97adf,EMP93,Containerization,3,nan
+6613bd4e3a055b1dbde97ae0,EMP93,Node.js,1,nan
+6613bd4e3a055b1dbde97ae1,EMP93,Python,5,nan
+6613bd4e3a055b1dbde97ae2,EMP94,Kubernetes,1,nan
+6613bd4e3a055b1dbde97ae3,EMP94,Communication,1,nan
+6613bd4e3a055b1dbde97ae4,EMP94,Scrum,4,nan
+6613bd4e3a055b1dbde97ae5,EMP94,Vue.js,5,nan
+6613bd4e3a055b1dbde97ae6,EMP95,Technical Writing,2,nan
+6613bd4e3a055b1dbde97ae7,EMP95,Ruby,5,nan
+6613bd4e3a055b1dbde97ae8,EMP95,Objective-C,2,nan
+6613bd4e3a055b1dbde97ae9,EMP95,Java,2,nan
+6613bd4e3a055b1dbde97aea,EMP96,Product Management,5,nan
+6613bd4e3a055b1dbde97aeb,EMP96,CSS,5,nan
+6613bd4e3a055b1dbde97aec,EMP96,PostgreSQL,2,nan
+6613bd4e3a055b1dbde97aed,EMP96,Cryptography,5,nan
+6613bd4e3a055b1dbde97af0,EMP97,Documentation,2,nan
+6613bd4e3a055b1dbde97af1,EMP97,JavaScript,1,nan
+6613bd4e3a055b1dbde97af2,EMP97,.NET,4,nan
+6613bd4e3a055b1dbde97af3,EMP97,Requirements Analysis,1,nan
+6613bd4e3a055b1dbde97af4,EMP98,Product Management,1,nan
+6613bd4e3a055b1dbde97af5,EMP98,Leadership,2,nan
+6613bd4e3a055b1dbde97af6,EMP98,Artificial Intelligence,5,nan
+6613bd4e3a055b1dbde97af7,EMP98,Data Visualization,1,nan
+6613bd4e3a055b1dbde97af8,EMP99,Node.js,3,nan
+6613bd4e3a055b1dbde97af9,EMP99,Prototyping,1,nan
+6613bd4e3a055b1dbde97afa,EMP99,Requirements Analysis,3,nan
+6613bd4e3a055b1dbde97afb,EMP99,Containerization,4,nan
+6613bd4e3a055b1dbde97afc,EMP100,Azure,2,nan
+6613bd4e3a055b1dbde97afd,EMP100,Vue.js,4,nan
+6613bd4e3a055b1dbde97afe,EMP100,HTML,5,nan
+6613bd4e3a055b1dbde97aff,EMP100,Penetration Testing,3,nan
+6613bd4e3a055b1dbde97b00,EMP101,Statistical Analysis,4,nan
+6613bd4e3a055b1dbde97b01,EMP101,Azure,2,nan
+6613bd4e3a055b1dbde97b02,EMP101,Agile Methodologies,4,nan
+6613bd4e3a055b1dbde97b03,EMP101,Swift,4,nan
+6613bd4e3a055b1dbde97b04,EMP102,Agile Methodologies,1,nan
+6613bd4e3a055b1dbde97b05,EMP102,HTML,4,nan
+6613bd4e3a055b1dbde97b06,EMP102,SQL,1,nan
+6613bd4e3a055b1dbde97b07,EMP102,Product Management,1,nan
+6613bd4e3a055b1dbde97b08,EMP103,PHP,5,nan
+6613bd4e3a055b1dbde97b09,EMP103,SQL,3,nan
+6613bd4e3a055b1dbde97b0a,EMP103,Python,1,nan
+6613bd4e3a055b1dbde97b0b,EMP103,AWS,3,nan
+6613bd4e3a055b1dbde97b0c,EMP104,Cybersecurity,2,nan
+6613bd4e3a055b1dbde97b0d,EMP104,Continuous Deployment,2,nan
+6613bd4e3a055b1dbde97b0e,EMP104,SQL,3,nan
+6613bd4e3a055b1dbde97b0f,EMP104,RESTful API,2,nan
+6613bd4e3a055b1dbde97b10,EMP105,MySQL,1,nan
+6613bd4e3a055b1dbde97b11,EMP105,Ruby,3,nan
+6613bd4e3a055b1dbde97b12,EMP105,Statistical Analysis,5,nan
+6613bd4e3a055b1dbde97b13,EMP105,Communication,1,nan
+6613bd4e3a055b1dbde97b14,EMP106,Containerization,3,nan
+6613bd4e3a055b1dbde97b15,EMP106,HTML,1,nan
+6613bd4e3a055b1dbde97b16,EMP106,Accessibility,3,nan
+6613bd4e3a055b1dbde97b17,EMP106,Agile Product Management,5,nan
+6613bd4e3a055b1dbde97b18,EMP107,Responsive Design,1,nan
+6613bd4e3a055b1dbde97b19,EMP107,Test-Driven Development,2,nan
+6613bd4e3a055b1dbde97b1a,EMP107,RESTful API,4,nan
+6613bd4e3a055b1dbde97b1b,EMP107,Technical Writing,4,nan
+6613bd4e3a055b1dbde97b1c,EMP108,Containerization,5,nan
+6613bd4e3a055b1dbde97b1d,EMP108,Requirements Analysis,1,nan
+6613bd4e3a055b1dbde97b1e,EMP108,User Stories,1,nan
+6613bd4e3a055b1dbde97b1f,EMP108,PostgreSQL,2,nan
+6613bd4e3a055b1dbde97b20,EMP109,Leadership,5,nan
+6613bd4e3a055b1dbde97b21,EMP109,RESTful API,1,nan
+6613bd4e3a055b1dbde97b22,EMP109,Communication,2,nan
+6613bd4e3a055b1dbde97b23,EMP109,Behavior-Driven Development,2,nan
+6613bd4e3a055b1dbde97b24,EMP110,C#,5,nan
+6613bd4e3a055b1dbde97b25,EMP110,Behavior-Driven Development,2,nan
+6613bd4e3a055b1dbde97b26,EMP110,Azure,2,nan
+6613bd4e3a055b1dbde97b27,EMP110,Django,5,nan
+6613bd4e3a055b1dbde97b28,EMP111,MySQL,1,nan
+6613bd4e3a055b1dbde97b29,EMP111,Python,5,nan
+6613bd4e3a055b1dbde97b2a,EMP111,Containerization,5,nan
+6613bd4e3a055b1dbde97b2b,EMP111,PostgreSQL,2,nan
+6613bd4e3a055b1dbde97b2c,EMP112,Agile Product Management,5,nan
+6613bd4e3a055b1dbde97b2d,EMP112,Vue.js,1,nan
+6613bd4e3a055b1dbde97b2e,EMP112,JavaScript,3,nan
+6613bd4e3a055b1dbde97b2f,EMP112,Artificial Intelligence,3,nan
+6613bd4e3a055b1dbde97b33,EMP113,Agile Methodologies,3,nan
+6613bd4e3a055b1dbde97b34,EMP113,Wireframing,3,nan
+6613bd4e3a055b1dbde97b35,EMP113,Cybersecurity,4,nan
+6613bd4e3a055b1dbde97b36,EMP113,React,2,nan
+6613bd4e3a055b1dbde97b37,EMP114,JavaScript,4,nan
+6613bd4e3a055b1dbde97b38,EMP114,Kotlin,2,nan
+6613bd4e3a055b1dbde97b39,EMP114,Information Security,3,nan
+6613bd4e3a055b1dbde97b3a,EMP114,Scrum,4,nan
+6613bd4e3a055b1dbde97b3b,EMP115,JavaScript,3,nan
+6613bd4e3a055b1dbde97b3c,EMP115,Git,1,nan
+6613bd4e3a055b1dbde97b3d,EMP115,Communication,5,nan
+6613bd4e3a055b1dbde97b3e,EMP115,NoSQL,2,nan
+6613bd4e3a055b1dbde97b3f,EMP116,Documentation,3,nan
+6613bd4e3a055b1dbde97b40,EMP116,Responsive Design,1,nan
+6613bd4e3a055b1dbde97b41,EMP116,React,5,nan
+6613bd4e3a055b1dbde97b42,EMP116,Cryptography,2,nan
+6613bd4e3a055b1dbde97b43,EMP117,Java,4,nan
+6613bd4e3a055b1dbde97b44,EMP117,Technical Writing,2,nan
+6613bd4e3a055b1dbde97b45,EMP117,Containerization,1,nan
+6613bd4e3a055b1dbde97b46,EMP117,Python,2,nan
+6613bd4e3a055b1dbde97b47,EMP118,Kubernetes,2,nan
+6613bd4e3a055b1dbde97b48,EMP118,Kotlin,4,nan
+6613bd4e3a055b1dbde97b49,EMP118,Scrum,4,nan
+6613bd4e3a055b1dbde97b4a,EMP118,Test-Driven Development,1,nan
+6613bd4e3a055b1dbde97b4b,EMP119,Angular,3,nan
+6613bd4e3a055b1dbde97b4c,EMP119,Objective-C,4,nan
+6613bd4e3a055b1dbde97b4d,EMP119,Data Analysis,1,nan
+6613bd4e3a055b1dbde97b4e,EMP119,Flask,2,nan
+6613bd4e3a055b1dbde97b4f,EMP120,Docker,1,nan
+6613bd4e3a055b1dbde97b50,EMP120,JavaScript,3,nan
+6613bd4e3a055b1dbde97b51,EMP120,Interaction Design,5,nan
+6613bd4e3a055b1dbde97b52,EMP120,Agile Methodologies,4,nan
+6613bd4e3a055b1dbde97b53,EMP121,Leadership,1,nan
+6613bd4e3a055b1dbde97b54,EMP121,Interaction Design,4,nan
+6613bd4e3a055b1dbde97b55,EMP121,Problem Solving,5,nan
+6613bd4e3a055b1dbde97b56,EMP121,C#,1,nan
+6613bd4e3a055b1dbde97b57,EMP122,.NET,4,nan
+6613bd4e3a055b1dbde97b58,EMP122,MongoDB,1,nan
+6613bd4e3a055b1dbde97b59,EMP122,Responsive Design,1,nan
+6613bd4e3a055b1dbde97b5a,EMP122,Agile Methodologies,5,nan
+6613bd4e3a055b1dbde97b5b,EMP123,SQL,4,nan
+6613bd4e3a055b1dbde97b5c,EMP123,PostgreSQL,4,nan
+6613bd4e3a055b1dbde97b5d,EMP123,Django,2,nan
+6613bd4e3a055b1dbde97b5e,EMP123,Kubernetes,1,nan
+6613bd4e3a055b1dbde97b5f,EMP124,Docker,5,nan
+6613bd4e3a055b1dbde97b60,EMP124,Objective-C,3,nan
+6613bd4e3a055b1dbde97b61,EMP124,Continuous Deployment,2,nan
+6613bd4e3a055b1dbde97b62,EMP124,DevOps,4,nan
+6613bd4e3a055b1dbde97b63,EMP125,Agile Methodologies,3,nan
+6613bd4e3a055b1dbde97b64,EMP125,Collaboration,4,nan
+6613bd4e3a055b1dbde97b65,EMP125,Machine Learning,2,nan
+6613bd4e3a055b1dbde97b66,EMP125,Troubleshooting,2,nan
+6613bd4e3a055b1dbde97b67,EMP126,CSS,4,nan
+6613bd4e3a055b1dbde97b68,EMP126,Microservices,4,nan
+6613bd4e3a055b1dbde97b69,EMP126,Collaboration,2,nan
+6613bd4e3a055b1dbde97b6a,EMP126,React,3,nan
+6613bd4e3a055b1dbde97b6b,EMP127,Azure,4,nan
+6613bd4e3a055b1dbde97b6c,EMP127,HTML,2,nan
+6613bd4e3a055b1dbde97b6d,EMP127,Django,3,nan
+6613bd4e3a055b1dbde97b6e,EMP127,C#,5,nan
+6613bd4e3a055b1dbde97b6f,EMP128,Objective-C,2,nan
+6613bd4e3a055b1dbde97b70,EMP128,Data Analysis,3,nan
+6613bd4e3a055b1dbde97b71,EMP128,Agile Methodologies,3,nan
+6613bd4e3a055b1dbde97b72,EMP128,Problem Solving,3,nan
+6613bd4e3a055b1dbde97b76,EMP129,Docker,5,nan
+6613bd4e3a055b1dbde97b77,EMP129,Microservices,4,nan
+6613bd4e3a055b1dbde97b78,EMP129,Vue.js,2,nan
+6613bd4e3a055b1dbde97b79,EMP129,Data Visualization,3,nan
+6613bd4e3a055b1dbde97b7a,EMP130,Business Analysis,2,nan
+6613bd4e3a055b1dbde97b7b,EMP130,Wireframing,1,nan
+6613bd4e3a055b1dbde97b7c,EMP130,Azure,2,nan
+6613bd4e3a055b1dbde97b7d,EMP130,Kotlin,2,nan
+6613bd4e3a055b1dbde97b7e,EMP131,CSS,4,nan
+6613bd4e3a055b1dbde97b7f,EMP131,Agile Product Management,5,nan
+6613bd4e3a055b1dbde97b80,EMP131,Continuous Deployment,3,nan
+6613bd4e3a055b1dbde97b81,EMP131,Ruby,3,nan
+6613bd4e3a055b1dbde97b82,EMP132,PostgreSQL,3,nan
+6613bd4e3a055b1dbde97b83,EMP132,Swift,2,nan
+6613bd4e3a055b1dbde97b84,EMP132,DevOps,1,nan
+6613bd4e3a055b1dbde97b85,EMP132,Responsive Design,1,nan
+6613bd4e3a055b1dbde97b86,EMP133,Responsive Design,2,nan
+6613bd4e3a055b1dbde97b87,EMP133,Requirements Analysis,1,nan
+6613bd4e3a055b1dbde97b88,EMP133,Business Analysis,5,nan
+6613bd4e3a055b1dbde97b89,EMP133,Continuous Integration,5,nan
+6613bd4e3a055b1dbde97b8a,EMP134,Flask,4,nan
+6613bd4e3a055b1dbde97b8b,EMP134,JavaScript,3,nan
+6613bd4e3a055b1dbde97b8c,EMP134,AWS,2,nan
+6613bd4e3a055b1dbde97b8d,EMP134,Interaction Design,5,nan
+6613bd4e3a055b1dbde97b8e,EMP135,Agile Product Management,5,nan
+6613bd4e3a055b1dbde97b8f,EMP135,Behavior-Driven Development,3,nan
+6613bd4e3a055b1dbde97b90,EMP135,Django,2,nan
+6613bd4e3a055b1dbde97b91,EMP135,Flask,3,nan
+6613bd4e3a055b1dbde97b92,EMP136,Containerization,3,nan
+6613bd4e3a055b1dbde97b93,EMP136,Java,2,nan
+6613bd4e3a055b1dbde97b94,EMP136,Kubernetes,2,nan
+6613bd4e3a055b1dbde97b95,EMP136,Python,1,nan
+6613bd4e3a055b1dbde97b96,EMP137,Git,1,nan
+6613bd4e3a055b1dbde97b97,EMP137,Product Management,5,nan
+6613bd4e3a055b1dbde97b98,EMP137,User Research,1,nan
+6613bd4e3a055b1dbde97b99,EMP137,Continuous Deployment,2,nan
+6613bd4e3a055b1dbde97b9a,EMP138,Agile Product Management,2,nan
+6613bd4e3a055b1dbde97b9b,EMP138,Python,3,nan
+6613bd4e3a055b1dbde97b9c,EMP138,Git,3,nan
+6613bd4e3a055b1dbde97b9d,EMP138,Continuous Integration,1,nan
+6613bd4e3a055b1dbde97b9e,EMP139,Azure,2,nan
+6613bd4e3a055b1dbde97b9f,EMP139,Django,5,nan
+6613bd4e3a055b1dbde97ba0,EMP139,Problem Solving,4,nan
+6613bd4e3a055b1dbde97ba1,EMP139,Test-Driven Development,5,nan
+6613bd4e3a055b1dbde97ba2,EMP140,Information Security,1,nan
+6613bd4e3a055b1dbde97ba3,EMP140,C#,1,nan
+6613bd4e3a055b1dbde97ba4,EMP140,Communication,2,nan
+6613bd4e3a055b1dbde97ba5,EMP140,GraphQL,2,nan
+6613bd4e3a055b1dbde97ba6,EMP141,Product Management,4,nan
+6613bd4e3a055b1dbde97ba7,EMP141,Troubleshooting,2,nan
+6613bd4e3a055b1dbde97ba8,EMP141,Data Science,5,nan
+6613bd4e3a055b1dbde97ba9,EMP141,Continuous Integration,5,nan
+6613bd4e3a055b1dbde97baa,EMP142,Business Analysis,3,nan
+6613bd4e3a055b1dbde97bab,EMP142,Information Security,3,nan
+6613bd4e3a055b1dbde97bac,EMP142,Continuous Deployment,2,nan
+6613bd4e3a055b1dbde97bad,EMP142,DevOps,5,nan
+6613bd4e3a055b1dbde97bae,EMP143,Microservices,3,nan
+6613bd4e3a055b1dbde97baf,EMP143,Azure,5,nan
+6613bd4e3a055b1dbde97bb0,EMP143,CI/CD,4,nan
+6613bd4e3a055b1dbde97bb1,EMP143,MongoDB,3,nan
+6613bd4e3a055b1dbde97bb2,EMP144,Statistical Analysis,1,nan
+6613bd4e3a055b1dbde97bb3,EMP144,UI/UX Design,5,nan
+6613bd4e3a055b1dbde97bb4,EMP144,Accessibility,5,nan
+6613bd4e3a055b1dbde97bb5,EMP144,Django,3,nan
+6613bd4e3a055b1dbde97bb9,EMP145,MySQL,5,nan
+6613bd4e3a055b1dbde97bba,EMP145,Prototyping,3,nan
+6613bd4e3a055b1dbde97bbb,EMP145,Interaction Design,1,nan
+6613bd4e3a055b1dbde97bbc,EMP145,Accessibility,3,nan
+6613bd4e3a055b1dbde97bbd,EMP146,NoSQL,2,nan
+6613bd4e3a055b1dbde97bbe,EMP146,Network Security,3,nan
+6613bd4e3a055b1dbde97bbf,EMP146,Behavior-Driven Development,3,nan
+6613bd4e3a055b1dbde97bc0,EMP146,Problem Solving,5,nan
+6613bd4e3a055b1dbde97bc1,EMP147,User Stories,3,nan
+6613bd4e3a055b1dbde97bc2,EMP147,DevOps,3,nan
+6613bd4e3a055b1dbde97bc3,EMP147,Business Analysis,4,nan
+6613bd4e3a055b1dbde97bc4,EMP147,Ruby,1,nan
+6613bd4e3a055b1dbde97bc5,EMP148,HTML,4,nan
+6613bd4e3a055b1dbde97bc6,EMP148,Microservices,3,nan
+6613bd4e3a055b1dbde97bc7,EMP148,Interaction Design,1,nan
+6613bd4e3a055b1dbde97bc8,EMP148,CI/CD,1,nan
+6613bd4e3a055b1dbde97bc9,EMP149,React,4,nan
+6613bd4e3a055b1dbde97bca,EMP149,Statistical Analysis,2,nan
+6613bd4e3a055b1dbde97bcb,EMP149,Ruby,1,nan
+6613bd4e3a055b1dbde97bcc,EMP149,Artificial Intelligence,5,nan
+6613bd4e3a055b1dbde97bcd,EMP150,Kotlin,5,nan
+6613bd4e3a055b1dbde97bce,EMP150,Documentation,5,nan
+6613bd4e3a055b1dbde97bcf,EMP150,Django,3,nan
+6613bd4e3a055b1dbde97bd0,EMP150,RESTful API,1,nan
+6613bd4e3a055b1dbde97bd1,EMP151,Java,3,nan
+6613bd4e3a055b1dbde97bd2,EMP151,Data Visualization,3,nan
+6613bd4e3a055b1dbde97bd3,EMP151,CSS,1,nan
+6613bd4e3a055b1dbde97bd4,EMP151,NoSQL,3,nan
+6613bd4e3a055b1dbde97bd5,EMP152,PHP,5,nan
+6613bd4e3a055b1dbde97bd6,EMP152,Node.js,5,nan
+6613bd4e3a055b1dbde97bd7,EMP152,JavaScript,5,nan
+6613bd4e3a055b1dbde97bd8,EMP152,Machine Learning,5,nan
+6613bd4e3a055b1dbde97bd9,EMP153,Continuous Deployment,4,nan
+6613bd4e3a055b1dbde97bda,EMP153,Flask,4,nan
+6613bd4e3a055b1dbde97bdb,EMP153,Objective-C,1,nan
+6613bd4e3a055b1dbde97bdc,EMP153,Artificial Intelligence,3,nan
+6613bd4e3a055b1dbde97bdd,EMP154,Ruby,4,nan
+6613bd4e3a055b1dbde97bde,EMP154,Information Security,1,nan
+6613bd4e3a055b1dbde97bdf,EMP154,Git,2,nan
+6613bd4e3a055b1dbde97be0,EMP154,GraphQL,4,nan
+6613bd4e3a055b1dbde97be1,EMP155,Machine Learning,4,nan
+6613bd4e3a055b1dbde97be2,EMP155,Scrum,4,nan
+6613bd4e3a055b1dbde97be3,EMP155,Objective-C,4,nan
+6613bd4e3a055b1dbde97be4,EMP155,Docker,1,nan
+6613bd4e3a055b1dbde97be5,EMP156,Ruby,3,nan
+6613bd4e3a055b1dbde97be6,EMP156,Cryptography,2,nan
+6613bd4e3a055b1dbde97be7,EMP156,MongoDB,5,nan
+6613bd4e3a055b1dbde97be8,EMP156,User Research,5,nan
+6613bd4e3a055b1dbde97be9,EMP157,Troubleshooting,4,nan
+6613bd4e3a055b1dbde97bea,EMP157,RESTful API,1,nan
+6613bd4e3a055b1dbde97beb,EMP157,Artificial Intelligence,2,nan
+6613bd4e3a055b1dbde97bec,EMP157,Technical Writing,1,nan
+6613bd4e3a055b1dbde97bed,EMP158,JavaScript,2,nan
+6613bd4e3a055b1dbde97bee,EMP158,Vue.js,1,nan
+6613bd4e3a055b1dbde97bef,EMP158,DevOps,1,nan
+6613bd4e3a055b1dbde97bf0,EMP158,Penetration Testing,1,nan
+6613bd4e3a055b1dbde97bf1,EMP159,Java,2,nan
+6613bd4e3a055b1dbde97bf2,EMP159,Data Science,2,nan
+6613bd4e3a055b1dbde97bf3,EMP159,CSS,2,nan
+6613bd4e3a055b1dbde97bf4,EMP159,MySQL,3,nan
+6613bd4e3a055b1dbde97bf5,EMP160,Agile Methodologies,5,nan
+6613bd4e3a055b1dbde97bf6,EMP160,User Research,2,nan
+6613bd4e3a055b1dbde97bf7,EMP160,Wireframing,5,nan
+6613bd4e3a055b1dbde97bf8,EMP160,Collaboration,1,nan
+6613bd4e3a055b1dbde97bfc,EMP161,Prototyping,1,nan
+6613bd4e3a055b1dbde97bfd,EMP161,C#,4,nan
+6613bd4e3a055b1dbde97bfe,EMP161,Ruby,2,nan
+6613bd4e3a055b1dbde97bff,EMP161,Google Cloud Platform,2,nan
+6613bd4e3a055b1dbde97c00,EMP162,Docker,3,nan
+6613bd4e3a055b1dbde97c01,EMP162,Wireframing,2,nan
+6613bd4e3a055b1dbde97c02,EMP162,DevOps,1,nan
+6613bd4e3a055b1dbde97c03,EMP162,Product Management,5,nan
+6613bd4e3a055b1dbde97c04,EMP163,PHP,3,nan
+6613bd4e3a055b1dbde97c05,EMP163,SQL,1,nan
+6613bd4e3a055b1dbde97c06,EMP163,JavaScript,3,nan
+6613bd4e3a055b1dbde97c07,EMP163,PostgreSQL,2,nan
+6613bd4e3a055b1dbde97c08,EMP164,CI/CD,4,nan
+6613bd4e3a055b1dbde97c09,EMP164,RESTful API,1,nan
+6613bd4e3a055b1dbde97c0a,EMP164,CSS,3,nan
+6613bd4e3a055b1dbde97c0b,EMP164,Problem Solving,4,nan
+6613bd4e3a055b1dbde97c0c,EMP165,Network Security,3,nan
+6613bd4e3a055b1dbde97c0d,EMP165,React,5,nan
+6613bd4e3a055b1dbde97c0e,EMP165,Ruby,4,nan
+6613bd4e3a055b1dbde97c0f,EMP165,Technical Writing,1,nan
+6613bd4e3a055b1dbde97c10,EMP166,Cryptography,1,nan
+6613bd4e3a055b1dbde97c11,EMP166,Google Cloud Platform,5,nan
+6613bd4e3a055b1dbde97c12,EMP166,Kotlin,3,nan
+6613bd4e3a055b1dbde97c13,EMP166,C#,3,nan
+6613bd4e3a055b1dbde97c14,EMP167,.NET,5,nan
+6613bd4e3a055b1dbde97c15,EMP167,Information Security,3,nan
+6613bd4e3a055b1dbde97c16,EMP167,Documentation,2,nan
+6613bd4e3a055b1dbde97c17,EMP167,PHP,2,nan
+6613bd4e3a055b1dbde97c18,EMP168,Java,3,nan
+6613bd4e3a055b1dbde97c19,EMP168,Vue.js,5,nan
+6613bd4e3a055b1dbde97c1a,EMP168,CI/CD,5,nan
+6613bd4e3a055b1dbde97c1b,EMP168,DevOps,3,nan
+6613bd4e3a055b1dbde97c1c,EMP169,Ruby,4,nan
+6613bd4e3a055b1dbde97c1d,EMP169,Communication,1,nan
+6613bd4e3a055b1dbde97c1e,EMP169,Prototyping,5,nan
+6613bd4e3a055b1dbde97c1f,EMP169,DevOps,2,nan
+6613bd4e3a055b1dbde97c20,EMP170,Test-Driven Development,5,nan
+6613bd4e3a055b1dbde97c21,EMP170,Node.js,4,nan
+6613bd4e3a055b1dbde97c22,EMP170,Data Science,2,nan
+6613bd4e3a055b1dbde97c23,EMP170,Kotlin,5,nan
+6613bd4e3a055b1dbde97c24,EMP171,Statistical Analysis,4,nan
+6613bd4e3a055b1dbde97c25,EMP171,Requirements Analysis,4,nan
+6613bd4e3a055b1dbde97c26,EMP171,Communication,1,nan
+6613bd4e3a055b1dbde97c27,EMP171,Flask,5,nan
+6613bd4e3a055b1dbde97c28,EMP172,Statistical Analysis,1,nan
+6613bd4e3a055b1dbde97c29,EMP172,HTML,5,nan
+6613bd4e3a055b1dbde97c2a,EMP172,NoSQL,5,nan
+6613bd4e3a055b1dbde97c2b,EMP172,Problem Solving,3,nan
+6613bd4e3a055b1dbde97c2c,EMP173,Collaboration,5,nan
+6613bd4e3a055b1dbde97c2d,EMP173,Continuous Deployment,2,nan
+6613bd4e3a055b1dbde97c2e,EMP173,User Stories,5,nan
+6613bd4e3a055b1dbde97c2f,EMP173,Behavior-Driven Development,5,nan
+6613bd4e3a055b1dbde97c30,EMP174,Product Management,4,nan
+6613bd4e3a055b1dbde97c31,EMP174,Scrum,3,nan
+6613bd4e3a055b1dbde97c32,EMP174,Django,3,nan
+6613bd4e3a055b1dbde97c33,EMP174,Angular,5,nan
+6613bd4e3a055b1dbde97c34,EMP175,RESTful API,1,nan
+6613bd4e3a055b1dbde97c35,EMP175,Ruby,4,nan
+6613bd4e3a055b1dbde97c36,EMP175,Azure,1,nan
+6613bd4e3a055b1dbde97c37,EMP175,Swift,1,nan
+6613bd4e3a055b1dbde97c38,EMP176,Test-Driven Development,1,nan
+6613bd4e3a055b1dbde97c39,EMP176,User Research,1,nan
+6613bd4e3a055b1dbde97c3a,EMP176,Swift,1,nan
+6613bd4e3a055b1dbde97c3b,EMP176,Data Analysis,4,nan
+6613bd4e3a055b1dbde97c3e,EMP177,Penetration Testing,5,nan
+6613bd4e3a055b1dbde97c3f,EMP177,CSS,5,nan
+6613bd4e3a055b1dbde97c40,EMP177,Requirements Analysis,2,nan
+6613bd4e3a055b1dbde97c41,EMP177,Scrum,3,nan
+6613bd4e3a055b1dbde97c42,EMP178,PHP,1,nan
+6613bd4e3a055b1dbde97c43,EMP178,Test-Driven Development,2,nan
+6613bd4e3a055b1dbde97c44,EMP178,Interaction Design,5,nan
+6613bd4e3a055b1dbde97c45,EMP178,React,2,nan
+6613bd4e3a055b1dbde97c46,EMP179,Network Security,1,nan
+6613bd4e3a055b1dbde97c47,EMP179,Continuous Deployment,1,nan
+6613bd4e3a055b1dbde97c48,EMP179,Leadership,4,nan
+6613bd4e3a055b1dbde97c49,EMP179,Product Management,1,nan
+6613bd4e3a055b1dbde97c4a,EMP180,Flask,5,nan
+6613bd4e3a055b1dbde97c4c,EMP180,Problem Solving,1,nan
+6613bd4e3a055b1dbde97c4d,EMP180,React,1,nan
+6613bd4e3a055b1dbde97c4e,EMP180,DevOps,2,nan
+6613bd4e3a055b1dbde97c4f,EMP181,Product Management,5,nan
+6613bd4e3a055b1dbde97c50,EMP181,Accessibility,4,nan
+6613bd4e3a055b1dbde97c51,EMP181,Data Analysis,5,nan
+6613bd4e3a055b1dbde97c52,EMP181,Scrum,2,nan
+6613bd4e3a055b1dbde97c53,EMP182,User Stories,2,nan
+6613bd4e3a055b1dbde97c54,EMP182,Communication,3,nan
+6613bd4e3a055b1dbde97c55,EMP182,Business Analysis,4,nan
+6613bd4e3a055b1dbde97c56,EMP182,Cryptography,4,nan
+6613bd4e3a055b1dbde97c57,EMP183,Containerization,3,nan
+6613bd4e3a055b1dbde97c58,EMP183,HTML,1,nan
+6613bd4e3a055b1dbde97c59,EMP183,Agile Methodologies,3,nan
+6613bd4e3a055b1dbde97c5a,EMP183,Data Analysis,2,nan
+6613bd4e3a055b1dbde97c5b,EMP184,Azure,3,nan
+6613bd4e3a055b1dbde97c5c,EMP184,NoSQL,1,nan
+6613bd4e3a055b1dbde97c5d,EMP184,C#,2,nan
+6613bd4e3a055b1dbde97c5e,EMP184,Agile Methodologies,3,nan
+6613bd4e3a055b1dbde97c5f,EMP185,CI/CD,4,nan
+6613bd4e3a055b1dbde97c60,EMP185,JavaScript,5,nan
+6613bd4e3a055b1dbde97c61,EMP185,Node.js,5,nan
+6613bd4e3a055b1dbde97c62,EMP185,Vue.js,4,nan
+6613bd4e3a055b1dbde97c63,EMP186,Responsive Design,1,nan
+6613bd4e3a055b1dbde97c64,EMP186,Kotlin,5,nan
+6613bd4e3a055b1dbde97c65,EMP186,UI/UX Design,2,nan
+6613bd4e3a055b1dbde97c66,EMP186,Network Security,5,nan
+6613bd4e3a055b1dbde97c67,EMP187,Ruby,3,nan
+6613bd4e3a055b1dbde97c68,EMP187,Accessibility,2,nan
+6613bd4e3a055b1dbde97c69,EMP187,Containerization,1,nan
+6613bd4e3a055b1dbde97c6a,EMP187,Python,3,nan
+6613bd4e3a055b1dbde97c6b,EMP188,Azure,3,nan
+6613bd4e3a055b1dbde97c6c,EMP188,Kubernetes,2,nan
+6613bd4e3a055b1dbde97c6d,EMP188,Swift,5,nan
+6613bd4e3a055b1dbde97c6e,EMP188,Data Analysis,4,nan
+6613bd4e3a055b1dbde97c6f,EMP189,Microservices,1,nan
+6613bd4e3a055b1dbde97c70,EMP189,Node.js,5,nan
+6613bd4e3a055b1dbde97c71,EMP189,Wireframing,4,nan
+6613bd4e3a055b1dbde97c72,EMP189,Continuous Deployment,1,nan
+6613bd4e3a055b1dbde97c73,EMP190,Containerization,4,nan
+6613bd4e3a055b1dbde97c74,EMP190,MongoDB,1,nan
+6613bd4e3a055b1dbde97c75,EMP190,Interaction Design,2,nan
+6613bd4e3a055b1dbde97c76,EMP190,Collaboration,1,nan
+6613bd4e3a055b1dbde97c77,EMP191,NoSQL,2,nan
+6613bd4e3a055b1dbde97c78,EMP191,Google Cloud Platform,1,nan
+6613bd4e3a055b1dbde97c79,EMP191,Java,2,nan
+6613bd4e3a055b1dbde97c7a,EMP191,Scrum,2,nan
+6613bd4e3a055b1dbde97c7b,EMP192,Information Security,3,nan
+6613bd4e3a055b1dbde97c7c,EMP192,C#,1,nan
+6613bd4e3a055b1dbde97c7d,EMP192,MongoDB,2,nan
+6613bd4e3a055b1dbde97c7e,EMP192,SQL,2,nan
+6613bd4e3a055b1dbde97c81,EMP193,Data Visualization,1,nan
+6613bd4e3a055b1dbde97c82,EMP193,Network Security,5,nan
+6613bd4e3a055b1dbde97c83,EMP193,HTML,2,nan
+6613bd4e3a055b1dbde97c84,EMP193,Behavior-Driven Development,3,nan
+6613bd4e3a055b1dbde97c85,EMP194,Scrum,2,nan
+6613bd4e3a055b1dbde97c86,EMP194,SQL,3,nan
+6613bd4e3a055b1dbde97c87,EMP194,Behavior-Driven Development,4,nan
+6613bd4e3a055b1dbde97c88,EMP194,Cryptography,4,nan
+6613bd4e3a055b1dbde97c89,EMP195,Artificial Intelligence,2,nan
+6613bd4e3a055b1dbde97c8a,EMP195,Responsive Design,3,nan
+6613bd4e3a055b1dbde97c8b,EMP195,Continuous Deployment,4,nan
+6613bd4e3a055b1dbde97c8c,EMP195,Django,2,nan
+6613bd4e3a055b1dbde97c8d,EMP196,Angular,5,nan
+6613bd4e3a055b1dbde97c8e,EMP196,C#,1,nan
+6613bd4e3a055b1dbde97c8f,EMP196,Penetration Testing,1,nan
+6613bd4e3a055b1dbde97c90,EMP196,Git,1,nan
+6613bd4e3a055b1dbde97c91,EMP197,Statistical Analysis,3,nan
+6613bd4e3a055b1dbde97c92,EMP197,Problem Solving,5,nan
+6613bd4e3a055b1dbde97c93,EMP197,Communication,4,nan
+6613bd4e3a055b1dbde97c94,EMP197,Business Analysis,3,nan
+6613bd4e3a055b1dbde97c95,EMP198,Statistical Analysis,5,nan
+6613bd4e3a055b1dbde97c96,EMP198,Scrum,3,nan
+6613bd4e3a055b1dbde97c97,EMP198,Requirements Analysis,3,nan
+6613bd4e3a055b1dbde97c98,EMP198,NoSQL,4,nan
+6613bd4e3a055b1dbde97c99,EMP199,User Stories,5,nan
+6613bd4e3a055b1dbde97c9a,EMP199,C#,4,nan
+6613bd4e3a055b1dbde97c9b,EMP199,Agile Methodologies,3,nan
+6613bd4e3a055b1dbde97c9c,EMP199,Requirements Analysis,1,nan
+66162464cf0bf9eb515b2b2b,emp_01,Git,4,0.0
+661624a5cf0bf9eb515b2b2d,emp_01,Docker,4,0.0

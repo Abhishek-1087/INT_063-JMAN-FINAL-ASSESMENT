@@ -1,0 +1,596 @@
+Empid,projectName,majorSkill,Status
+EMP1,AI-driven Customer Service Chatbot,Product Management,Ongoing
+EMP1,E-commerce Platform Redesign,Microservices,Rejected
+EMP2,Smart Home Automation System,React,Rejected
+EMP2,Virtual Reality Training Simulation,C#,Ongoing
+EMP3,Virtual Reality Training Simulation,Business Analysis,Rejected
+EMP3,Personalized News Aggregator,Statistical Analysis,Accepted
+EMP3,Personal Finance Tracker App,Accessibility,Accepted
+EMP3,Emergency Response Management App,Accessibility,Ongoing
+EMP4,Online Event Ticketing Platform,Technical Writing,Rejected
+EMP4,Online Medical Consultation App,AWS,Accepted
+EMP4,Smart City Waste Management System,Technical Writing,Ongoing
+EMP5,E-commerce Platform Redesign,Troubleshooting,Rejected
+EMP5,Virtual Reality Training Simulation,Containerization,Ongoing
+EMP5,Smart City Waste Management System,Cryptography,Rejected
+EMP5,Food Delivery Optimization Algorithm,Product Management,Rejected
+EMP6,Food Delivery Optimization Algorithm,Angular,Accepted
+EMP6,IoT-based Smart Agriculture Solution,Angular,Ongoing
+EMP6,Remote Team Collaboration Platform,Angular,Rejected
+EMP6,Smart Parking Management System,Data Analysis,Ongoing
+EMP7,Climate Change Prediction Model,RESTful API,Ongoing
+EMP7,IoT-based Smart Agriculture Solution,Node.js,Accepted
+EMP8,Smart Parking Management System,Data Science,Ongoing
+EMP8,AI-driven Customer Service Chatbot,.NET,Accepted
+EMP9,Online Medical Consultation App,Data Analysis,Rejected
+EMP9,Emergency Response Management App,Data Analysis,Ongoing
+EMP9,Augmented Reality Shopping Experience,Azure,Ongoing
+EMP10,Wildlife Conservation Monitoring System,Swift,Rejected
+EMP10,Real Estate Property Finder App,Documentation,Rejected
+EMP10,Personal Finance Tracker App,Ruby,Rejected
+EMP11,Language Translation Service,Technical Writing,Ongoing
+EMP11,AI-driven Customer Service Chatbot,Technical Writing,Ongoing
+EMP11,Food Delivery Optimization Algorithm,Data Visualization,Accepted
+EMP12,E-commerce Platform Redesign,MongoDB,Accepted
+EMP12,AI-driven Customer Service Chatbot,RESTful API,Accepted
+EMP12,Virtual Reality Training Simulation,MongoDB,Ongoing
+EMP12,Climate Change Prediction Model,RESTful API,Accepted
+EMP13,Augmented Reality Shopping Experience,Microservices,Rejected
+EMP13,AI-driven Customer Service Chatbot,Node.js,Accepted
+EMP13,Remote Team Collaboration Platform,Microservices,Ongoing
+EMP14,Cybersecurity Incident Response Tool,SQL,Rejected
+EMP14,Online Medical Consultation App,Kubernetes,Accepted
+EMP14,Emergency Response Management App,Python,Accepted
+EMP14,Smart Home Automation System,SQL,Ongoing
+EMP15,Online Learning Management System,Python,Ongoing
+EMP15,Urban Traffic Management Solution,Python,Rejected
+EMP15,Smart City Waste Management System,Google Cloud Platform,Ongoing
+EMP16,Language Translation Service,Requirements Analysis,Rejected
+EMP16,Urban Traffic Management Solution,CSS,Rejected
+EMP16,Remote Team Collaboration Platform,CSS,Rejected
+EMP17,Language Translation Service,RESTful API,Accepted
+EMP17,Emergency Response Management App,RESTful API,Ongoing
+EMP17,Agricultural Crop Monitoring System,Scrum,Accepted
+EMP17,Personal Finance Tracker App,Kotlin,Accepted
+EMP18,Healthcare Data Analytics Platform,Data Visualization,Accepted
+EMP18,Wildlife Conservation Monitoring System,Support,Rejected
+EMP18,Language Translation Service,Data Visualization,Rejected
+EMP18,Online Medical Consultation App,Support,Accepted
+EMP19,Language Translation Service,PHP,Rejected
+EMP19,Personalized News Aggregator,Support,Accepted
+EMP19,Agricultural Crop Monitoring System,Communication,Accepted
+EMP20,Online Event Ticketing Platform,Technical Writing,Ongoing
+EMP20,AI-driven Customer Service Chatbot,PHP,Accepted
+EMP20,Autonomous Drone Delivery Service,Wireframing,Accepted
+EMP21,Agricultural Crop Monitoring System,Microservices,Accepted
+EMP21,Blockchain-based Supply Chain Management,Support,Ongoing
+EMP22,AI-driven Customer Service Chatbot,Java,Rejected
+EMP22,Smart Parking Management System,Java,Rejected
+EMP22,Cybersecurity Incident Response Tool,Prototyping,Rejected
+EMP22,Real Estate Property Finder App,Java,Ongoing
+EMP23,IoT-based Smart Agriculture Solution,Node.js,Ongoing
+EMP23,Personalized News Aggregator,User Research,Rejected
+EMP24,Wildlife Conservation Monitoring System,Django,Accepted
+EMP24,Online Medical Consultation App,Continuous Deployment,Rejected
+EMP24,Food Delivery Optimization Algorithm,Django,Rejected
+EMP25,AI-powered Virtual Assistant,Test-Driven Development,Accepted
+EMP25,Language Translation Service,Test-Driven Development,Rejected
+EMP25,Renewable Energy Management System,NoSQL,Rejected
+EMP25,Healthcare Data Analytics Platform,Leadership,Ongoing
+EMP26,Food Delivery Optimization Algorithm,Continuous Deployment,Rejected
+EMP26,Smart City Waste Management System,NoSQL,Ongoing
+EMP26,Climate Change Prediction Model,NoSQL,Ongoing
+EMP26,Online Medical Consultation App,Java,Ongoing
+EMP27,Fitness and Nutrition Tracking App,Kubernetes,Ongoing
+EMP27,Climate Change Prediction Model,Penetration Testing,Rejected
+EMP27,Healthcare Data Analytics Platform,Kubernetes,Accepted
+EMP27,Smart Home Automation System,Cybersecurity,Accepted
+EMP28,Smart Home Automation System,Requirements Analysis,Ongoing
+EMP28,Online Event Ticketing Platform,Requirements Analysis,Accepted
+EMP29,Online Learning Management System,Responsive Design,Ongoing
+EMP29,Renewable Energy Management System,Kotlin,Ongoing
+EMP29,Food Delivery Optimization Algorithm,Ruby,Ongoing
+EMP29,Virtual Reality Training Simulation,Kotlin,Accepted
+EMP30,Renewable Energy Management System,Troubleshooting,Accepted
+EMP30,Emergency Response Management App,Troubleshooting,Rejected
+EMP30,Personal Finance Tracker App,Swift,Accepted
+EMP31,Emergency Response Management App,Statistical Analysis,Accepted
+EMP31,Online Learning Management System,Objective-C,Accepted
+EMP32,Fitness and Nutrition Tracking App,React,Ongoing
+EMP32,AI-driven Customer Service Chatbot,CSS,Rejected
+EMP32,Wildlife Conservation Monitoring System,Support,Rejected
+EMP32,Autonomous Drone Delivery Service,Support,Ongoing
+EMP33,AI-powered Virtual Assistant,Cryptography,Ongoing
+EMP33,AI-driven Customer Service Chatbot,NoSQL,Ongoing
+EMP34,Climate Change Prediction Model,Agile Methodologies,Accepted
+EMP34,AI-powered Virtual Assistant,Docker,Ongoing
+EMP34,Online Learning Management System,Docker,Ongoing
+EMP34,Virtual Reality Training Simulation,Docker,Ongoing
+EMP35,Personalized News Aggregator,SQL,Ongoing
+EMP35,Online Learning Management System,Java,Ongoing
+EMP35,Climate Change Prediction Model,SQL,Accepted
+EMP36,Real Estate Property Finder App,Technical Writing,Accepted
+EMP36,Blockchain-based Supply Chain Management,React,Ongoing
+EMP37,Blockchain-based Supply Chain Management,Swift,Rejected
+EMP37,Personal Finance Tracker App,C#,Ongoing
+EMP37,Language Translation Service,Swift,Ongoing
+EMP38,Fitness and Nutrition Tracking App,Django,Ongoing
+EMP38,Smart Parking Management System,Django,Rejected
+EMP38,IoT-based Smart Agriculture Solution,Collaboration,Rejected
+EMP39,Healthcare Data Analytics Platform,Behavior-Driven Development,Accepted
+EMP39,Mental Health Chatbot,HTML,Rejected
+EMP39,Remote Team Collaboration Platform,Behavior-Driven Development,Accepted
+EMP40,Smart City Waste Management System,Python,Ongoing
+EMP40,Emergency Response Management App,Collaboration,Rejected
+EMP41,Blockchain-based Supply Chain Management,CI/CD,Ongoing
+EMP41,Personal Finance Tracker App,Test-Driven Development,Rejected
+EMP42,Emergency Response Management App,Business Analysis,Ongoing
+EMP42,Real Estate Property Finder App,Cybersecurity,Ongoing
+EMP42,Smart Parking Management System,Continuous Deployment,Rejected
+EMP42,Mental Health Chatbot,Cybersecurity,Ongoing
+EMP43,Smart City Waste Management System,AWS,Ongoing
+EMP43,Food Delivery Optimization Algorithm,Penetration Testing,Accepted
+EMP43,Renewable Energy Management System,Penetration Testing,Accepted
+EMP44,Smart City Waste Management System,AWS,Ongoing
+EMP44,E-commerce Platform Redesign,Kubernetes,Accepted
+EMP45,Online Event Ticketing Platform,Communication,Ongoing
+EMP45,Personalized News Aggregator,Troubleshooting,Ongoing
+EMP46,Real Estate Property Finder App,Kubernetes,Rejected
+EMP46,Emergency Response Management App,Data Analysis,Ongoing
+EMP46,Agricultural Crop Monitoring System,Kubernetes,Accepted
+EMP47,Urban Traffic Management Solution,Cryptography,Ongoing
+EMP47,Personal Finance Tracker App,Vue.js,Ongoing
+EMP47,Food Delivery Optimization Algorithm,Cryptography,Rejected
+EMP47,Blockchain-based Supply Chain Management,UI/UX Design,Rejected
+EMP48,Online Medical Consultation App,Docker,Rejected
+EMP48,Real Estate Property Finder App,Agile Methodologies,Rejected
+EMP48,Blockchain-based Supply Chain Management,Accessibility,Accepted
+EMP48,Augmented Reality Shopping Experience,Git,Accepted
+EMP49,Fitness and Nutrition Tracking App,Network Security,Rejected
+EMP49,Online Learning Management System,Network Security,Ongoing
+EMP49,Personal Finance Tracker App,Network Security,Rejected
+EMP49,Online Medical Consultation App,Network Security,Rejected
+EMP50,Agricultural Crop Monitoring System,Responsive Design,Accepted
+EMP50,Remote Team Collaboration Platform,Cybersecurity,Rejected
+EMP50,Smart Parking Management System,Cybersecurity,Rejected
+EMP50,AI-driven Customer Service Chatbot,Scrum,Accepted
+EMP51,Renewable Energy Management System,PHP,Accepted
+EMP51,Online Learning Management System,UI/UX Design,Accepted
+EMP51,Real Estate Property Finder App,Swift,Ongoing
+EMP51,Mental Health Chatbot,UI/UX Design,Accepted
+EMP52,Renewable Energy Management System,Communication,Rejected
+EMP52,Climate Change Prediction Model,Behavior-Driven Development,Ongoing
+EMP53,Online Event Ticketing Platform,Scrum,Rejected
+EMP53,Blockchain-based Supply Chain Management,Penetration Testing,Accepted
+EMP53,Wildlife Conservation Monitoring System,Requirements Analysis,Ongoing
+EMP54,Mental Health Chatbot,Containerization,Accepted
+EMP54,E-commerce Platform Redesign,Google Cloud Platform,Accepted
+EMP54,Autonomous Drone Delivery Service,Scrum,Ongoing
+EMP54,Blockchain-based Supply Chain Management,Scrum,Rejected
+EMP55,Smart Parking Management System,Data Science,Ongoing
+EMP55,Fitness and Nutrition Tracking App,Data Science,Ongoing
+EMP55,Remote Team Collaboration Platform,Agile Product Management,Ongoing
+EMP55,Smart City Waste Management System,Data Science,Ongoing
+EMP56,Emergency Response Management App,Azure,Accepted
+EMP56,Cybersecurity Incident Response Tool,Azure,Accepted
+EMP56,AI-driven Customer Service Chatbot,Test-Driven Development,Rejected
+EMP57,Online Learning Management System,Machine Learning,Accepted
+EMP57,Urban Traffic Management Solution,Data Science,Rejected
+EMP58,AI-powered Virtual Assistant,Interaction Design,Accepted
+EMP58,Personal Finance Tracker App,Statistical Analysis,Rejected
+EMP59,Smart Parking Management System,JavaScript,Rejected
+EMP59,Fitness and Nutrition Tracking App,Business Analysis,Rejected
+EMP60,Smart Home Automation System,Accessibility,Accepted
+EMP60,Wildlife Conservation Monitoring System,AWS,Accepted
+EMP61,Wildlife Conservation Monitoring System,Docker,Ongoing
+EMP61,Remote Team Collaboration Platform,Vue.js,Rejected
+EMP61,Smart Home Automation System,DevOps,Accepted
+EMP61,Online Medical Consultation App,Docker,Rejected
+EMP62,AI-driven Customer Service Chatbot,Django,Ongoing
+EMP62,Climate Change Prediction Model,Containerization,Accepted
+EMP63,Climate Change Prediction Model,Ruby,Ongoing
+EMP63,Renewable Energy Management System,Product Management,Ongoing
+EMP64,E-commerce Platform Redesign,Cryptography,Rejected
+EMP64,Food Delivery Optimization Algorithm,Cryptography,Accepted
+EMP65,Language Translation Service,NoSQL,Rejected
+EMP65,Emergency Response Management App,Vue.js,Ongoing
+EMP66,Online Event Ticketing Platform,Test-Driven Development,Accepted
+EMP66,Virtual Reality Training Simulation,User Research,Rejected
+EMP66,Language Translation Service,Responsive Design,Ongoing
+EMP67,Autonomous Drone Delivery Service,Requirements Analysis,Accepted
+EMP67,Smart Home Automation System,Requirements Analysis,Rejected
+EMP68,Agricultural Crop Monitoring System,Product Management,Accepted
+EMP68,Augmented Reality Shopping Experience,Google Cloud Platform,Ongoing
+EMP69,AI-powered Virtual Assistant,Troubleshooting,Accepted
+EMP69,Autonomous Drone Delivery Service,Troubleshooting,Ongoing
+EMP69,Language Translation Service,Docker,Rejected
+EMP70,Renewable Energy Management System,Ruby,Accepted
+EMP70,Autonomous Drone Delivery Service,Ruby,Ongoing
+EMP70,Smart Home Automation System,Kotlin,Ongoing
+EMP70,Online Medical Consultation App,Containerization,Ongoing
+EMP71,Remote Team Collaboration Platform,Wireframing,Ongoing
+EMP71,Virtual Reality Training Simulation,Artificial Intelligence,Accepted
+EMP71,Smart City Waste Management System,Wireframing,Rejected
+EMP72,Personal Finance Tracker App,Information Security,Rejected
+EMP72,Mental Health Chatbot,User Stories,Ongoing
+EMP72,Augmented Reality Shopping Experience,PHP,Rejected
+EMP73,Blockchain-based Supply Chain Management,GraphQL,Ongoing
+EMP73,Emergency Response Management App,Data Science,Ongoing
+EMP74,Personal Finance Tracker App,Business Analysis,Accepted
+EMP74,Emergency Response Management App,C#,Accepted
+EMP74,Virtual Reality Training Simulation,C#,Accepted
+EMP74,Smart Parking Management System,Business Analysis,Rejected
+EMP75,Blockchain-based Supply Chain Management,UI/UX Design,Rejected
+EMP75,Personalized News Aggregator,C#,Accepted
+EMP76,Autonomous Drone Delivery Service,Data Visualization,Accepted
+EMP76,Personalized News Aggregator,Problem Solving,Accepted
+EMP76,Cybersecurity Incident Response Tool,Data Visualization,Rejected
+EMP76,Wildlife Conservation Monitoring System,Requirements Analysis,Rejected
+EMP77,Mental Health Chatbot,Kotlin,Rejected
+EMP77,Online Medical Consultation App,Kotlin,Accepted
+EMP77,Urban Traffic Management Solution,Kotlin,Accepted
+EMP78,Smart Parking Management System,MongoDB,Rejected
+EMP78,Blockchain-based Supply Chain Management,AWS,Accepted
+EMP79,Mental Health Chatbot,RESTful API,Rejected
+EMP79,Climate Change Prediction Model,Cybersecurity,Ongoing
+EMP79,Renewable Energy Management System,RESTful API,Accepted
+EMP80,Smart Parking Management System,Troubleshooting,Accepted
+EMP80,Virtual Reality Training Simulation,Troubleshooting,Rejected
+EMP80,Mental Health Chatbot,Problem Solving,Accepted
+EMP81,Healthcare Data Analytics Platform,Test-Driven Development,Accepted
+EMP81,Mental Health Chatbot,Test-Driven Development,Ongoing
+EMP82,AI-powered Virtual Assistant,Wireframing,Ongoing
+EMP82,Fitness and Nutrition Tracking App,Problem Solving,Rejected
+EMP82,E-commerce Platform Redesign,Problem Solving,Accepted
+EMP83,Renewable Energy Management System,Java,Ongoing
+EMP83,IoT-based Smart Agriculture Solution,Java,Ongoing
+EMP84,Augmented Reality Shopping Experience,Django,Ongoing
+EMP84,AI-powered Virtual Assistant,Cybersecurity,Rejected
+EMP85,AI-powered Virtual Assistant,Support,Accepted
+EMP85,Language Translation Service,HTML,Ongoing
+EMP86,Healthcare Data Analytics Platform,Cryptography,Accepted
+EMP86,Smart Parking Management System,Cryptography,Accepted
+EMP86,Cybersecurity Incident Response Tool,JavaScript,Ongoing
+EMP86,Fitness and Nutrition Tracking App,Cryptography,Ongoing
+EMP87,Healthcare Data Analytics Platform,Information Security,Rejected
+EMP87,E-commerce Platform Redesign,Technical Writing,Accepted
+EMP87,Cybersecurity Incident Response Tool,React,Accepted
+EMP87,Agricultural Crop Monitoring System,React,Accepted
+EMP88,Renewable Energy Management System,Communication,Rejected
+EMP88,Remote Team Collaboration Platform,Communication,Ongoing
+EMP89,Virtual Reality Training Simulation,Problem Solving,Rejected
+EMP89,Augmented Reality Shopping Experience,Accessibility,Accepted
+EMP89,AI-powered Virtual Assistant,Objective-C,Rejected
+EMP89,Cybersecurity Incident Response Tool,Problem Solving,Rejected
+EMP90,AI-driven Customer Service Chatbot,Agile Product Management,Accepted
+EMP90,Autonomous Drone Delivery Service,Interaction Design,Rejected
+EMP90,Fitness and Nutrition Tracking App,Interaction Design,Accepted
+EMP91,Personalized News Aggregator,Java,Accepted
+EMP91,Language Translation Service,Data Visualization,Ongoing
+EMP92,Renewable Energy Management System,MySQL,Rejected
+EMP92,Personal Finance Tracker App,Objective-C,Rejected
+EMP93,Augmented Reality Shopping Experience,Problem Solving,Ongoing
+EMP93,Food Delivery Optimization Algorithm,Problem Solving,Accepted
+EMP94,Real Estate Property Finder App,Cybersecurity,Accepted
+EMP94,AI-powered Virtual Assistant,Scrum,Rejected
+EMP94,Personal Finance Tracker App,UI/UX Design,Accepted
+EMP95,Agricultural Crop Monitoring System,Swift,Rejected
+EMP95,Healthcare Data Analytics Platform,Support,Ongoing
+EMP96,Fitness and Nutrition Tracking App,NoSQL,Ongoing
+EMP96,Emergency Response Management App,Cryptography,Rejected
+EMP96,Personal Finance Tracker App,Cryptography,Accepted
+EMP96,Virtual Reality Training Simulation,NoSQL,Rejected
+EMP97,AI-powered Virtual Assistant,Communication,Accepted
+EMP97,AI-driven Customer Service Chatbot,Ruby,Accepted
+EMP97,Blockchain-based Supply Chain Management,Ruby,Ongoing
+EMP98,Virtual Reality Training Simulation,Accessibility,Rejected
+EMP98,Emergency Response Management App,Troubleshooting,Ongoing
+EMP98,Augmented Reality Shopping Experience,Troubleshooting,Accepted
+EMP98,Real Estate Property Finder App,UI/UX Design,Rejected
+EMP99,Augmented Reality Shopping Experience,Django,Accepted
+EMP99,Urban Traffic Management Solution,Python,Rejected
+EMP99,Online Medical Consultation App,Google Cloud Platform,Ongoing
+EMP100,AI-powered Virtual Assistant,Flask,Accepted
+EMP100,Language Translation Service,Collaboration,Ongoing
+EMP101,Online Learning Management System,Network Security,Accepted
+EMP101,Mental Health Chatbot,Network Security,Ongoing
+EMP102,Food Delivery Optimization Algorithm,Business Analysis,Rejected
+EMP102,Urban Traffic Management Solution,Microservices,Accepted
+EMP102,Augmented Reality Shopping Experience,Microservices,Accepted
+EMP102,Wildlife Conservation Monitoring System,Business Analysis,Rejected
+EMP103,E-commerce Platform Redesign,Google Cloud Platform,Rejected
+EMP103,Urban Traffic Management Solution,Penetration Testing,Ongoing
+EMP103,Mental Health Chatbot,Django,Rejected
+EMP103,Online Medical Consultation App,Google Cloud Platform,Accepted
+EMP104,Agricultural Crop Monitoring System,Business Analysis,Rejected
+EMP104,Urban Traffic Management Solution,Continuous Integration,Rejected
+EMP104,E-commerce Platform Redesign,Continuous Integration,Rejected
+EMP105,Remote Team Collaboration Platform,Kotlin,Accepted
+EMP105,Smart City Waste Management System,Continuous Deployment,Accepted
+EMP105,AI-driven Customer Service Chatbot,JavaScript,Rejected
+EMP105,Emergency Response Management App,Kotlin,Rejected
+EMP106,Smart Home Automation System,Documentation,Rejected
+EMP106,Online Medical Consultation App,RESTful API,Rejected
+EMP106,Augmented Reality Shopping Experience,RESTful API,Accepted
+EMP107,Emergency Response Management App,Behavior-Driven Development,Accepted
+EMP107,Personalized News Aggregator,Continuous Deployment,Rejected
+EMP108,Cybersecurity Incident Response Tool,.NET,Rejected
+EMP108,Virtual Reality Training Simulation,Test-Driven Development,Rejected
+EMP108,Online Learning Management System,NoSQL,Accepted
+EMP109,Cybersecurity Incident Response Tool,Collaboration,Accepted
+EMP109,Smart City Waste Management System,Artificial Intelligence,Rejected
+EMP109,Augmented Reality Shopping Experience,Artificial Intelligence,Rejected
+EMP109,Food Delivery Optimization Algorithm,Collaboration,Rejected
+EMP110,Fitness and Nutrition Tracking App,Penetration Testing,Rejected
+EMP110,Mental Health Chatbot,Data Visualization,Accepted
+EMP110,Food Delivery Optimization Algorithm,Data Visualization,Accepted
+EMP111,Food Delivery Optimization Algorithm,Vue.js,Ongoing
+EMP111,Healthcare Data Analytics Platform,Scrum,Ongoing
+EMP111,Smart City Waste Management System,Flask,Rejected
+EMP112,Smart City Waste Management System,Node.js,Rejected
+EMP112,Fitness and Nutrition Tracking App,Python,Rejected
+EMP112,Wildlife Conservation Monitoring System,Git,Accepted
+EMP112,AI-powered Virtual Assistant,Node.js,Rejected
+EMP113,Autonomous Drone Delivery Service,Agile Product Management,Ongoing
+EMP113,Online Learning Management System,Agile Product Management,Accepted
+EMP114,Mental Health Chatbot,Communication,Ongoing
+EMP114,Augmented Reality Shopping Experience,Collaboration,Accepted
+EMP114,Remote Team Collaboration Platform,Communication,Accepted
+EMP115,Renewable Energy Management System,Node.js,Ongoing
+EMP115,Augmented Reality Shopping Experience,Kotlin,Rejected
+EMP115,Online Medical Consultation App,MySQL,Accepted
+EMP116,Healthcare Data Analytics Platform,Business Analysis,Accepted
+EMP116,Smart Parking Management System,Scrum,Accepted
+EMP116,Online Event Ticketing Platform,Java,Ongoing
+EMP116,Real Estate Property Finder App,Scrum,Rejected
+EMP117,AI-powered Virtual Assistant,CI/CD,Accepted
+EMP117,E-commerce Platform Redesign,Support,Ongoing
+EMP118,Smart City Waste Management System,Python,Accepted
+EMP118,Cybersecurity Incident Response Tool,User Stories,Ongoing
+EMP119,Online Event Ticketing Platform,Behavior-Driven Development,Ongoing
+EMP119,Personalized News Aggregator,Collaboration,Ongoing
+EMP119,Smart Home Automation System,Leadership,Accepted
+EMP120,Emergency Response Management App,CSS,Ongoing
+EMP120,Smart Parking Management System,Swift,Accepted
+EMP120,Augmented Reality Shopping Experience,Behavior-Driven Development,Rejected
+EMP120,Cybersecurity Incident Response Tool,Swift,Rejected
+EMP121,Fitness and Nutrition Tracking App,Penetration Testing,Ongoing
+EMP121,Renewable Energy Management System,Penetration Testing,Accepted
+EMP121,Personal Finance Tracker App,Penetration Testing,Accepted
+EMP121,Emergency Response Management App,Communication,Ongoing
+EMP122,Augmented Reality Shopping Experience,Agile Product Management,Accepted
+EMP122,Real Estate Property Finder App,Agile Product Management,Accepted
+EMP123,Smart Home Automation System,RESTful API,Rejected
+EMP123,Online Medical Consultation App,Prototyping,Rejected
+EMP123,Online Event Ticketing Platform,UI/UX Design,Accepted
+EMP123,Personal Finance Tracker App,RESTful API,Ongoing
+EMP124,Cybersecurity Incident Response Tool,Interaction Design,Rejected
+EMP124,AI-driven Customer Service Chatbot,Collaboration,Accepted
+EMP124,Climate Change Prediction Model,User Stories,Rejected
+EMP124,Agricultural Crop Monitoring System,User Stories,Accepted
+EMP125,Food Delivery Optimization Algorithm,Leadership,Accepted
+EMP125,Smart City Waste Management System,Artificial Intelligence,Accepted
+EMP126,Emergency Response Management App,Problem Solving,Rejected
+EMP126,Smart Parking Management System,Flask,Rejected
+EMP126,Food Delivery Optimization Algorithm,Machine Learning,Ongoing
+EMP126,Smart Home Automation System,Product Management,Ongoing
+EMP127,Personalized News Aggregator,Support,Ongoing
+EMP127,Augmented Reality Shopping Experience,Support,Accepted
+EMP127,Climate Change Prediction Model,RESTful API,Rejected
+EMP127,Personal Finance Tracker App,RESTful API,Ongoing
+EMP128,Climate Change Prediction Model,Docker,Rejected
+EMP128,Personalized News Aggregator,PHP,Rejected
+EMP128,Healthcare Data Analytics Platform,User Stories,Rejected
+EMP129,E-commerce Platform Redesign,NoSQL,Rejected
+EMP129,Urban Traffic Management Solution,MySQL,Accepted
+EMP129,Augmented Reality Shopping Experience,MySQL,Rejected
+EMP130,Cybersecurity Incident Response Tool,Git,Rejected
+EMP130,E-commerce Platform Redesign,Behavior-Driven Development,Rejected
+EMP130,Personal Finance Tracker App,Behavior-Driven Development,Ongoing
+EMP131,Urban Traffic Management Solution,Communication,Rejected
+EMP131,Agricultural Crop Monitoring System,Data Visualization,Rejected
+EMP131,AI-driven Customer Service Chatbot,Collaboration,Ongoing
+EMP132,Virtual Reality Training Simulation,HTML,Accepted
+EMP132,Augmented Reality Shopping Experience,HTML,Ongoing
+EMP132,Smart Parking Management System,Azure,Ongoing
+EMP133,Personal Finance Tracker App,Requirements Analysis,Ongoing
+EMP133,AI-driven Customer Service Chatbot,Vue.js,Rejected
+EMP134,Mental Health Chatbot,Prototyping,Accepted
+EMP134,Wildlife Conservation Monitoring System,Support,Accepted
+EMP135,Augmented Reality Shopping Experience,Artificial Intelligence,Rejected
+EMP135,Wildlife Conservation Monitoring System,NoSQL,Ongoing
+EMP135,Smart City Waste Management System,Interaction Design,Accepted
+EMP135,Mental Health Chatbot,Interaction Design,Rejected
+EMP136,Food Delivery Optimization Algorithm,Statistical Analysis,Rejected
+EMP136,Personalized News Aggregator,Business Analysis,Accepted
+EMP136,Smart Home Automation System,Statistical Analysis,Ongoing
+EMP136,AI-powered Virtual Assistant,Statistical Analysis,Accepted
+EMP137,Renewable Energy Management System,Documentation,Accepted
+EMP137,Urban Traffic Management Solution,Agile Product Management,Accepted
+EMP137,Remote Team Collaboration Platform,.NET,Accepted
+EMP137,Smart Parking Management System,.NET,Accepted
+EMP138,Climate Change Prediction Model,React,Ongoing
+EMP138,Language Translation Service,HTML,Accepted
+EMP138,Online Event Ticketing Platform,HTML,Ongoing
+EMP139,Augmented Reality Shopping Experience,Data Science,Rejected
+EMP139,IoT-based Smart Agriculture Solution,Data Science,Ongoing
+EMP139,Personal Finance Tracker App,Statistical Analysis,Rejected
+EMP140,Augmented Reality Shopping Experience,MongoDB,Ongoing
+EMP140,Food Delivery Optimization Algorithm,MySQL,Rejected
+EMP140,Autonomous Drone Delivery Service,MongoDB,Ongoing
+EMP141,IoT-based Smart Agriculture Solution,Scrum,Ongoing
+EMP141,Urban Traffic Management Solution,UI/UX Design,Rejected
+EMP141,Smart City Waste Management System,UI/UX Design,Accepted
+EMP141,Online Event Ticketing Platform,UI/UX Design,Accepted
+EMP142,Online Event Ticketing Platform,Cryptography,Ongoing
+EMP142,Renewable Energy Management System,Git,Ongoing
+EMP143,Healthcare Data Analytics Platform,MySQL,Accepted
+EMP143,Virtual Reality Training Simulation,MySQL,Accepted
+EMP143,Renewable Energy Management System,NoSQL,Rejected
+EMP143,Remote Team Collaboration Platform,NoSQL,Accepted
+EMP144,IoT-based Smart Agriculture Solution,C#,Accepted
+EMP144,Mental Health Chatbot,Agile Methodologies,Ongoing
+EMP144,Healthcare Data Analytics Platform,Prototyping,Ongoing
+EMP145,Smart City Waste Management System,Docker,Accepted
+EMP145,Autonomous Drone Delivery Service,Agile Product Management,Accepted
+EMP145,Emergency Response Management App,Data Analysis,Ongoing
+EMP145,Personal Finance Tracker App,Docker,Ongoing
+EMP146,Online Event Ticketing Platform,CI/CD,Rejected
+EMP146,Wildlife Conservation Monitoring System,Troubleshooting,Accepted
+EMP146,Personalized News Aggregator,CI/CD,Rejected
+EMP147,Online Medical Consultation App,CI/CD,Ongoing
+EMP147,Smart City Waste Management System,CI/CD,Accepted
+EMP147,Smart Home Automation System,Continuous Deployment,Rejected
+EMP148,AI-powered Virtual Assistant,Scrum,Accepted
+EMP148,Online Medical Consultation App,Product Management,Ongoing
+EMP148,Wildlife Conservation Monitoring System,Swift,Accepted
+EMP148,E-commerce Platform Redesign,Product Management,Accepted
+EMP149,Personalized News Aggregator,React,Ongoing
+EMP149,AI-driven Customer Service Chatbot,Java,Ongoing
+EMP149,Smart City Waste Management System,Wireframing,Accepted
+EMP150,Agricultural Crop Monitoring System,C#,Ongoing
+EMP150,Food Delivery Optimization Algorithm,MySQL,Ongoing
+EMP150,Blockchain-based Supply Chain Management,C#,Rejected
+EMP151,Augmented Reality Shopping Experience,Requirements Analysis,Ongoing
+EMP151,Online Medical Consultation App,Statistical Analysis,Ongoing
+EMP151,Smart City Waste Management System,Troubleshooting,Ongoing
+EMP152,Cybersecurity Incident Response Tool,PHP,Rejected
+EMP152,Personal Finance Tracker App,Data Visualization,Accepted
+EMP153,IoT-based Smart Agriculture Solution,Data Science,Rejected
+EMP153,Virtual Reality Training Simulation,Django,Ongoing
+EMP153,Blockchain-based Supply Chain Management,Django,Accepted
+EMP153,Augmented Reality Shopping Experience,Responsive Design,Accepted
+EMP154,Online Event Ticketing Platform,Problem Solving,Rejected
+EMP154,AI-driven Customer Service Chatbot,Kotlin,Ongoing
+EMP154,Agricultural Crop Monitoring System,Problem Solving,Rejected
+EMP155,Remote Team Collaboration Platform,Accessibility,Rejected
+EMP155,Virtual Reality Training Simulation,Node.js,Accepted
+EMP155,Cybersecurity Incident Response Tool,Accessibility,Ongoing
+EMP156,Wildlife Conservation Monitoring System,User Stories,Ongoing
+EMP156,Smart City Waste Management System,RESTful API,Rejected
+EMP156,Renewable Energy Management System,React,Rejected
+EMP156,Fitness and Nutrition Tracking App,User Stories,Accepted
+EMP157,Personal Finance Tracker App,Continuous Deployment,Ongoing
+EMP157,Personalized News Aggregator,Git,Ongoing
+EMP158,Agricultural Crop Monitoring System,AWS,Accepted
+EMP158,Online Event Ticketing Platform,Data Science,Rejected
+EMP158,Autonomous Drone Delivery Service,AWS,Accepted
+EMP159,Autonomous Drone Delivery Service,Azure,Rejected
+EMP159,Renewable Energy Management System,Azure,Accepted
+EMP159,AI-powered Virtual Assistant,PHP,Rejected
+EMP160,Fitness and Nutrition Tracking App,Product Management,Accepted
+EMP160,Online Medical Consultation App,Objective-C,Rejected
+EMP161,AI-driven Customer Service Chatbot,Agile Methodologies,Rejected
+EMP161,Smart Home Automation System,Artificial Intelligence,Ongoing
+EMP161,Remote Team Collaboration Platform,Java,Accepted
+EMP162,Food Delivery Optimization Algorithm,HTML,Ongoing
+EMP162,Real Estate Property Finder App,HTML,Ongoing
+EMP162,Online Learning Management System,GraphQL,Accepted
+EMP163,Food Delivery Optimization Algorithm,Git,Accepted
+EMP163,Smart Home Automation System,Angular,Rejected
+EMP164,Wildlife Conservation Monitoring System,Continuous Integration,Accepted
+EMP164,Renewable Energy Management System,Continuous Integration,Rejected
+EMP164,AI-powered Virtual Assistant,Flask,Ongoing
+EMP165,Renewable Energy Management System,Java,Ongoing
+EMP165,Language Translation Service,Accessibility,Accepted
+EMP165,Autonomous Drone Delivery Service,Troubleshooting,Accepted
+EMP165,Fitness and Nutrition Tracking App,Java,Accepted
+EMP166,Renewable Energy Management System,MongoDB,Ongoing
+EMP166,Autonomous Drone Delivery Service,.NET,Rejected
+EMP166,Online Learning Management System,Containerization,Rejected
+EMP167,Online Learning Management System,Requirements Analysis,Accepted
+EMP167,Personalized News Aggregator,GraphQL,Accepted
+EMP167,Food Delivery Optimization Algorithm,HTML,Accepted
+EMP167,AI-powered Virtual Assistant,GraphQL,Accepted
+EMP168,Mental Health Chatbot,Business Analysis,Accepted
+EMP168,IoT-based Smart Agriculture Solution,HTML,Accepted
+EMP169,Real Estate Property Finder App,MongoDB,Ongoing
+EMP169,Online Event Ticketing Platform,Angular,Ongoing
+EMP169,Smart City Waste Management System,RESTful API,Rejected
+EMP170,Climate Change Prediction Model,React,Ongoing
+EMP170,Online Medical Consultation App,.NET,Ongoing
+EMP170,E-commerce Platform Redesign,.NET,Accepted
+EMP171,Smart Home Automation System,NoSQL,Accepted
+EMP171,Climate Change Prediction Model,Docker,Accepted
+EMP171,Healthcare Data Analytics Platform,NoSQL,Ongoing
+EMP172,Online Learning Management System,Support,Rejected
+EMP172,IoT-based Smart Agriculture Solution,Support,Accepted
+EMP172,Fitness and Nutrition Tracking App,MySQL,Rejected
+EMP173,Blockchain-based Supply Chain Management,JavaScript,Accepted
+EMP173,Real Estate Property Finder App,JavaScript,Ongoing
+EMP173,Climate Change Prediction Model,Product Management,Rejected
+EMP174,Climate Change Prediction Model,Problem Solving,Ongoing
+EMP174,Renewable Energy Management System,Problem Solving,Accepted
+EMP174,E-commerce Platform Redesign,Google Cloud Platform,Accepted
+EMP174,Augmented Reality Shopping Experience,Google Cloud Platform,Rejected
+EMP175,Smart Parking Management System,Penetration Testing,Accepted
+EMP175,Agricultural Crop Monitoring System,Wireframing,Ongoing
+EMP176,Personal Finance Tracker App,Artificial Intelligence,Rejected
+EMP176,Augmented Reality Shopping Experience,Continuous Integration,Ongoing
+EMP176,Blockchain-based Supply Chain Management,Git,Accepted
+EMP176,Healthcare Data Analytics Platform,Vue.js,Accepted
+EMP177,Real Estate Property Finder App,SQL,Ongoing
+EMP177,Language Translation Service,Flask,Ongoing
+EMP178,Online Medical Consultation App,Artificial Intelligence,Rejected
+EMP178,AI-driven Customer Service Chatbot,Documentation,Accepted
+EMP178,Agricultural Crop Monitoring System,Technical Writing,Rejected
+EMP178,Renewable Energy Management System,Documentation,Rejected
+EMP179,Personal Finance Tracker App,Behavior-Driven Development,Ongoing
+EMP179,Climate Change Prediction Model,Agile Methodologies,Rejected
+EMP179,Fitness and Nutrition Tracking App,CI/CD,Rejected
+EMP180,AI-powered Virtual Assistant,Data Science,Ongoing
+EMP180,E-commerce Platform Redesign,Kotlin,Accepted
+EMP180,Emergency Response Management App,Django,Ongoing
+EMP181,Personalized News Aggregator,Business Analysis,Rejected
+EMP181,Remote Team Collaboration Platform,Cybersecurity,Rejected
+EMP181,Smart Parking Management System,RESTful API,Rejected
+EMP181,Real Estate Property Finder App,Cybersecurity,Accepted
+EMP182,E-commerce Platform Redesign,Test-Driven Development,Accepted
+EMP182,Personal Finance Tracker App,Node.js,Accepted
+EMP183,Language Translation Service,Git,Accepted
+EMP183,Cybersecurity Incident Response Tool,Data Analysis,Ongoing
+EMP183,E-commerce Platform Redesign,Cybersecurity,Rejected
+EMP184,Agricultural Crop Monitoring System,Vue.js,Ongoing
+EMP184,Augmented Reality Shopping Experience,Ruby,Ongoing
+EMP184,AI-powered Virtual Assistant,Ruby,Ongoing
+EMP184,Remote Team Collaboration Platform,Continuous Integration,Rejected
+EMP185,Online Medical Consultation App,Containerization,Accepted
+EMP185,Augmented Reality Shopping Experience,Containerization,Accepted
+EMP185,Renewable Energy Management System,Swift,Ongoing
+EMP186,AI-driven Customer Service Chatbot,Git,Ongoing
+EMP186,Smart City Waste Management System,Git,Accepted
+EMP187,Augmented Reality Shopping Experience,SQL,Accepted
+EMP187,AI-driven Customer Service Chatbot,SQL,Accepted
+EMP188,Real Estate Property Finder App,Test-Driven Development,Accepted
+EMP188,Smart Parking Management System,Django,Ongoing
+EMP189,Augmented Reality Shopping Experience,C#,Accepted
+EMP189,Online Learning Management System,C#,Ongoing
+EMP189,Personalized News Aggregator,Penetration Testing,Ongoing
+EMP189,Fitness and Nutrition Tracking App,.NET,Ongoing
+EMP190,Smart City Waste Management System,Leadership,Rejected
+EMP190,Real Estate Property Finder App,Continuous Deployment,Rejected
+EMP190,AI-driven Customer Service Chatbot,Leadership,Ongoing
+EMP191,Remote Team Collaboration Platform,Interaction Design,Rejected
+EMP191,Food Delivery Optimization Algorithm,Network Security,Accepted
+EMP192,Emergency Response Management App,Cybersecurity,Accepted
+EMP192,Renewable Energy Management System,Cybersecurity,Accepted
+EMP192,Language Translation Service,Cybersecurity,Accepted
+EMP193,Online Medical Consultation App,Java,Ongoing
+EMP193,Smart Parking Management System,Java,Rejected
+EMP193,Smart Home Automation System,Django,Ongoing
+EMP194,Climate Change Prediction Model,Network Security,Ongoing
+EMP194,Virtual Reality Training Simulation,.NET,Ongoing
+EMP194,Fitness and Nutrition Tracking App,.NET,Accepted
+EMP194,Agricultural Crop Monitoring System,Network Security,Accepted
+EMP195,Renewable Energy Management System,C#,Ongoing
+EMP195,Autonomous Drone Delivery Service,RESTful API,Accepted
+EMP196,Agricultural Crop Monitoring System,React,Accepted
+EMP196,Food Delivery Optimization Algorithm,Penetration Testing,Ongoing
+EMP197,Smart City Waste Management System,Interaction Design,Accepted
+EMP197,AI-powered Virtual Assistant,AWS,Accepted
+EMP198,Smart Parking Management System,Node.js,Accepted
+EMP198,Smart Home Automation System,Python,Accepted
+EMP198,Emergency Response Management App,Python,Rejected
+EMP199,Emergency Response Management App,Technical Writing,Rejected
+EMP199,Climate Change Prediction Model,Technical Writing,Accepted
+EMP199,Urban Traffic Management Solution,Microservices,Rejected

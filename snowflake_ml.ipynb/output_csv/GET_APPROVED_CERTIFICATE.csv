@@ -1,0 +1,406 @@
+EMPLOYEE_ID,NAME,CERTIFICATE_NAME,ISSUE_DATE,EXPIRE_DATE,CERTIFICATE_STATUS
+EMP1,Miguel Pace,Swift,20-09-1980,07-05-2024,Approved
+EMP2,Vincent Cain,AWS,29-01-1979,22-04-2024,Approved
+EMP2,Vincent Cain,Continuous Deployment,17-08-2004,02-05-2024,Approved
+EMP2,Vincent Cain,NoSQL,20-10-2006,07-05-2024,Approved
+EMP2,Vincent Cain,React,27-05-1996,26-04-2024,Approved
+EMP3,Justin Clark,MySQL,25-12-2021,11-04-2024,Approved
+EMP4,Michael Thompson,Google Cloud Platform,07-07-1997,19-04-2024,Approved
+EMP5,Laurie Brown,DevOps,26-08-1979,21-04-2024,Approved
+EMP7,Randall Sexton,MongoDB,12-07-1992,12-04-2024,Approved
+EMP8,Janice Sandoval,Problem Solving,01-04-2018,11-04-2024,Approved
+EMP8,Janice Sandoval,Data Visualization,06-08-2019,21-04-2024,Approved
+EMP8,Janice Sandoval,Documentation,06-09-2012,26-04-2024,Approved
+EMP9,Cheryl Sandoval,UI/UX Design,14-10-1973,14-04-2024,Approved
+EMP9,Cheryl Sandoval,Statistical Analysis,01-08-1990,28-04-2024,Approved
+EMP9,Cheryl Sandoval,Communication,29-11-2004,12-04-2024,Approved
+EMP10,Heather Willis,SQL,28-08-1979,02-05-2024,Approved
+EMP11,Stephanie Flores,Interaction Design,17-04-1989,02-05-2024,Approved
+EMP11,Stephanie Flores,Data Science,11-09-1999,03-05-2024,Approved
+EMP12,Diana Holt,SQL,03-06-1988,24-04-2024,Approved
+EMP12,Diana Holt,Java,06-12-1979,17-04-2024,Approved
+EMP12,Diana Holt,Wireframing,26-12-1971,24-04-2024,Approved
+EMP12,Diana Holt,Documentation,09-12-2014,10-04-2024,Approved
+EMP13,Deborah Peters,Behavior-Driven Development,20-10-1999,18-04-2024,Approved
+EMP13,Deborah Peters,Ruby,09-11-2016,25-04-2024,Approved
+EMP14,Sean Garcia,Test-Driven Development,29-09-1980,28-04-2024,Approved
+EMP14,Sean Garcia,Docker,24-09-1990,16-04-2024,Approved
+EMP14,Sean Garcia,DevOps,10-08-1972,28-04-2024,Approved
+EMP15,Amber Rodriguez,DevOps,28-06-1974,01-05-2024,Approved
+EMP15,Amber Rodriguez,Azure,05-06-1986,04-05-2024,Approved
+EMP16,Joseph Reynolds,Agile Product Management,06-05-2005,27-04-2024,Approved
+EMP16,Joseph Reynolds,Data Visualization,14-07-1989,05-05-2024,Approved
+EMP16,Joseph Reynolds,Communication,03-05-2001,04-05-2024,Approved
+EMP17,Beverly Jennings,C#,24-01-1999,09-04-2024,Approved
+EMP17,Beverly Jennings,Documentation,20-09-2000,11-04-2024,Approved
+EMP18,Lori Martin,Behavior-Driven Development,18-01-2004,17-04-2024,Approved
+EMP19,Emily Walsh,Requirements Analysis,08-05-2006,14-04-2024,Approved
+EMP19,Emily Walsh,Continuous Integration,18-09-1977,12-04-2024,Approved
+EMP20,Michael Bowman,Business Analysis,30-07-2006,09-04-2024,Approved
+EMP21,Brad Adkins,Support,12-01-1988,13-04-2024,Approved
+EMP21,Brad Adkins,MySQL,13-08-1994,05-05-2024,Approved
+EMP24,Jennifer Campbell,Problem Solving,24-09-1971,25-04-2024,Approved
+EMP24,Jennifer Campbell,Flask,19-11-2018,24-04-2024,Approved
+EMP24,Jennifer Campbell,SQL,22-04-2012,11-04-2024,Approved
+EMP24,Jennifer Campbell,C#,30-06-1993,12-04-2024,Approved
+EMP26,Brian Barajas,MongoDB,12-02-1993,23-04-2024,Approved
+EMP26,Brian Barajas,Git,31-05-1973,27-04-2024,Approved
+EMP27,Carolyn Gay,JavaScript,05-08-1996,01-05-2024,Approved
+EMP27,Carolyn Gay,Data Analysis,25-10-1974,10-04-2024,Approved
+EMP28,Nicole Washington,User Stories,21-02-1997,17-04-2024,Approved
+EMP28,Nicole Washington,Angular,24-02-2005,19-04-2024,Approved
+EMP28,Nicole Washington,Test-Driven Development,08-04-1986,22-04-2024,Approved
+EMP29,Jeffery Garcia,Data Visualization,07-02-1978,20-04-2024,Approved
+EMP29,Jeffery Garcia,Problem Solving,08-11-2007,16-04-2024,Approved
+EMP30,Gabriella Fleming,MySQL,08-03-2009,25-04-2024,Approved
+EMP30,Gabriella Fleming,Product Management,11-10-2014,05-05-2024,Approved
+EMP31,Peter Lee,Google Cloud Platform,01-06-2010,29-04-2024,Approved
+EMP31,Peter Lee,Kubernetes,05-04-2002,01-05-2024,Approved
+EMP32,Bridget Christian,DevOps,04-02-1999,16-04-2024,Approved
+EMP32,Bridget Christian,Support,23-05-1994,15-04-2024,Approved
+EMP33,Scott Stevens,Product Management,21-09-2004,29-04-2024,Approved
+EMP33,Scott Stevens,Data Science,01-03-2016,03-05-2024,Approved
+EMP34,Theresa Harris,GraphQL,04-03-1982,14-04-2024,Approved
+EMP34,Theresa Harris,.NET,10-11-2015,05-05-2024,Approved
+EMP35,Kelly Thompson,Test-Driven Development,30-12-2020,19-04-2024,Approved
+EMP35,Kelly Thompson,Angular,18-02-1994,13-04-2024,Approved
+EMP36,Stefanie Nelson,GraphQL,21-12-2001,18-04-2024,Approved
+EMP36,Stefanie Nelson,Continuous Deployment,28-09-1994,27-04-2024,Approved
+EMP38,Jennifer Holt,Flask,23-12-2002,02-05-2024,Approved
+EMP38,Jennifer Holt,Python,30-03-1992,17-04-2024,Approved
+EMP39,Katherine Parks,AWS,23-03-1987,16-04-2024,Approved
+EMP39,Katherine Parks,C#,20-06-2011,16-04-2024,Approved
+EMP40,Scott Miller,Business Analysis,14-10-2016,15-04-2024,Approved
+EMP40,Scott Miller,Angular,29-10-2003,12-04-2024,Approved
+EMP41,Adrienne Gregory,Continuous Deployment,09-06-2003,12-04-2024,Approved
+EMP41,Adrienne Gregory,Flask,26-04-2010,10-04-2024,Approved
+EMP41,Adrienne Gregory,MySQL,25-11-1998,10-04-2024,Approved
+EMP42,Renee Robertson,Flask,17-12-2006,20-04-2024,Approved
+EMP43,Donald Guzman,Business Analysis,22-09-1978,03-05-2024,Approved
+EMP44,John Barker,Machine Learning,15-10-1983,09-04-2024,Approved
+EMP44,John Barker,React,25-11-1992,15-04-2024,Approved
+EMP45,Kimberly Thomas,Penetration Testing,30-01-1971,11-04-2024,Approved
+EMP45,Kimberly Thomas,Machine Learning,14-11-1994,11-04-2024,Approved
+EMP45,Kimberly Thomas,Cybersecurity,04-12-2002,22-04-2024,Approved
+EMP46,Michele Cole,CSS,17-02-2005,10-04-2024,Approved
+EMP46,Michele Cole,Node.js,23-10-1972,05-05-2024,Approved
+EMP47,Ruben Rodriguez,Scrum,10-07-1971,25-04-2024,Approved
+EMP47,Ruben Rodriguez,.NET,13-02-2009,24-04-2024,Approved
+EMP48,James Rice,Accessibility,23-04-1984,05-05-2024,Approved
+EMP48,James Rice,CI/CD,29-05-2021,13-04-2024,Approved
+EMP49,Kelly Ramirez,Communication,23-09-1977,11-04-2024,Approved
+EMP49,Kelly Ramirez,Penetration Testing,19-06-1977,29-04-2024,Approved
+EMP49,Kelly Ramirez,Accessibility,17-06-1973,15-04-2024,Approved
+EMP49,Kelly Ramirez,Containerization,13-08-1970,23-04-2024,Approved
+EMP50,Shawn Sanders,Cybersecurity,26-10-1989,09-04-2024,Approved
+EMP50,Shawn Sanders,Machine Learning,16-05-1989,29-04-2024,Approved
+EMP51,Anna Delacruz,Azure,23-02-1992,29-04-2024,Approved
+EMP51,Anna Delacruz,Documentation,30-07-1988,10-04-2024,Approved
+EMP51,Anna Delacruz,Java,04-11-1981,04-05-2024,Approved
+EMP52,Dana Miller,Java,21-10-2023,11-04-2024,Approved
+EMP52,Dana Miller,UI/UX Design,30-03-1972,09-04-2024,Approved
+EMP53,Robert Shelton,Machine Learning,14-03-1989,19-04-2024,Approved
+EMP53,Robert Shelton,CI/CD,03-10-2017,13-04-2024,Approved
+EMP54,Patrick Rodriguez,Cryptography,04-01-2004,02-05-2024,Approved
+EMP56,Christine Hendricks,Google Cloud Platform,20-03-2017,10-04-2024,Approved
+EMP56,Christine Hendricks,SQL,03-11-1988,16-04-2024,Approved
+EMP56,Christine Hendricks,Communication,14-11-1997,09-04-2024,Approved
+EMP58,Michelle Wilson,UI/UX Design,26-11-2004,29-04-2024,Approved
+EMP58,Michelle Wilson,CSS,31-08-1995,05-05-2024,Approved
+EMP59,Christopher Hale,Information Security,13-07-1973,22-04-2024,Approved
+EMP60,Angela Dean,Kotlin,14-03-2020,01-05-2024,Approved
+EMP60,Angela Dean,Test-Driven Development,22-10-1991,04-05-2024,Approved
+EMP61,Jack Rodriguez,Requirements Analysis,25-05-2019,07-05-2024,Approved
+EMP62,Gregory Allen,Data Science,23-01-2004,11-04-2024,Approved
+EMP62,Gregory Allen,Product Management,02-10-1976,11-04-2024,Approved
+EMP62,Gregory Allen,Interaction Design,14-11-1972,14-04-2024,Approved
+EMP62,Gregory Allen,Test-Driven Development,31-10-2002,27-04-2024,Approved
+EMP63,Amanda Hernandez,SQL,22-06-2007,15-04-2024,Approved
+EMP64,William Wade,Behavior-Driven Development,08-10-1987,10-04-2024,Approved
+EMP64,William Wade,Python,04-10-1986,21-04-2024,Approved
+EMP65,James Smith,NoSQL,20-04-2016,02-05-2024,Approved
+EMP65,James Smith,Google Cloud Platform,06-08-1999,07-05-2024,Approved
+EMP66,John Sullivan,Flask,07-07-1981,21-04-2024,Approved
+EMP66,John Sullivan,Wireframing,12-05-2023,09-04-2024,Approved
+EMP67,Lisa Patterson,Continuous Deployment,14-09-1984,06-05-2024,Approved
+EMP67,Lisa Patterson,Angular,20-03-1978,15-04-2024,Approved
+EMP68,John Anderson,Interaction Design,26-07-1992,21-04-2024,Approved
+EMP68,John Anderson,Git,01-02-1980,28-04-2024,Approved
+EMP69,Ryan Lewis,Java,20-02-2012,02-05-2024,Approved
+EMP69,Ryan Lewis,.NET,03-09-2013,03-05-2024,Approved
+EMP69,Ryan Lewis,Prototyping,27-01-2006,27-04-2024,Approved
+EMP69,Ryan Lewis,Objective-C,22-03-2024,13-04-2024,Approved
+EMP70,Rebecca Garza,Behavior-Driven Development,24-01-2010,14-04-2024,Approved
+EMP70,Rebecca Garza,Git,20-05-1995,10-04-2024,Approved
+EMP73,James Lozano,JavaScript,18-01-2014,29-04-2024,Approved
+EMP73,James Lozano,Continuous Deployment,23-12-1989,30-04-2024,Approved
+EMP73,James Lozano,Objective-C,17-06-1994,24-04-2024,Approved
+EMP74,Heather Roberts,React,19-04-2011,09-04-2024,Approved
+EMP74,Heather Roberts,PHP,08-12-2005,06-05-2024,Approved
+EMP75,Justin Christensen,Network Security,19-10-2001,12-04-2024,Approved
+EMP75,Justin Christensen,Data Visualization,14-01-2001,29-04-2024,Approved
+EMP75,Justin Christensen,Prototyping,16-05-1990,07-05-2024,Approved
+EMP76,John Wiggins,Data Visualization,22-07-2021,25-04-2024,Approved
+EMP76,John Wiggins,CI/CD,11-04-1978,15-04-2024,Approved
+EMP77,Jeffrey Wiley,Artificial Intelligence,26-09-2011,15-04-2024,Approved
+EMP77,Jeffrey Wiley,Continuous Deployment,24-07-1977,03-05-2024,Approved
+EMP77,Jeffrey Wiley,UI/UX Design,21-02-2011,17-04-2024,Approved
+EMP77,Jeffrey Wiley,Behavior-Driven Development,05-10-2018,19-04-2024,Approved
+EMP78,Dalton Moore,Network Security,03-10-2020,02-05-2024,Approved
+EMP79,Natasha Robinson,JavaScript,03-07-1995,22-04-2024,Approved
+EMP79,Natasha Robinson,Leadership,08-09-1995,26-04-2024,Approved
+EMP80,Brenda Garcia,PHP,07-08-1997,19-04-2024,Approved
+EMP80,Brenda Garcia,Vue.js,29-01-2021,13-04-2024,Approved
+EMP81,Ann Fox,Data Science,15-02-1976,11-04-2024,Approved
+EMP82,Raymond Powell,MongoDB,05-02-1996,27-04-2024,Approved
+EMP82,Raymond Powell,Test-Driven Development,21-07-1974,12-04-2024,Approved
+EMP83,Michael Malone,Swift,14-03-2004,03-05-2024,Approved
+EMP84,Jason Rodriguez,Business Analysis,02-08-2012,17-04-2024,Approved
+EMP85,Jose Forbes,Agile Methodologies,17-03-1985,14-04-2024,Approved
+EMP85,Jose Forbes,Accessibility,11-09-2018,28-04-2024,Approved
+EMP86,Bonnie May,Cybersecurity,20-06-2001,06-05-2024,Approved
+EMP86,Bonnie May,Kotlin,03-05-2011,06-05-2024,Approved
+EMP87,Crystal Herrera,DevOps,14-09-1981,29-04-2024,Approved
+EMP88,Rachel Ellis,Microservices,19-11-1992,24-04-2024,Approved
+EMP88,Rachel Ellis,AWS,20-02-1985,25-04-2024,Approved
+EMP89,William Richardson,Ruby,31-03-2017,13-04-2024,Approved
+EMP89,William Richardson,Test-Driven Development,24-06-1987,01-05-2024,Approved
+EMP89,William Richardson,Prototyping,14-01-1977,20-04-2024,Approved
+EMP90,Carol Church,Python,14-07-1988,19-04-2024,Approved
+EMP90,Carol Church,Technical Writing,16-02-1994,03-05-2024,Approved
+EMP90,Carol Church,.NET,26-06-2015,07-05-2024,Approved
+EMP91,Travis Gutierrez,Continuous Integration,09-03-2011,29-04-2024,Approved
+EMP91,Travis Gutierrez,Accessibility,19-11-1972,22-04-2024,Approved
+EMP91,Travis Gutierrez,Git,19-11-1996,05-05-2024,Approved
+EMP92,Matthew Morse,Kubernetes,23-10-2009,30-04-2024,Approved
+EMP92,Matthew Morse,Data Analysis,05-01-1987,10-04-2024,Approved
+EMP93,Nathan Villarreal,Containerization,23-03-1983,05-05-2024,Approved
+EMP93,Nathan Villarreal,Node.js,31-03-1971,22-04-2024,Approved
+EMP94,Amber Huerta,Kubernetes,24-06-2009,02-05-2024,Approved
+EMP94,Amber Huerta,Communication,07-07-2001,20-04-2024,Approved
+EMP94,Amber Huerta,Scrum,20-08-2003,19-04-2024,Approved
+EMP95,Tanya Johnson,Technical Writing,14-12-1995,12-04-2024,Approved
+EMP95,Tanya Johnson,Java,11-09-2010,11-04-2024,Approved
+EMP96,Daniel Andrade,Product Management,13-09-2018,06-05-2024,Approved
+EMP96,Daniel Andrade,CSS,12-12-1985,18-04-2024,Approved
+EMP97,Christopher Weiss,.NET,27-07-1977,26-04-2024,Approved
+EMP98,Joshua Gilbert,Product Management,13-01-1999,17-04-2024,Approved
+EMP98,Joshua Gilbert,Leadership,30-01-1993,29-04-2024,Approved
+EMP98,Joshua Gilbert,Artificial Intelligence,21-01-1978,27-04-2024,Approved
+EMP99,Richard Moore,Node.js,07-04-2024,06-05-2024,Approved
+EMP99,Richard Moore,Prototyping,10-01-1976,29-04-2024,Approved
+EMP99,Richard Moore,Requirements Analysis,22-05-2017,19-04-2024,Approved
+EMP99,Richard Moore,Containerization,25-04-2009,02-05-2024,Approved
+EMP100,Ronald Huffman,Vue.js,17-08-1974,04-05-2024,Approved
+EMP100,Ronald Huffman,Penetration Testing,31-05-2010,25-04-2024,Approved
+EMP101,Shannon Cohen,Statistical Analysis,22-03-1973,28-04-2024,Approved
+EMP101,Shannon Cohen,Agile Methodologies,07-02-2018,22-04-2024,Approved
+EMP103,Shane Sanchez,PHP,21-12-1972,09-04-2024,Approved
+EMP103,Shane Sanchez,SQL,11-01-1986,09-04-2024,Approved
+EMP104,Jeffrey Gray,Cybersecurity,13-09-1999,16-04-2024,Approved
+EMP104,Jeffrey Gray,Continuous Deployment,20-03-2008,27-04-2024,Approved
+EMP104,Jeffrey Gray,SQL,08-06-1988,01-05-2024,Approved
+EMP106,Kristin Coffey,Containerization,21-05-2019,06-05-2024,Approved
+EMP106,Kristin Coffey,Accessibility,02-12-1971,12-04-2024,Approved
+EMP107,Matthew Floyd,Responsive Design,21-07-1982,10-04-2024,Approved
+EMP107,Matthew Floyd,Test-Driven Development,11-02-1999,17-04-2024,Approved
+EMP107,Matthew Floyd,Technical Writing,01-03-1978,26-04-2024,Approved
+EMP108,Jason Le,Requirements Analysis,10-10-2009,22-04-2024,Approved
+EMP109,Scott Maxwell,Leadership,14-05-2002,26-04-2024,Approved
+EMP109,Scott Maxwell,Behavior-Driven Development,18-07-2018,21-04-2024,Approved
+EMP110,Kevin Anderson,C#,18-06-2007,06-05-2024,Approved
+EMP110,Kevin Anderson,Azure,18-03-1979,24-04-2024,Approved
+EMP111,Susan Webb,Python,28-01-2004,20-04-2024,Approved
+EMP111,Susan Webb,Containerization,22-04-1977,02-05-2024,Approved
+EMP111,Susan Webb,PostgreSQL,10-06-1995,27-04-2024,Approved
+EMP112,Cynthia Martin,JavaScript,27-07-2007,22-04-2024,Approved
+EMP113,Ashley Harvey,Agile Methodologies,26-05-2006,23-04-2024,Approved
+EMP113,Ashley Harvey,Wireframing,10-06-1988,06-05-2024,Approved
+EMP114,Kelsey Rowe,JavaScript,29-07-1976,26-04-2024,Approved
+EMP114,Kelsey Rowe,Kotlin,05-05-1981,15-04-2024,Approved
+EMP114,Kelsey Rowe,Information Security,18-06-1981,02-05-2024,Approved
+EMP115,Christine Flowers,JavaScript,26-09-2005,18-04-2024,Approved
+EMP115,Christine Flowers,Communication,06-09-2000,01-05-2024,Approved
+EMP116,Rebecca Richardson,React,30-07-2017,09-04-2024,Approved
+EMP117,Kerry Price,Java,15-07-2009,14-04-2024,Approved
+EMP117,Kerry Price,Python,22-03-2023,25-04-2024,Approved
+EMP118,Anita Wu,Kotlin,05-01-1981,16-04-2024,Approved
+EMP118,Anita Wu,Test-Driven Development,28-09-2013,11-04-2024,Approved
+EMP119,Dale Barnes,Objective-C,20-12-2013,17-04-2024,Approved
+EMP119,Dale Barnes,Data Analysis,10-06-1983,12-04-2024,Approved
+EMP119,Dale Barnes,Flask,08-09-2015,28-04-2024,Approved
+EMP120,Nathan Harris,JavaScript,19-01-2022,04-05-2024,Approved
+EMP120,Nathan Harris,Agile Methodologies,11-01-1986,01-05-2024,Approved
+EMP121,Charles Wilson,Leadership,05-01-2009,22-04-2024,Approved
+EMP121,Charles Wilson,Interaction Design,06-11-1983,23-04-2024,Approved
+EMP121,Charles Wilson,Problem Solving,17-05-1998,04-05-2024,Approved
+EMP123,Todd Ramirez,SQL,23-11-2014,05-05-2024,Approved
+EMP123,Todd Ramirez,Django,14-03-1981,22-04-2024,Approved
+EMP124,Mark Kirby,Objective-C,29-04-2018,24-04-2024,Approved
+EMP124,Mark Kirby,DevOps,03-01-1972,19-04-2024,Approved
+EMP125,Sophia Key,Collaboration,06-06-1997,19-04-2024,Approved
+EMP125,Sophia Key,Machine Learning,13-12-2008,23-04-2024,Approved
+EMP126,Kristen Bell,CSS,18-06-1993,04-05-2024,Approved
+EMP126,Kristen Bell,Microservices,24-06-2018,06-05-2024,Approved
+EMP126,Kristen Bell,Collaboration,21-10-2003,26-04-2024,Approved
+EMP128,Lisa Mccoy,Problem Solving,08-07-1989,02-05-2024,Approved
+EMP129,Jane Thompson,Docker,01-09-2018,14-04-2024,Approved
+EMP130,Kenneth Morton,Business Analysis,26-10-1998,22-04-2024,Approved
+EMP130,Kenneth Morton,Wireframing,21-07-1977,26-04-2024,Approved
+EMP131,Anna Gilbert,CSS,02-03-1981,23-04-2024,Approved
+EMP131,Anna Gilbert,Agile Product Management,07-08-1971,25-04-2024,Approved
+EMP131,Anna Gilbert,Ruby,23-09-2013,09-04-2024,Approved
+EMP132,Marcia Zhang,PostgreSQL,24-11-1993,03-05-2024,Approved
+EMP133,Brandon White,Requirements Analysis,18-04-1980,26-04-2024,Approved
+EMP134,Timothy Guerrero,Flask,03-05-1996,25-04-2024,Approved
+EMP134,Timothy Guerrero,JavaScript,09-10-1973,11-04-2024,Approved
+EMP135,Sarah Rodgers,Agile Product Management,25-09-1993,06-05-2024,Approved
+EMP135,Sarah Rodgers,Behavior-Driven Development,23-08-1984,05-05-2024,Approved
+EMP135,Sarah Rodgers,Django,02-07-1996,11-04-2024,Approved
+EMP135,Sarah Rodgers,Flask,31-08-1993,15-04-2024,Approved
+EMP136,Jessica Smith,Java,08-07-2006,06-05-2024,Approved
+EMP136,Jessica Smith,Python,05-10-2017,14-04-2024,Approved
+EMP137,Alyssa Mitchell,Git,06-10-2007,21-04-2024,Approved
+EMP137,Alyssa Mitchell,User Research,05-12-1971,01-05-2024,Approved
+EMP137,Alyssa Mitchell,Continuous Deployment,13-08-1974,04-05-2024,Approved
+EMP138,Devin Jones,Agile Product Management,10-05-1979,16-04-2024,Approved
+EMP138,Devin Jones,Continuous Integration,15-11-2010,25-04-2024,Approved
+EMP139,Jacob Jones,Azure,28-08-1973,19-04-2024,Approved
+EMP139,Jacob Jones,Django,28-05-2008,26-04-2024,Approved
+EMP139,Jacob Jones,Problem Solving,09-02-2006,29-04-2024,Approved
+EMP140,Billy Perez,Information Security,05-02-1983,04-05-2024,Approved
+EMP140,Billy Perez,C#,19-10-2022,12-04-2024,Approved
+EMP140,Billy Perez,Communication,18-01-2007,05-05-2024,Approved
+EMP140,Billy Perez,GraphQL,13-08-2010,28-04-2024,Approved
+EMP141,Angela Mcmahon,Product Management,04-06-2001,29-04-2024,Approved
+EMP141,Angela Mcmahon,Troubleshooting,19-08-2017,14-04-2024,Approved
+EMP141,Angela Mcmahon,Data Science,16-03-1974,27-04-2024,Approved
+EMP141,Angela Mcmahon,Continuous Integration,19-07-2020,10-04-2024,Approved
+EMP142,Elizabeth Weber,Information Security,06-01-2019,19-04-2024,Approved
+EMP142,Elizabeth Weber,Continuous Deployment,06-11-2017,14-04-2024,Approved
+EMP142,Elizabeth Weber,DevOps,26-10-2001,21-04-2024,Approved
+EMP143,Ronnie Gardner,Microservices,29-03-2018,16-04-2024,Approved
+EMP143,Ronnie Gardner,Azure,04-01-2009,13-04-2024,Approved
+EMP143,Ronnie Gardner,CI/CD,09-08-2005,06-05-2024,Approved
+EMP144,Michelle Crane,Accessibility,21-08-1973,09-04-2024,Approved
+EMP145,Lindsay Jacobs,MySQL,30-01-2004,21-04-2024,Approved
+EMP145,Lindsay Jacobs,Prototyping,09-04-1997,30-04-2024,Approved
+EMP145,Lindsay Jacobs,Interaction Design,12-09-1981,05-05-2024,Approved
+EMP146,Andrew Manning,NoSQL,31-07-1971,13-04-2024,Approved
+EMP146,Andrew Manning,Behavior-Driven Development,20-03-1981,03-05-2024,Approved
+EMP146,Andrew Manning,Problem Solving,16-07-2006,07-05-2024,Approved
+EMP147,Julia Sanchez,DevOps,08-11-2020,13-04-2024,Approved
+EMP148,Christina Wilson,Microservices,23-12-2015,10-04-2024,Approved
+EMP148,Christina Wilson,Interaction Design,10-01-2002,12-04-2024,Approved
+EMP149,Eugene Hernandez,React,17-12-1994,16-04-2024,Approved
+EMP149,Eugene Hernandez,Statistical Analysis,29-06-2007,29-04-2024,Approved
+EMP149,Eugene Hernandez,Ruby,06-10-1990,06-05-2024,Approved
+EMP150,Luis Potter,Kotlin,13-08-2014,15-04-2024,Approved
+EMP150,Luis Potter,Documentation,02-07-2017,04-05-2024,Approved
+EMP150,Luis Potter,Django,25-03-2003,06-05-2024,Approved
+EMP151,Alice Rios,Data Visualization,06-10-2001,12-04-2024,Approved
+EMP151,Alice Rios,CSS,29-06-1982,29-04-2024,Approved
+EMP152,Maria Lam,JavaScript,04-09-2015,15-04-2024,Approved
+EMP153,Evan Patrick,Continuous Deployment,30-10-1998,10-04-2024,Approved
+EMP153,Evan Patrick,Flask,27-05-2010,07-05-2024,Approved
+EMP153,Evan Patrick,Artificial Intelligence,19-10-1974,21-04-2024,Approved
+EMP154,Molly Randall,Git,27-12-1971,29-04-2024,Approved
+EMP155,Brian Manning,Scrum,21-01-1976,30-04-2024,Approved
+EMP155,Brian Manning,Objective-C,07-04-1986,20-04-2024,Approved
+EMP155,Brian Manning,Docker,07-01-1986,20-04-2024,Approved
+EMP156,Barbara Garcia,Ruby,19-10-2016,21-04-2024,Approved
+EMP156,Barbara Garcia,User Research,30-05-1988,17-04-2024,Approved
+EMP157,Gregory Campbell,Artificial Intelligence,19-03-1982,04-05-2024,Approved
+EMP158,Kristen Johnson,Vue.js,04-07-1973,20-04-2024,Approved
+EMP158,Kristen Johnson,Penetration Testing,10-03-1972,21-04-2024,Approved
+EMP159,Christopher Gutierrez,Data Science,24-03-2004,22-04-2024,Approved
+EMP159,Christopher Gutierrez,CSS,03-10-2018,15-04-2024,Approved
+EMP159,Christopher Gutierrez,MySQL,20-09-2015,07-05-2024,Approved
+EMP161,Gregory Taylor,Ruby,04-12-2021,02-05-2024,Approved
+EMP162,Richard Scott,Docker,27-05-2015,07-05-2024,Approved
+EMP162,Richard Scott,Wireframing,03-02-2019,25-04-2024,Approved
+EMP162,Richard Scott,DevOps,04-10-2002,09-04-2024,Approved
+EMP163,Jessica Alvarado,PHP,16-03-2009,14-04-2024,Approved
+EMP163,Jessica Alvarado,SQL,03-11-1980,28-04-2024,Approved
+EMP163,Jessica Alvarado,JavaScript,11-07-2003,21-04-2024,Approved
+EMP164,Lisa Harvey,Problem Solving,27-06-2007,27-04-2024,Approved
+EMP165,Sarah Griffith,React,30-11-1987,19-04-2024,Approved
+EMP165,Sarah Griffith,Ruby,22-02-2015,17-04-2024,Approved
+EMP166,Drew Jones,Cryptography,31-08-2012,11-04-2024,Approved
+EMP166,Drew Jones,Google Cloud Platform,18-10-1979,27-04-2024,Approved
+EMP166,Drew Jones,Kotlin,10-10-2011,04-05-2024,Approved
+EMP167,David Miller,.NET,29-11-2000,13-04-2024,Approved
+EMP167,David Miller,Documentation,06-12-1987,14-04-2024,Approved
+EMP167,David Miller,PHP,04-11-1980,01-05-2024,Approved
+EMP168,Juan Rodriguez,CI/CD,13-12-2019,29-04-2024,Approved
+EMP169,Samuel Hartman,Prototyping,17-06-1995,15-04-2024,Approved
+EMP169,Samuel Hartman,DevOps,06-12-1990,05-05-2024,Approved
+EMP170,Mercedes Guzman,Data Science,13-05-1987,28-04-2024,Approved
+EMP170,Mercedes Guzman,Kotlin,04-06-2002,12-04-2024,Approved
+EMP171,Tiffany Alvarado,Statistical Analysis,29-12-2019,12-04-2024,Approved
+EMP172,Eduardo Allen,HTML,24-02-1971,16-04-2024,Approved
+EMP172,Eduardo Allen,Problem Solving,08-04-1986,13-04-2024,Approved
+EMP173,Chelsea Monroe,User Stories,18-05-2000,28-04-2024,Approved
+EMP174,Pamela Reeves,Product Management,07-08-1981,22-04-2024,Approved
+EMP174,Pamela Reeves,Scrum,25-11-2023,30-04-2024,Approved
+EMP174,Pamela Reeves,Django,11-11-1998,26-04-2024,Approved
+EMP174,Pamela Reeves,Angular,19-10-2008,17-04-2024,Approved
+EMP175,Peggy Little,RESTful API,27-12-2016,06-05-2024,Approved
+EMP175,Peggy Little,Ruby,10-08-1994,06-05-2024,Approved
+EMP176,Robert Rios,Test-Driven Development,17-01-1970,21-04-2024,Approved
+EMP176,Robert Rios,User Research,27-04-2001,29-04-2024,Approved
+EMP176,Robert Rios,Data Analysis,10-10-1998,30-04-2024,Approved
+EMP177,Michelle Richardson,Penetration Testing,28-06-1998,07-05-2024,Approved
+EMP177,Michelle Richardson,CSS,19-02-1987,06-05-2024,Approved
+EMP178,Peter Graham,Test-Driven Development,06-08-2022,15-04-2024,Approved
+EMP178,Peter Graham,React,19-04-2010,05-05-2024,Approved
+EMP179,Dylan Stevens,Network Security,10-10-2020,18-04-2024,Approved
+EMP179,Dylan Stevens,Leadership,21-07-1991,17-04-2024,Approved
+EMP179,Dylan Stevens,Product Management,26-06-2007,26-04-2024,Approved
+EMP180,Lindsey Young,Problem Solving,01-10-1972,13-04-2024,Approved
+EMP180,Lindsey Young,React,14-10-1991,27-04-2024,Approved
+EMP181,Mariah Gibson,Product Management,28-11-1986,27-04-2024,Approved
+EMP182,Holly Johnson,User Stories,12-03-1982,07-05-2024,Approved
+EMP182,Holly Johnson,Communication,27-03-2003,18-04-2024,Approved
+EMP182,Holly Johnson,Business Analysis,26-05-2023,23-04-2024,Approved
+EMP182,Holly Johnson,Cryptography,01-08-1978,22-04-2024,Approved
+EMP183,Roy Pineda,Containerization,21-12-1989,18-04-2024,Approved
+EMP183,Roy Pineda,Agile Methodologies,22-10-1979,03-05-2024,Approved
+EMP183,Roy Pineda,Data Analysis,28-10-1979,16-04-2024,Approved
+EMP184,Richard Wright,Azure,10-08-2014,14-04-2024,Approved
+EMP184,Richard Wright,NoSQL,12-03-2020,21-04-2024,Approved
+EMP184,Richard Wright,Agile Methodologies,12-12-1970,27-04-2024,Approved
+EMP185,Angela Shaw,CI/CD,12-10-1980,11-04-2024,Approved
+EMP185,Angela Shaw,Node.js,18-07-2006,18-04-2024,Approved
+EMP185,Angela Shaw,Vue.js,31-08-2019,11-04-2024,Approved
+EMP186,Ariana Michael,Kotlin,29-12-2011,15-04-2024,Approved
+EMP186,Ariana Michael,UI/UX Design,10-12-2001,20-04-2024,Approved
+EMP187,Steve Davidson,Containerization,27-04-1987,05-05-2024,Approved
+EMP188,Bridget Garza,Swift,25-05-2010,05-05-2024,Approved
+EMP188,Bridget Garza,Data Analysis,04-10-1989,22-04-2024,Approved
+EMP189,Bonnie Marks,Microservices,02-01-2020,30-04-2024,Approved
+EMP189,Bonnie Marks,Node.js,07-02-1995,25-04-2024,Approved
+EMP189,Bonnie Marks,Wireframing,13-03-2002,07-05-2024,Approved
+EMP190,Kevin Todd,Containerization,04-08-1975,03-05-2024,Approved
+EMP190,Kevin Todd,Interaction Design,24-12-1987,10-04-2024,Approved
+EMP191,Michael Taylor,Google Cloud Platform,10-09-2021,29-04-2024,Approved
+EMP191,Michael Taylor,Java,27-05-1997,18-04-2024,Approved
+EMP191,Michael Taylor,Scrum,21-12-2014,15-04-2024,Approved
+EMP192,Jesse Yates,Information Security,11-07-1981,20-04-2024,Approved
+EMP192,Jesse Yates,C#,15-07-2017,23-04-2024,Approved
+EMP192,Jesse Yates,MongoDB,03-12-1998,06-05-2024,Approved
+EMP193,Noah Little,Data Visualization,31-03-1980,05-05-2024,Approved
+EMP193,Noah Little,Network Security,07-04-1981,14-04-2024,Approved
+EMP193,Noah Little,Behavior-Driven Development,05-04-1982,06-05-2024,Approved
+EMP194,Martha Bernard,SQL,01-01-2019,28-04-2024,Approved
+EMP194,Martha Bernard,Behavior-Driven Development,21-08-2003,22-04-2024,Approved
+EMP195,Amy Williams,Responsive Design,19-08-1999,24-04-2024,Approved
+EMP195,Amy Williams,Continuous Deployment,13-04-2019,18-04-2024,Approved
+EMP195,Amy Williams,Django,14-02-1985,29-04-2024,Approved
+EMP196,Deborah Silva,C#,23-03-2023,03-05-2024,Approved
+EMP196,Deborah Silva,Git,14-07-2012,29-04-2024,Approved
+EMP197,Ian Camacho,Statistical Analysis,09-11-2012,04-05-2024,Approved
+EMP197,Ian Camacho,Communication,30-05-2014,25-04-2024,Approved
+EMP197,Ian Camacho,Business Analysis,16-04-1994,29-04-2024,Approved
+EMP198,Madison Sims,Statistical Analysis,01-10-1984,21-04-2024,Approved
+EMP199,Victoria Steele,Requirements Analysis,11-05-1973,15-04-2024,Approved

@@ -1,0 +1,223 @@
+EVENT_NAME,USER_EMAIL
+Docker,holmeskeith@example.net
+Docker,pughmelissa@example.org
+Docker,ccross@example.net
+Docker,michaeljohnson@example.net
+Docker,michael33@example.net
+Docker,qcampbell@example.org
+Docker,zscott@example.net
+Docker,jamie91@example.com
+Docker,susan91@example.com
+Docker,victoria53@example.net
+DevOps,snyderluke@example.net
+DevOps,vargaskathryn@example.com
+DevOps,rebecca05@example.com
+DevOps,tnavarro@example.com
+DevOps,smithtyrone@example.org
+DevOps,josephbrown@example.org
+DevOps,tylerjones@example.org
+DevOps,sabrina26@example.org
+DevOps,dsanchez@example.org
+DevOps,michael33@example.net
+DevOps,jacobstyler@example.net
+SQL,cochrankrista@example.com
+SQL,ghall@example.net
+SQL,hendersondawn@example.net
+SQL,xconner@example.org
+SQL,ifowler@example.net
+SQL,gmunoz@example.com
+SQL,charles65@example.com
+SQL,lawrencewilliam@example.org
+SQL,jblair@example.net
+SQL,xsmith@example.net
+Data Analysis,lopezblake@example.net
+Data Analysis,iscott@example.com
+Data Analysis,navarropamela@example.com
+Data Analysis,tylerjones@example.org
+Data Analysis,lauracharles@example.org
+Data Analysis,fernandezmatthew@example.com
+Data Analysis,jpowell@example.com
+Data Analysis,lukesalazar@example.com
+Data Analysis,shawjason@example.org
+Data Analysis,wendyhensley@example.net
+Data Analysis,heatherpetersen@example.org
+Data Analysis,lauren44@example.net
+Git,david08@example.com
+Git,gmunoz@example.com
+Git,stephen48@example.com
+Git,hjohnston@example.org
+Git,michelletaylor@example.org
+Git,zhughes@example.net
+Git,grantjustin@example.net
+Git,josephbrown@example.org
+Git,tracybeck@example.com
+C#,fcarney@example.com
+C#,grantjustin@example.net
+C#,heathermyers@example.org
+C#,jamie91@example.com
+C#,simmonsraymond@example.net
+C#,clee@example.net
+C#,christophermurray@example.com
+C#,thomas06@example.com
+C#,scott32@example.org
+C#,graveschristopher@example.org
+C#,zhughes@example.net
+Microservices,lawrencewilliam@example.org
+Microservices,thomas03@example.net
+Microservices,elliskaren@example.com
+Microservices,matthewsjennifer@example.org
+Microservices,jake84@example.com
+Microservices,odecker@example.net
+Microservices,snyderluke@example.net
+Microservices,mmorgan@example.com
+Documentation,longkevin@example.net
+Documentation,patrickjason@example.com
+Documentation,albert59@example.net
+Documentation,russelljonathan@example.net
+Documentation,jill73@example.com
+Documentation,roy88@example.net
+Documentation,anthony29@example.net
+Documentation,fuenteskevin@example.org
+Documentation,mperry@example.org
+Documentation,ericwilliams@example.net
+Documentation,kent27@example.net
+Documentation,wendyhensley@example.net
+Scrum,davidrodriguez@example.net
+Scrum,simmonsraymond@example.net
+Scrum,patrickjason@example.com
+Scrum,philip17@example.com
+Scrum,bmoore@example.net
+Scrum,michaelrichard@example.com
+Scrum,pclark@example.net
+Scrum,wjones@example.com
+Scrum,amandatanner@example.org
+Scrum,dennishorton@example.org
+Statistical Analysis,robinowens@example.org
+Statistical Analysis,xsmith@example.net
+Statistical Analysis,michelletaylor@example.org
+Statistical Analysis,vargaskathryn@example.com
+Statistical Analysis,jill73@example.com
+Statistical Analysis,michael93@example.com
+Statistical Analysis,lauren44@example.net
+Statistical Analysis,jonesdiane@example.org
+Statistical Analysis,hilldorothy@example.net
+PHP,anthonywright@example.org
+PHP,patrickjason@example.com
+PHP,shiggins@example.com
+PHP,waynepeterson@example.org
+PHP,jacobstyler@example.net
+PHP,henry04@example.net
+PHP,sgilbert@example.com
+PHP,zscott@example.net
+PHP,ariassharon@example.org
+Penetration Testing,simselizabeth@example.com
+Penetration Testing,navarrodonald@example.net
+Penetration Testing,jessicaoconnor@example.net
+Penetration Testing,mmartin@example.org
+Penetration Testing,lewiselizabeth@example.com
+Penetration Testing,mcbridelauren@example.com
+Penetration Testing,zhughes@example.net
+Penetration Testing,tanderson@example.net
+Penetration Testing,hilldorothy@example.net
+Penetration Testing,michelletaylor@example.org
+Penetration Testing,lauracharles@example.org
+Penetration Testing,scott32@example.org
+Accessibility,amymcdaniel@example.com
+Accessibility,lisaking@example.org
+Accessibility,wdavis@example.net
+Accessibility,lorigill@example.com
+Accessibility,kjackson@example.net
+Accessibility,iscott@example.com
+Accessibility,wcaldwell@example.com
+Accessibility,williamsjames@example.com
+User Research,omarshall@example.org
+User Research,jamesweber@example.com
+User Research,jessicaoconnor@example.net
+User Research,kelseyjackson@example.org
+User Research,rebecca05@example.com
+User Research,riddleemma@example.org
+User Research,kellyrobinson@example.net
+User Research,hendersondawn@example.net
+User Research,douglashudson@example.com
+User Research,nlee@example.com
+User Research,owenvictoria@example.net
+Vue.js,shellyaguilar@example.org
+Vue.js,holmeskeith@example.net
+Vue.js,alexander21@example.com
+Vue.js,rcooper@example.net
+Vue.js,nathaniel47@example.net
+Vue.js,tiffanykirk@example.org
+Vue.js,matthewbrewer@example.org
+Vue.js,paul15@example.com
+Vue.js,nnewman@example.net
+Vue.js,xconner@example.org
+Test-Driven Development,tinadiaz@example.com
+Test-Driven Development,blackrussell@example.com
+Test-Driven Development,zanderson@example.com
+Test-Driven Development,rogerwilliams@example.org
+Test-Driven Development,simselizabeth@example.com
+Test-Driven Development,jessicaoconnor@example.net
+Test-Driven Development,richard62@example.com
+Test-Driven Development,kathleen59@example.com
+Test-Driven Development,austinjones@example.org
+Test-Driven Development,hjohnston@example.org
+Test-Driven Development,whiteheadrobert@example.org
+Test-Driven Development,davidrodriguez@example.net
+Test-Driven Development,juliebarajas@example.net
+Data Visualization,rachaeljordan@example.com
+Data Visualization,kellymitchell@example.com
+Data Visualization,nicole73@example.org
+Data Visualization,troymacdonald@example.com
+Data Visualization,davidnguyen@example.com
+Data Visualization,sacevedo@example.org
+Data Visualization,michaelcastaneda@example.net
+Data Visualization,lawrencewilliam@example.org
+Data Visualization,monicasmith@example.org
+Data Visualization,kevin40@example.net
+Data Visualization,grosswhitney@example.net
+Data Visualization,beckcorey@example.org
+Data Visualization,davismichael@example.org
+PostgreSQL,fuenteskevin@example.org
+PostgreSQL,tracypatterson@example.org
+PostgreSQL,dsanchez@example.org
+PostgreSQL,philip13@example.net
+PostgreSQL,dylanle@example.com
+PostgreSQL,patelbenjamin@example.com
+PostgreSQL,hjohnston@example.org
+PostgreSQL,andrew82@example.org
+PostgreSQL,zhughes@example.net
+PostgreSQL,kevin40@example.net
+PostgreSQL,ryanjoe@example.org
+PostgreSQL,kent27@example.net
+Azure,melissa42@example.org
+Azure,scott32@example.org
+Azure,tiffanykirk@example.org
+Azure,mmorgan@example.com
+Azure,fernandezmatthew@example.com
+Azure,farmertimothy@example.org
+Azure,uholland@example.org
+Azure,megan57@example.net
+Azure,tylerjones@example.org
+Azure,cwalsh@example.com
+Machine Learning,ocarter@example.com
+Machine Learning,philip17@example.com
+Machine Learning,annwillis@example.org
+Machine Learning,lewisjessica@example.org
+Machine Learning,jonesdiane@example.org
+Machine Learning,kevin40@example.net
+Machine Learning,ryanjoe@example.org
+Machine Learning,brandon58@example.com
+Machine Learning,michael93@example.com
+Machine Learning,matthewbrewer@example.org
+Machine Learning,ylong@example.com
+Python,cooperrenee@example.net
+Python,lorigill@example.com
+Python,tracypatterson@example.org
+Python,grosswhitney@example.net
+Python,sgilbert@example.com
+Python,awarner@example.net
+Python,ggriffin@example.org
+Python,wcaldwell@example.com
+Python,thomas03@example.net
+Python,hannah02@example.org
+DevOps,abhishekkumar.student1@gmail.com
